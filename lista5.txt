@@ -1,0 +1,3682 @@
+#EXTM3U
+http://pdsrv.io:25461/live/jacare/jacare/20450.m3u8
+#EXTINF:-1,Toy Story 4
+http://pdsrv.io:25461/movie/jacare/jacare/33678.mp4
+#EXTINF:-1,The Nightshifter
+http://pdsrv.io:25461/movie/jacare/jacare/33679.mp4
+#EXTINF:-1,O Rei Leão
+http://pdsrv.io:25461/movie/jacare/jacare/33658.mp4
+#EXTINF:-1,Annabelle 3 - O Regresso a Casa
+http://pdsrv.io:25461/movie/jacare/jacare/33656.mp4
+#EXTINF:-1,Malévola: Dona do Mal
+http://pdsrv.io:25461/movie/jacare/jacare/33655.mp4
+#EXTINF:-1,Rainhas do Crime 2019
+http://pdsrv.io:25461/movie/jacare/jacare/33649.mp4
+#EXTINF:-1,A Vida Secreta dos Nossos Bichos 2 2019
+http://pdsrv.io:25461/movie/jacare/jacare/33648.mp4
+#EXTINF:-1,Os 3 Infernais 2019
+http://pdsrv.io:25461/movie/jacare/jacare/33647.mp4
+#EXTINF:-1,Transformers: O Lado Oculto da Lua - 2011
+http://pdsrv.io:25461/movie/jacare/jacare/33646.mp4
+#EXTINF:-1,O Espanta Tubar
+http://pdsrv.io:25461/movie/jacare/jacare/17062.mp4
+#EXTINF:-1,Kung Fu Panda 3
+http://pdsrv.io:25461/movie/jacare/jacare/17069.mp4
+#EXTINF:-1,Spark - Uma Aventura Espacial
+http://pdsrv.io:25461/movie/jacare/jacare/17070.mp4
+#EXTINF:-1,Internet - O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/17072.mp4
+#EXTINF:-1,Street Fighter II: O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/17075.mp4
+#EXTINF:-1,THE FLASH LEGO
+http://pdsrv.io:25461/movie/jacare/jacare/17076.mp4
+#EXTINF:-1,Uma Floresta Muito Louca
+http://pdsrv.io:25461/movie/jacare/jacare/17078.mp4
+#EXTINF:-1,Toy Story 3
+http://pdsrv.io:25461/movie/jacare/jacare/17082.mp4
+#EXTINF:-1,Universidade Monstros
+http://pdsrv.io:25461/movie/jacare/jacare/17083.mp4
+#EXTINF:-1,The Star
+http://pdsrv.io:25461/movie/jacare/jacare/17085.mp4
+#EXTINF:-1,Batman Ninja
+http://pdsrv.io:25461/movie/jacare/jacare/17087.mp4
+#EXTINF:-1,As Aventuras De Ozzy
+http://pdsrv.io:25461/movie/jacare/jacare/17088.mp4
+#EXTINF:-1,Van Gogh
+http://pdsrv.io:25461/movie/jacare/jacare/17089.mp4
+#EXTINF:-1,Dragon Ball Z: O Renascimento de Freeza
+http://pdsrv.io:25461/movie/jacare/jacare/17090.mp4
+#EXTINF:-1,As Aventuras De Tadeo 2:O Segredo Do Rei
+http://pdsrv.io:25461/movie/jacare/jacare/17091.mp4
+#EXTINF:-1,Fishtronaut: The Movie
+http://pdsrv.io:25461/movie/jacare/jacare/17095.mp4
+#EXTINF:-1,A Nova Onda Do Imperador
+http://pdsrv.io:25461/movie/jacare/jacare/17096.mp4
+#EXTINF:-1,A Princesa E O Sapo
+http://pdsrv.io:25461/movie/jacare/jacare/17097.mp4
+#EXTINF:-1,Gavin Um Ratinho Corajoso
+http://pdsrv.io:25461/movie/jacare/jacare/17099.mp4
+#EXTINF:-1,Homem De Ferro A Batalha Contra Ezekiel Stane
+http://pdsrv.io:25461/movie/jacare/jacare/17100.mp4
+#EXTINF:-1,Zootrópolis
+http://pdsrv.io:25461/movie/jacare/jacare/17101.mp4
+#EXTINF:-1,Trenk O Cavaleiro Trapalhao
+http://pdsrv.io:25461/movie/jacare/jacare/17102.mp4
+#EXTINF:-1,Scooby-Doo! E O Combate Do Salsicha
+http://pdsrv.io:25461/movie/jacare/jacare/17106.mp4
+#EXTINF:-1,Minions
+http://pdsrv.io:25461/movie/jacare/jacare/17108.mp4
+#EXTINF:-1,O Reino Gelado 3
+http://pdsrv.io:25461/movie/jacare/jacare/17109.mp4
+#EXTINF:-1,Hotel Transylvania
+http://pdsrv.io:25461/movie/jacare/jacare/17110.mp4
+#EXTINF:-1,Combatentes Da Liberdade Ray
+http://pdsrv.io:25461/movie/jacare/jacare/17111.mp4
+#EXTINF:-1,A Família do Futuro (2007)
+http://pdsrv.io:25461/movie/jacare/jacare/17112.mp4
+#EXTINF:-1,A Dama E O Vagabundo
+http://pdsrv.io:25461/movie/jacare/jacare/17113.mp4
+#EXTINF:-1,Barbie And The Secret Door
+http://pdsrv.io:25461/movie/jacare/jacare/17114.mp4
+#EXTINF:-1,Detona Ralph
+http://pdsrv.io:25461/movie/jacare/jacare/17115.mp4
+#EXTINF:-1,Barbie E O Castelo De Diamante
+http://pdsrv.io:25461/movie/jacare/jacare/17116.mp4
+#EXTINF:-1,Patrulha Canina: Resgates Na Floresta
+http://pdsrv.io:25461/movie/jacare/jacare/17120.mp4
+#EXTINF:-1,Barbie: The Pearl Princess
+http://pdsrv.io:25461/movie/jacare/jacare/17121.mp4
+#EXTINF:-1,Barbie In The Pink Shoes
+http://pdsrv.io:25461/movie/jacare/jacare/17123.mp4
+#EXTINF:-1,Barbie E As Tres Mosqueteiras
+http://pdsrv.io:25461/movie/jacare/jacare/17124.mp4
+#EXTINF:-1,Barbie Aventura Nas Estrelas
+http://pdsrv.io:25461/movie/jacare/jacare/17125.mp4
+#EXTINF:-1,Mune: Guardian Of The Moon
+http://pdsrv.io:25461/movie/jacare/jacare/17127.mp4
+#EXTINF:-1,Dude, Where's My Car?
+http://pdsrv.io:25461/movie/jacare/jacare/17128.mp4
+#EXTINF:-1,Angry Birds
+http://pdsrv.io:25461/movie/jacare/jacare/17129.mp4
+#EXTINF:-1,Looney Tunes Fuga Dos Coelhos
+http://pdsrv.io:25461/movie/jacare/jacare/17130.mp4
+#EXTINF:-1,Alvin And The Chipmunks
+http://pdsrv.io:25461/movie/jacare/jacare/17132.mp4
+#EXTINF:-1,Alvin E Os Esquilos 3
+http://pdsrv.io:25461/movie/jacare/jacare/17133.mp4
+#EXTINF:-1,Barbie Um Mundo Video Game
+http://pdsrv.io:25461/movie/jacare/jacare/17134.mp4
+#EXTINF:-1,Uma Aventura No Gelo
+http://pdsrv.io:25461/movie/jacare/jacare/17135.mp4
+#EXTINF:-1,Era Do Gelo 4
+http://pdsrv.io:25461/movie/jacare/jacare/17136.mp4
+#EXTINF:-1,Era Do Gelo 2
+http://pdsrv.io:25461/movie/jacare/jacare/17138.mp4
+#EXTINF:-1,Ice Age: Dawn Of The Dinosaurs
+http://pdsrv.io:25461/movie/jacare/jacare/17139.mp4
+#EXTINF:-1,Happy Feet
+http://pdsrv.io:25461/movie/jacare/jacare/17142.mp4
+#EXTINF:-1,LEGO DC Super Hero Girls: Super-Villain High
+http://pdsrv.io:25461/movie/jacare/jacare/17144.mp4
+#EXTINF:-1,Masha E O Urso O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/17145.mp4
+#EXTINF:-1,The Man In The Moon
+http://pdsrv.io:25461/movie/jacare/jacare/17146.mp4
+#EXTINF:-1,Up
+http://pdsrv.io:25461/movie/jacare/jacare/17147.mp4
+#EXTINF:-1,Enrolados
+http://pdsrv.io:25461/movie/jacare/jacare/17149.mp4
+#EXTINF:-1,Rock Dog: No Faro do Sucesso
+http://pdsrv.io:25461/movie/jacare/jacare/17150.mp4
+#EXTINF:-1,Sing Quem Canta Seus Males Espanta
+http://pdsrv.io:25461/movie/jacare/jacare/17153.mp4
+#EXTINF:-1,O Bicho Vai Pegar 2
+http://pdsrv.io:25461/movie/jacare/jacare/17154.mp4
+#EXTINF:-1,Shrek Terceiro
+http://pdsrv.io:25461/movie/jacare/jacare/17155.mp4
+#EXTINF:-1,O Bicho Vai Pegar
+http://pdsrv.io:25461/movie/jacare/jacare/17156.mp4
+#EXTINF:-1,Shrek
+http://pdsrv.io:25461/movie/jacare/jacare/17157.mp4
+#EXTINF:-1,Shrek Forever After
+http://pdsrv.io:25461/movie/jacare/jacare/17158.mp4
+#EXTINF:-1,O Touro Ferdinando
+http://pdsrv.io:25461/movie/jacare/jacare/17160.mp4
+#EXTINF:-1,Pular a Cerca
+http://pdsrv.io:25461/movie/jacare/jacare/17162.mp4
+#EXTINF:-1,Lino: Uma Aventura De Sete Vidas
+http://pdsrv.io:25461/movie/jacare/jacare/17164.mp4
+#EXTINF:-1,O Bom Dinossauro
+http://pdsrv.io:25461/movie/jacare/jacare/17165.mp4
+#EXTINF:-1,Shopkins: Aventura Selvagem
+http://pdsrv.io:25461/movie/jacare/jacare/17166.mp4
+#EXTINF:-1,Operacao Big Hero
+http://pdsrv.io:25461/movie/jacare/jacare/17168.mp4
+#EXTINF:-1,Moana Um Mar De Aventuras
+http://pdsrv.io:25461/movie/jacare/jacare/17169.mp4
+#EXTINF:-1,O Pequeno Principe
+http://pdsrv.io:25461/movie/jacare/jacare/17171.mp4
+#EXTINF:-1,Cruzeiro Das Loucas
+http://pdsrv.io:25461/movie/jacare/jacare/17174.mp4
+#EXTINF:-1,The Spanish Golden Age
+http://pdsrv.io:25461/movie/jacare/jacare/17175.mp4
+#EXTINF:-1,Pirates Of The Caribbean: Dead Men Tell No Tales
+http://pdsrv.io:25461/movie/jacare/jacare/17176.mp4
+#EXTINF:-1,Ouro
+http://pdsrv.io:25461/movie/jacare/jacare/17178.mp4
+#EXTINF:-1,Meu Amigo Vampiro
+http://pdsrv.io:25461/movie/jacare/jacare/17179.mp4
+#EXTINF:-1,Um Acampamento Do Barulho
+http://pdsrv.io:25461/movie/jacare/jacare/17181.mp4
+#EXTINF:-1,Descendentes 2
+http://pdsrv.io:25461/movie/jacare/jacare/17183.mp4
+#EXTINF:-1,Divertida Mente
+http://pdsrv.io:25461/movie/jacare/jacare/17184.mp4
+#EXTINF:-1,Eragon
+http://pdsrv.io:25461/movie/jacare/jacare/17185.mp4
+#EXTINF:-1,O Estrangeiro
+http://pdsrv.io:25461/movie/jacare/jacare/17186.mp4
+#EXTINF:-1,Pedro Coelho
+http://pdsrv.io:25461/movie/jacare/jacare/17188.mp4
+#EXTINF:-1,Avatar
+http://pdsrv.io:25461/movie/jacare/jacare/17189.mp4
+#EXTINF:-1,Benji
+http://pdsrv.io:25461/movie/jacare/jacare/17192.mp4
+#EXTINF:-1,O Menino No Espelho
+http://pdsrv.io:25461/movie/jacare/jacare/17196.mp4
+#EXTINF:-1,O Lar Das Crian
+http://pdsrv.io:25461/movie/jacare/jacare/17198.mp4
+#EXTINF:-1,Filhos Da Esperan
+http://pdsrv.io:25461/movie/jacare/jacare/17199.mp4
+#EXTINF:-1,The Smile Of The Fox
+http://pdsrv.io:25461/movie/jacare/jacare/17200.mp4
+#EXTINF:-1,O Reino Proibido
+http://pdsrv.io:25461/movie/jacare/jacare/17202.mp4
+#EXTINF:-1,Piratas Do Caribe Navegando Em Aguas Misteriosas
+http://pdsrv.io:25461/movie/jacare/jacare/17203.mp4
+#EXTINF:-1,Z A Cidade Perdida
+http://pdsrv.io:25461/movie/jacare/jacare/17204.mp4
+#EXTINF:-1,Valerian E A Cidade Dos Mil Planetas
+http://pdsrv.io:25461/movie/jacare/jacare/17206.mp4
+#EXTINF:-1,Labirinto A Magia Do Tempo
+http://pdsrv.io:25461/movie/jacare/jacare/17207.mp4
+#EXTINF:-1,Paralisia
+http://pdsrv.io:25461/movie/jacare/jacare/17208.mp4
+#EXTINF:-1,JKA Japan Karate Association 21 Shotokan Karate Kata
+http://pdsrv.io:25461/movie/jacare/jacare/17209.mp4
+#EXTINF:-1,O Aprendiz De Feiticeiro
+http://pdsrv.io:25461/movie/jacare/jacare/17210.mp4
+#EXTINF:-1,Z-O-M-B-I-E-S
+http://pdsrv.io:25461/movie/jacare/jacare/17211.mp4
+#EXTINF:-1,O Bom Gigante Amigo
+http://pdsrv.io:25461/movie/jacare/jacare/17212.mp4
+#EXTINF:-1,Alice In Wonderland
+http://pdsrv.io:25461/movie/jacare/jacare/17214.mp4
+#EXTINF:-1,How To Train Your Dragon: The Hidden World
+http://pdsrv.io:25461/movie/jacare/jacare/17215.mp4
+#EXTINF:-1,Kubo And The Two Strings
+http://pdsrv.io:25461/movie/jacare/jacare/17216.mp4
+#EXTINF:-1,Tesouros Da Vida
+http://pdsrv.io:25461/movie/jacare/jacare/17217.mp4
+#EXTINF:-1,Resident Evil: A Vingança (DUB 2017)
+http://pdsrv.io:25461/movie/jacare/jacare/17219.mp4
+#EXTINF:-1,A Fuga Do Planeta Terra
+http://pdsrv.io:25461/movie/jacare/jacare/17220.mp4
+#EXTINF:-1,Alice Through The Looking Glass
+http://pdsrv.io:25461/movie/jacare/jacare/17221.mp4
+#EXTINF:-1,O Dia Depois De Amanha
+http://pdsrv.io:25461/movie/jacare/jacare/17223.mp4
+#EXTINF:-1,Pilgrimage
+http://pdsrv.io:25461/movie/jacare/jacare/17224.mp4
+#EXTINF:-1,Deuses Do Egito
+http://pdsrv.io:25461/movie/jacare/jacare/17225.mp4
+#EXTINF:-1,Turbo Kid
+http://pdsrv.io:25461/movie/jacare/jacare/17226.mp4
+#EXTINF:-1,Grave Encounters
+http://pdsrv.io:25461/movie/jacare/jacare/17227.mp4
+#EXTINF:-1,Jumanji: Bem Vindo A Selva
+http://pdsrv.io:25461/movie/jacare/jacare/17228.mp4
+#EXTINF:-1,Madrugada Muito Louca 2
+http://pdsrv.io:25461/movie/jacare/jacare/17229.mp4
+#EXTINF:-1,Rampage
+http://pdsrv.io:25461/movie/jacare/jacare/17230.mp4
+#EXTINF:-1,Cinderela
+http://pdsrv.io:25461/movie/jacare/jacare/17231.mp4
+#EXTINF:-1,Andorinhas E Amazonas
+http://pdsrv.io:25461/movie/jacare/jacare/17232.mp4
+#EXTINF:-1,O Hobbit: Uma Jornada Inesperada
+http://pdsrv.io:25461/movie/jacare/jacare/17233.mp4
+#EXTINF:-1,Rei Arthur A Lenda Da Espada
+http://pdsrv.io:25461/movie/jacare/jacare/17234.mp4
+#EXTINF:-1,It's For Your Own Good
+http://pdsrv.io:25461/movie/jacare/jacare/17235.mp4
+#EXTINF:-1,Kung Fu Yoga
+http://pdsrv.io:25461/movie/jacare/jacare/17236.mp4
+#EXTINF:-1,Office Space
+http://pdsrv.io:25461/movie/jacare/jacare/17237.mp4
+#EXTINF:-1,Coco
+http://pdsrv.io:25461/movie/jacare/jacare/17239.mp4
+#EXTINF:-1,Bons De Bico
+http://pdsrv.io:25461/movie/jacare/jacare/17240.mp4
+#EXTINF:-1,Barbie: Dolphin Magic
+http://pdsrv.io:25461/movie/jacare/jacare/17241.mp4
+#EXTINF:-1,Um Conto De Sereia
+http://pdsrv.io:25461/movie/jacare/jacare/17243.mp4
+#EXTINF:-1,Hey Arnold! The Movie
+http://pdsrv.io:25461/movie/jacare/jacare/17244.mp4
+#EXTINF:-1,Nem Que A Vaca Tussa
+http://pdsrv.io:25461/movie/jacare/jacare/17246.mp4
+#EXTINF:-1,Twilight
+http://pdsrv.io:25461/movie/jacare/jacare/17247.mp4
+#EXTINF:-1,Return From Witch Mountain
+http://pdsrv.io:25461/movie/jacare/jacare/17249.mp4
+#EXTINF:-1,Inventing The Abbotts
+http://pdsrv.io:25461/movie/jacare/jacare/17250.mp4
+#EXTINF:-1,The Mountain Between Us
+http://pdsrv.io:25461/movie/jacare/jacare/17251.mp4
+#EXTINF:-1,Viagem 2 - A Ilha Misteriosa
+http://pdsrv.io:25461/movie/jacare/jacare/17253.mp4
+#EXTINF:-1,Viagem ao Centro da Terra
+http://pdsrv.io:25461/movie/jacare/jacare/17254.mp4
+#EXTINF:-1,30 Minutes Or Less
+http://pdsrv.io:25461/movie/jacare/jacare/17255.mp4
+#EXTINF:-1,As Quatro Irmãs
+http://pdsrv.io:25461/movie/jacare/jacare/17256.mp4
+#EXTINF:-1,O Ursinho Pooh
+http://pdsrv.io:25461/movie/jacare/jacare/17257.mp4
+#EXTINF:-1,As Aventuras De SharkBoy E LavaGirl
+http://pdsrv.io:25461/movie/jacare/jacare/17258.mp4
+#EXTINF:-1,Interestelar
+http://pdsrv.io:25461/movie/jacare/jacare/17259.mp4
+#EXTINF:-1,Bloodline
+http://pdsrv.io:25461/movie/jacare/jacare/17260.mp4
+#EXTINF:-1,High School Musical 3
+http://pdsrv.io:25461/movie/jacare/jacare/17318.mp4
+#EXTINF:-1,Santo Time
+http://pdsrv.io:25461/movie/jacare/jacare/17319.mp4
+#EXTINF:-1,O Maskara
+http://pdsrv.io:25461/movie/jacare/jacare/17320.mp4
+#EXTINF:-1,High School Musical 2
+http://pdsrv.io:25461/movie/jacare/jacare/17321.mp4
+#EXTINF:-1,Ted 2
+http://pdsrv.io:25461/movie/jacare/jacare/17324.mp4
+#EXTINF:-1,Policial Em Apuros 2
+http://pdsrv.io:25461/movie/jacare/jacare/17326.mp4
+#EXTINF:-1,Keanu
+http://pdsrv.io:25461/movie/jacare/jacare/17327.mp4
+#EXTINF:-1,Qualquer Gato Vira Lata 2
+http://pdsrv.io:25461/movie/jacare/jacare/17328.mp4
+#EXTINF:-1,Os Normais 2 A Noite Mais Maluca De Todas
+http://pdsrv.io:25461/movie/jacare/jacare/17329.mp4
+#EXTINF:-1,O Bom Filho A Casa Torna
+http://pdsrv.io:25461/movie/jacare/jacare/17330.mp4
+#EXTINF:-1,A MENINA DO CHALÉ
+http://pdsrv.io:25461/movie/jacare/jacare/17331.mp4
+#EXTINF:-1,Vizinhos Nada Secretos
+http://pdsrv.io:25461/movie/jacare/jacare/17332.mp4
+#EXTINF:-1,O Ditador
+http://pdsrv.io:25461/movie/jacare/jacare/17333.mp4
+#EXTINF:-1,Eu Mesmo & Irene
+http://pdsrv.io:25461/movie/jacare/jacare/17336.mp4
+#EXTINF:-1,High School Musical
+http://pdsrv.io:25461/movie/jacare/jacare/17337.mp4
+#EXTINF:-1,Fright Night Part 2
+http://pdsrv.io:25461/movie/jacare/jacare/17338.mp4
+#EXTINF:-1,A Inveja Mata
+http://pdsrv.io:25461/movie/jacare/jacare/17339.mp4
+#EXTINF:-1,IDADE DA PEDRA
+http://pdsrv.io:25461/movie/jacare/jacare/17341.mp4
+#EXTINF:-1,Amor A Toda Prova
+http://pdsrv.io:25461/movie/jacare/jacare/17343.mp4
+#EXTINF:-1,Addiction - When Nothing Is Enough
+http://pdsrv.io:25461/movie/jacare/jacare/17346.mp4
+#EXTINF:-1,Ela E Demais Para Mim
+http://pdsrv.io:25461/movie/jacare/jacare/17347.mp4
+#EXTINF:-1,I Still Adore You
+http://pdsrv.io:25461/movie/jacare/jacare/17348.mp4
+#EXTINF:-1,Fala Sério, Mãe!
+http://pdsrv.io:25461/movie/jacare/jacare/17349.mp4
+#EXTINF:-1,Click
+http://pdsrv.io:25461/movie/jacare/jacare/17350.mp4
+#EXTINF:-1,CHiPS
+http://pdsrv.io:25461/movie/jacare/jacare/17351.mp4
+#EXTINF:-1,Bingo - O Rei das Manhãs
+http://pdsrv.io:25461/movie/jacare/jacare/17353.mp4
+#EXTINF:-1,Baywatch
+http://pdsrv.io:25461/movie/jacare/jacare/17354.mp4
+#EXTINF:-1,Como Se Tornar O Pior Aluno Da Escola
+http://pdsrv.io:25461/movie/jacare/jacare/17355.mp4
+#EXTINF:-1,Boo 2! O Halloween de Madea
+http://pdsrv.io:25461/movie/jacare/jacare/17356.mp4
+#EXTINF:-1,A Estrada Interior
+http://pdsrv.io:25461/movie/jacare/jacare/17357.mp4
+#EXTINF:-1,Correndo Atras De Um Pai
+http://pdsrv.io:25461/movie/jacare/jacare/17358.mp4
+#EXTINF:-1,Especialista Em Crise
+http://pdsrv.io:25461/movie/jacare/jacare/17359.mp4
+#EXTINF:-1,Le Plus Beau Métier Du Monde
+http://pdsrv.io:25461/movie/jacare/jacare/17360.mp4
+#EXTINF:-1,Doze é Demais
+http://pdsrv.io:25461/movie/jacare/jacare/17361.mp4
+#EXTINF:-1,ELSA E FRED
+http://pdsrv.io:25461/movie/jacare/jacare/17362.mp4
+#EXTINF:-1,Camp Rock
+http://pdsrv.io:25461/movie/jacare/jacare/17363.mp4
+#EXTINF:-1,Camp Rock 2
+http://pdsrv.io:25461/movie/jacare/jacare/17364.mp4
+#EXTINF:-1,Marido E Mulher
+http://pdsrv.io:25461/movie/jacare/jacare/17366.mp4
+#EXTINF:-1,Deus E Bin Laden
+http://pdsrv.io:25461/movie/jacare/jacare/17367.mp4
+#EXTINF:-1,Meia Noite Em Paris
+http://pdsrv.io:25461/movie/jacare/jacare/17368.mp4
+#EXTINF:-1,DOIS CARAS LEGAIS
+http://pdsrv.io:25461/movie/jacare/jacare/17370.mp4
+#EXTINF:-1,Dumb And Dumberer: When Harry Met Lloyd
+http://pdsrv.io:25461/movie/jacare/jacare/17371.mp4
+#EXTINF:-1,Semana Do Panico
+http://pdsrv.io:25461/movie/jacare/jacare/17372.mp4
+#EXTINF:-1,O Virgem De 40 Anos
+http://pdsrv.io:25461/movie/jacare/jacare/17374.mp4
+#EXTINF:-1,21 Jump Street
+http://pdsrv.io:25461/movie/jacare/jacare/17377.mp4
+#EXTINF:-1,Gente Grande 2
+http://pdsrv.io:25461/movie/jacare/jacare/17378.mp4
+#EXTINF:-1,After The Ball
+http://pdsrv.io:25461/movie/jacare/jacare/17379.mp4
+#EXTINF:-1,Mundo Ordin
+http://pdsrv.io:25461/movie/jacare/jacare/17380.mp4
+#EXTINF:-1,Gente Grande
+http://pdsrv.io:25461/movie/jacare/jacare/17381.mp4
+#EXTINF:-1,Acertando O Passo
+http://pdsrv.io:25461/movie/jacare/jacare/17382.mp4
+#EXTINF:-1,Sexy Por Acidente
+http://pdsrv.io:25461/movie/jacare/jacare/17383.mp4
+#EXTINF:-1,Anjos Da Lei 2
+http://pdsrv.io:25461/movie/jacare/jacare/17384.mp4
+#EXTINF:-1,Uma Noite Fora De Serie
+http://pdsrv.io:25461/movie/jacare/jacare/17385.mp4
+#EXTINF:-1,Minha Vida De Abobrinha
+http://pdsrv.io:25461/movie/jacare/jacare/17387.mp4
+#EXTINF:-1,Ninguém Entra, Ninguém Sai
+http://pdsrv.io:25461/movie/jacare/jacare/17388.mp4
+#EXTINF:-1,O Bar
+http://pdsrv.io:25461/movie/jacare/jacare/17389.mp4
+#EXTINF:-1,Passe Livre
+http://pdsrv.io:25461/movie/jacare/jacare/17391.mp4
+#EXTINF:-1,Entrando Numa Fria Maior Ainda Com A Fam
+http://pdsrv.io:25461/movie/jacare/jacare/17392.mp4
+#EXTINF:-1,THE HOUSE
+http://pdsrv.io:25461/movie/jacare/jacare/17393.mp4
+#EXTINF:-1,O Chamado De Xangai
+http://pdsrv.io:25461/movie/jacare/jacare/17394.mp4
+#EXTINF:-1,Te Peguei!
+http://pdsrv.io:25461/movie/jacare/jacare/17395.mp4
+#EXTINF:-1,Tio Drew
+http://pdsrv.io:25461/movie/jacare/jacare/17396.mp4
+#EXTINF:-1,Os Parças
+http://pdsrv.io:25461/movie/jacare/jacare/17397.mp4
+#EXTINF:-1,Trabalho Sujo
+http://pdsrv.io:25461/movie/jacare/jacare/17398.mp4
+#EXTINF:-1,Despido Procedente
+http://pdsrv.io:25461/movie/jacare/jacare/17399.mp4
+#EXTINF:-1,T2 Trainspotting
+http://pdsrv.io:25461/movie/jacare/jacare/17402.mp4
+#EXTINF:-1,Pai Em Dose Dupla 2
+http://pdsrv.io:25461/movie/jacare/jacare/17403.mp4
+#EXTINF:-1,Mato Sem Cachorro
+http://pdsrv.io:25461/movie/jacare/jacare/17404.mp4
+#EXTINF:-1,Te Pego Na Saida
+http://pdsrv.io:25461/movie/jacare/jacare/17405.mp4
+#EXTINF:-1,12 Rounds
+http://pdsrv.io:25461/movie/jacare/jacare/19293.mp4
+#EXTINF:-1,A Lenda Do Zorro
+http://pdsrv.io:25461/movie/jacare/jacare/19295.mkv
+#EXTINF:-1,A Múmia - Tumba Do Imperador Dragão
+http://pdsrv.io:25461/movie/jacare/jacare/19296.mkv
+#EXTINF:-1,Anjos Da Vida - Mais Bravos Que O Mar
+http://pdsrv.io:25461/movie/jacare/jacare/19298.mkv
+#EXTINF:-1,Mechanic: Resurrection
+http://pdsrv.io:25461/movie/jacare/jacare/19299.mkv
+#EXTINF:-1,Kill Switch
+http://pdsrv.io:25461/movie/jacare/jacare/19300.mkv
+#EXTINF:-1,Batman - O Cavaleiro Das Trevas Ressurge
+http://pdsrv.io:25461/movie/jacare/jacare/19301.mp4
+#EXTINF:-1,Batman Begins
+http://pdsrv.io:25461/movie/jacare/jacare/19302.mkv
+#EXTINF:-1,Batman Vs Duas Caras
+http://pdsrv.io:25461/movie/jacare/jacare/19303.mkv
+#EXTINF:-1,Bem Vindo A Selva
+http://pdsrv.io:25461/movie/jacare/jacare/19304.mkv
+#EXTINF:-1,Eu, Robo
+http://pdsrv.io:25461/movie/jacare/jacare/19307.mkv
+#EXTINF:-1,Gladiador Versao Estendida Remasterizada
+http://pdsrv.io:25461/movie/jacare/jacare/19308.mkv
+#EXTINF:-1,Gringo Vivo Ou Morto
+http://pdsrv.io:25461/movie/jacare/jacare/19309.mkv
+#EXTINF:-1,Guardioes Da Galaxia
+http://pdsrv.io:25461/movie/jacare/jacare/19310.mkv
+#EXTINF:-1,Harbinger Down Terror No Gelo
+http://pdsrv.io:25461/movie/jacare/jacare/19311.mkv
+#EXTINF:-1,Harry Brown
+http://pdsrv.io:25461/movie/jacare/jacare/19312.mp4
+#EXTINF:-1,Homem-Aranha 2
+http://pdsrv.io:25461/movie/jacare/jacare/19314.mkv
+#EXTINF:-1,Homem-Aranha 3
+http://pdsrv.io:25461/movie/jacare/jacare/19315.mkv
+#EXTINF:-1,Homem-Aranha
+http://pdsrv.io:25461/movie/jacare/jacare/19316.mkv
+#EXTINF:-1,Ready Player One - Jogador 1
+http://pdsrv.io:25461/movie/jacare/jacare/19317.mp4
+#EXTINF:-1,Jumanji Bem Vindo à Selva
+http://pdsrv.io:25461/movie/jacare/jacare/19318.mkv
+#EXTINF:-1,Jumper
+http://pdsrv.io:25461/movie/jacare/jacare/19319.mkv
+#EXTINF:-1,K A I D C CANAL GOD OF FILMES
+http://pdsrv.io:25461/movie/jacare/jacare/19320.mkv
+#EXTINF:-1,Kick-Ass Quebrando Tudo
+http://pdsrv.io:25461/movie/jacare/jacare/19321.mp4
+#EXTINF:-1,Kickboxer Vingança
+http://pdsrv.io:25461/movie/jacare/jacare/19322.mkv
+#EXTINF:-1,King Kong 
+http://pdsrv.io:25461/movie/jacare/jacare/19323.mkv
+#EXTINF:-1,L GOD OF FILMES
+http://pdsrv.io:25461/movie/jacare/jacare/19324.mkv
+#EXTINF:-1,Missao Impossivel Protocolo Fantasma
+http://pdsrv.io:25461/movie/jacare/jacare/19325.mkv
+#EXTINF:-1,Naufrago
+http://pdsrv.io:25461/movie/jacare/jacare/19326.mp4
+#EXTINF:-1,O Protetor
+http://pdsrv.io:25461/movie/jacare/jacare/19327.mkv
+#EXTINF:-1,O Retorno Da Mumia
+http://pdsrv.io:25461/movie/jacare/jacare/19328.mkv
+#EXTINF:-1,O Ultimo Sharknado - Ja Estava Na Hora 
+http://pdsrv.io:25461/movie/jacare/jacare/19330.mkv
+#EXTINF:-1,O B G A CANAL GOD OF FILMES
+http://pdsrv.io:25461/movie/jacare/jacare/19331.mkv
+#EXTINF:-1,Oceans Eight
+http://pdsrv.io:25461/movie/jacare/jacare/19332.mp4
+#EXTINF:-1,Piratas Do Caribe A Maldicao Do Perola Negra
+http://pdsrv.io:25461/movie/jacare/jacare/19333.mkv
+#EXTINF:-1,Quarteto Fantastico E O Surfista Pratead
+http://pdsrv.io:25461/movie/jacare/jacare/19335.mkv
+#EXTINF:-1,Rede De Mentiras
+http://pdsrv.io:25461/movie/jacare/jacare/19336.mkv
+#EXTINF:-1,Ruas Sangrentas Acerto Final
+http://pdsrv.io:25461/movie/jacare/jacare/19337.mkv
+#EXTINF:-1,S M D D M N CANAL GOD OF FILMES
+http://pdsrv.io:25461/movie/jacare/jacare/19338.mkv
+#EXTINF:-1,Scott Pilgrim Contra O Mundo
+http://pdsrv.io:25461/movie/jacare/jacare/19339.mkv
+#EXTINF:-1,Segundo Em Comando
+http://pdsrv.io:25461/movie/jacare/jacare/19340.mkv
+#EXTINF:-1,Show Dogs
+http://pdsrv.io:25461/movie/jacare/jacare/19341.mkv
+#EXTINF:-1,Sr E Sra Smith
+http://pdsrv.io:25461/movie/jacare/jacare/19342.mkv
+#EXTINF:-1,Transformers O Ultimo Cavaleiro
+http://pdsrv.io:25461/movie/jacare/jacare/19343.mkv
+#EXTINF:-1,Triplo X
+http://pdsrv.io:25461/movie/jacare/jacare/19344.mkv
+#EXTINF:-1,Tropa De Elite 2 - O Inimigo Agora E Outro
+http://pdsrv.io:25461/movie/jacare/jacare/19345.mkv
+#EXTINF:-1,Tropas Estelares 3
+http://pdsrv.io:25461/movie/jacare/jacare/19346.mkv
+#EXTINF:-1,Tropas Estelares Invasores De Marte 
+http://pdsrv.io:25461/movie/jacare/jacare/19347.mkv
+#EXTINF:-1,Tropas Estelares
+http://pdsrv.io:25461/movie/jacare/jacare/19348.mkv
+#EXTINF:-1,Tropas Estelares 2
+http://pdsrv.io:25461/movie/jacare/jacare/19349.mp4
+#EXTINF:-1,Vingança
+http://pdsrv.io:25461/movie/jacare/jacare/19354.mkv
+#EXTINF:-1,Wolverine Imortal 
+http://pdsrv.io:25461/movie/jacare/jacare/19355.mkv
+#EXTINF:-1,X-Men - Dias De Futuro Esquecido
+http://pdsrv.io:25461/movie/jacare/jacare/19356.mkv
+#EXTINF:-1,X-Men - O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/19357.mkv
+#EXTINF:-1,Tangled: Before Ever After
+http://pdsrv.io:25461/movie/jacare/jacare/19396.mkv
+#EXTINF:-1,A Cancao Do Sul
+http://pdsrv.io:25461/movie/jacare/jacare/19397.mkv
+#EXTINF:-1,A Era Do Gelo
+http://pdsrv.io:25461/movie/jacare/jacare/19399.mkv
+#EXTINF:-1,A Morte Do Superman
+http://pdsrv.io:25461/movie/jacare/jacare/19401.mkv
+#EXTINF:-1,Anastasia
+http://pdsrv.io:25461/movie/jacare/jacare/19402.mkv
+#EXTINF:-1,Apenas Um Show O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/19403.mkv
+#EXTINF:-1,Arthur 3 A Guerra Dos Dois Mundos
+http://pdsrv.io:25461/movie/jacare/jacare/19404.mkv
+#EXTINF:-1,Arthur E A Vinganca Dos Maltazards
+http://pdsrv.io:25461/movie/jacare/jacare/19405.mkv
+#EXTINF:-1,Arthur E Os Minimoys
+http://pdsrv.io:25461/movie/jacare/jacare/19406.mkv
+#EXTINF:-1,As Meninas Superpoderosas O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/19407.mkv
+#EXTINF:-1,Astérix E O Domínio Dos Deuses
+http://pdsrv.io:25461/movie/jacare/jacare/19408.mkv
+#EXTINF:-1,Bambi
+http://pdsrv.io:25461/movie/jacare/jacare/19410.mp4
+#EXTINF:-1,Barbie Escola De Princesas
+http://pdsrv.io:25461/movie/jacare/jacare/19411.mkv
+#EXTINF:-1,Barbie Um Natal Perfeito
+http://pdsrv.io:25461/movie/jacare/jacare/19412.mkv
+#EXTINF:-1,Big Pai, Big Filho (2017)
+http://pdsrv.io:25461/movie/jacare/jacare/19413.mkv
+#EXTINF:-1,Bob Esponja Aventuras Vikings
+http://pdsrv.io:25461/movie/jacare/jacare/19414.mkv
+#EXTINF:-1,Bob Esponja Ea Excursao Fora De Controle
+http://pdsrv.io:25461/movie/jacare/jacare/19415.mkv
+#EXTINF:-1,Carros 2
+http://pdsrv.io:25461/movie/jacare/jacare/19419.mkv
+#EXTINF:-1,Carros
+http://pdsrv.io:25461/movie/jacare/jacare/19420.mkv
+#EXTINF:-1,Cassiopeia Nacional
+http://pdsrv.io:25461/movie/jacare/jacare/19421.mkv
+#EXTINF:-1,Como Treinar Seu Dragao
+http://pdsrv.io:25461/movie/jacare/jacare/19422.mp4
+#EXTINF:-1,Constantine Cidade De Demonios
+http://pdsrv.io:25461/movie/jacare/jacare/19423.mkv
+#EXTINF:-1,DANDANPLAY
+http://pdsrv.io:25461/movie/jacare/jacare/19424.mkv
+#EXTINF:-1,Deu A Louca Na Branca De Neve
+http://pdsrv.io:25461/movie/jacare/jacare/19425.mkv
+#EXTINF:-1,Digimon O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/19426.mkv
+#EXTINF:-1,E Natal Outra Vez
+http://pdsrv.io:25461/movie/jacare/jacare/19429.mkv
+#EXTINF:-1,Emoji: O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/19430.mp4
+#EXTINF:-1,Epa Cade O Noe
+http://pdsrv.io:25461/movie/jacare/jacare/19431.mkv
+#EXTINF:-1,Garotos Em Guerra
+http://pdsrv.io:25461/movie/jacare/jacare/19432.mkv
+#EXTINF:-1,George O Curioso Um Natal Cheio De Macacadas
+http://pdsrv.io:25461/movie/jacare/jacare/19433.mkv
+#EXTINF:-1,George O Curioso 2 Siga Aquele Macaco
+http://pdsrv.io:25461/movie/jacare/jacare/19434.mkv
+#EXTINF:-1,Happy Feet O Pinguim
+http://pdsrv.io:25461/movie/jacare/jacare/19435.mkv
+#EXTINF:-1,Hotel Transilvânia 2
+http://pdsrv.io:25461/movie/jacare/jacare/19437.mkv
+#EXTINF:-1,Ilha De Cachorros
+http://pdsrv.io:25461/movie/jacare/jacare/19439.mkv
+#EXTINF:-1,Kingslave Final Fantasy 15
+http://pdsrv.io:25461/movie/jacare/jacare/19440.mkv
+#EXTINF:-1,Kiriku Os Animais Selvagens
+http://pdsrv.io:25461/movie/jacare/jacare/19441.mkv
+#EXTINF:-1,LEGO DC Comics Super Herois Aquaman A Furia De Atlantida
+http://pdsrv.io:25461/movie/jacare/jacare/19442.mkv
+#EXTINF:-1,MULHER MARAVILHA REDENÇÃ
+http://pdsrv.io:25461/movie/jacare/jacare/19443.mkv
+#EXTINF:-1,Madagascar 
+http://pdsrv.io:25461/movie/jacare/jacare/19444.mkv
+#EXTINF:-1,Meu Malvado Favorito 2
+http://pdsrv.io:25461/movie/jacare/jacare/19446.mkv
+#EXTINF:-1,Meu Malvado Favorito
+http://pdsrv.io:25461/movie/jacare/jacare/19447.mkv
+#EXTINF:-1,Monstros S A
+http://pdsrv.io:25461/movie/jacare/jacare/19448.mkv
+#EXTINF:-1,Next Gen 
+http://pdsrv.io:25461/movie/jacare/jacare/19449.mkv
+#EXTINF:-1,O Bicho Vai Pegar 1
+http://pdsrv.io:25461/movie/jacare/jacare/19450.mkv
+#EXTINF:-1,O Espanta Tubaroes
+http://pdsrv.io:25461/movie/jacare/jacare/19452.mp4
+#EXTINF:-1,O Filho Do Batman
+http://pdsrv.io:25461/movie/jacare/jacare/19453.mkv
+#EXTINF:-1,O Homem Das Cavernas
+http://pdsrv.io:25461/movie/jacare/jacare/19454.mkv
+#EXTINF:-1,O Invencivel Homem De Ferro
+http://pdsrv.io:25461/movie/jacare/jacare/19455.mkv
+#EXTINF:-1,O Peixe Grande E Begonia
+http://pdsrv.io:25461/movie/jacare/jacare/19456.mkv
+#EXTINF:-1,Os Simpsons O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/19457.mkv
+#EXTINF:-1,Ploey Voce Nunca Voara Sozinho
+http://pdsrv.io:25461/movie/jacare/jacare/19458.mkv
+#EXTINF:-1,Pocahontas
+http://pdsrv.io:25461/movie/jacare/jacare/19459.mkv
+#EXTINF:-1,Pokemon 4 Viajantes Do Tempo
+http://pdsrv.io:25461/movie/jacare/jacare/19460.mkv
+#EXTINF:-1,Pokemon O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/19461.mkv
+#EXTINF:-1,Pokemon O Filme Mewtwo Contra-Ataca
+http://pdsrv.io:25461/movie/jacare/jacare/19462.mkv
+#EXTINF:-1,Finding Nemo
+http://pdsrv.io:25461/movie/jacare/jacare/19463.mkv
+#EXTINF:-1,Resident Evil: Damnation
+http://pdsrv.io:25461/movie/jacare/jacare/19464.mkv
+#EXTINF:-1,Scooby-Doo A Mascara Do Falcao Azul
+http://pdsrv.io:25461/movie/jacare/jacare/19468.mkv
+#EXTINF:-1,Scooby-Doo E O Combate Do Salsicha
+http://pdsrv.io:25461/movie/jacare/jacare/19469.mkv
+#EXTINF:-1,Shopkins Aventura Selvagem
+http://pdsrv.io:25461/movie/jacare/jacare/19475.mkv
+#EXTINF:-1,DC Super Hero Girls: Legends Of Atlantis
+http://pdsrv.io:25461/movie/jacare/jacare/19478.mkv
+#EXTINF:-1,Tom And Jerry Meet Sherlock Holmes
+http://pdsrv.io:25461/movie/jacare/jacare/19479.mkv
+#EXTINF:-1,Tá Dando Onda
+http://pdsrv.io:25461/movie/jacare/jacare/19481.mkv
+#EXTINF:-1,Um Time Show De Bola
+http://pdsrv.io:25461/movie/jacare/jacare/19482.mkv
+#EXTINF:-1,Vida De Inseto
+http://pdsrv.io:25461/movie/jacare/jacare/19483.mkv
+#EXTINF:-1,Winx Club O Segredo Do Reino Perdido
+http://pdsrv.io:25461/movie/jacare/jacare/19484.mkv
+#EXTINF:-1,Zootopia
+http://pdsrv.io:25461/movie/jacare/jacare/19485.mkv
+#EXTINF:-1,A Morte Do Super
+http://pdsrv.io:25461/movie/jacare/jacare/19486.mkv
+#EXTINF:-1,A Viagem De Chihiro
+http://pdsrv.io:25461/movie/jacare/jacare/19487.mkv
+#EXTINF:-1,BATMAN CONTRA O CAPUZ VERMELHO
+http://pdsrv.io:25461/movie/jacare/jacare/19488.mkv
+#EXTINF:-1,Carros 3
+http://pdsrv.io:25461/movie/jacare/jacare/19489.mp4
+#EXTINF:-1,Death Note
+http://pdsrv.io:25461/movie/jacare/jacare/19490.mkv
+#EXTINF:-1,A Marca Negra
+http://pdsrv.io:25461/movie/jacare/jacare/19493.mp4
+#EXTINF:-1,AMOR E ODIO
+http://pdsrv.io:25461/movie/jacare/jacare/19494.mp4
+#EXTINF:-1,Apostolo
+http://pdsrv.io:25461/movie/jacare/jacare/19495.mp4
+#EXTINF:-1,Atraca Perigosa
+http://pdsrv.io:25461/movie/jacare/jacare/19496.mp4
+#EXTINF:-1,Bad Match
+http://pdsrv.io:25461/movie/jacare/jacare/19497.mp4
+#EXTINF:-1,Cargo
+http://pdsrv.io:25461/movie/jacare/jacare/19498.mp4
+#EXTINF:-1,Contra A Parede
+http://pdsrv.io:25461/movie/jacare/jacare/19499.mkv
+#EXTINF:-1,Dia De Treinamento
+http://pdsrv.io:25461/movie/jacare/jacare/19500.mp4
+#EXTINF:-1,Distúrbio
+http://pdsrv.io:25461/movie/jacare/jacare/19501.mp4
+#EXTINF:-1,Luna-Em Busca Da Verdade
+http://pdsrv.io:25461/movie/jacare/jacare/19502.mp4
+#EXTINF:-1,MEDO PROFUNDO
+http://pdsrv.io:25461/movie/jacare/jacare/19503.mp4
+#EXTINF:-1,Mar Negro
+http://pdsrv.io:25461/movie/jacare/jacare/19504.mp4
+#EXTINF:-1,Oito Mulheres E Um Segredo
+http://pdsrv.io:25461/movie/jacare/jacare/19505.mp4
+#EXTINF:-1,Os Piratas Da Somalia
+http://pdsrv.io:25461/movie/jacare/jacare/19506.mp4
+#EXTINF:-1,Paixao
+http://pdsrv.io:25461/movie/jacare/jacare/19507.mp4
+#EXTINF:-1,Paranóia
+http://pdsrv.io:25461/movie/jacare/jacare/19508.mp4
+#EXTINF:-1,TERRA SELVAGEM
+http://pdsrv.io:25461/movie/jacare/jacare/19509.mp4
+#EXTINF:-1,The Angel
+http://pdsrv.io:25461/movie/jacare/jacare/19510.mp4
+#EXTINF:-1,Tráfico De Mulheres 2
+http://pdsrv.io:25461/movie/jacare/jacare/19511.mp4
+#EXTINF:-1,Aeon Flux
+http://pdsrv.io:25461/movie/jacare/jacare/19517.mp4
+#EXTINF:-1,O Nome Do Jogo
+http://pdsrv.io:25461/movie/jacare/jacare/19630.mkv
+#EXTINF:-1,Wasabi
+http://pdsrv.io:25461/movie/jacare/jacare/19631.mkv
+#EXTINF:-1,Vou Te Pegar Otario
+http://pdsrv.io:25461/movie/jacare/jacare/19632.mkv
+#EXTINF:-1,Viciado Em Sexo
+http://pdsrv.io:25461/movie/jacare/jacare/19633.mkv
+#EXTINF:-1,Tempos De Violencia
+http://pdsrv.io:25461/movie/jacare/jacare/19634.mkv
+#EXTINF:-1,Soldado Universal 3 - Regeneracao
+http://pdsrv.io:25461/movie/jacare/jacare/19635.mkv
+#EXTINF:-1,Ruslan - Vinganca Explosiva
+http://pdsrv.io:25461/movie/jacare/jacare/19636.mkv
+#EXTINF:-1,Rocky Balboa
+http://pdsrv.io:25461/movie/jacare/jacare/19637.mkv
+#EXTINF:-1,RoboCop 2
+http://pdsrv.io:25461/movie/jacare/jacare/19638.mkv
+#EXTINF:-1,Risco Absoluto
+http://pdsrv.io:25461/movie/jacare/jacare/19639.mkv
+#EXTINF:-1,Red - Aposentados E Perigosos
+http://pdsrv.io:25461/movie/jacare/jacare/19640.mkv
+#EXTINF:-1,Os Reis De Dogtown
+http://pdsrv.io:25461/movie/jacare/jacare/19641.mkv
+#EXTINF:-1,O Senhor Das Armas
+http://pdsrv.io:25461/movie/jacare/jacare/19642.mkv
+#EXTINF:-1,O Legionario
+http://pdsrv.io:25461/movie/jacare/jacare/19643.mkv
+#EXTINF:-1,O Guardiao 3 - A Maldicao Do Calice De Judas
+http://pdsrv.io:25461/movie/jacare/jacare/19644.mkv
+#EXTINF:-1,O Guardiao - 2 Retorno As Minas Do Rei Salomao
+http://pdsrv.io:25461/movie/jacare/jacare/19645.mkv
+#EXTINF:-1,O Guardião
+http://pdsrv.io:25461/movie/jacare/jacare/19646.mkv
+#EXTINF:-1,O Grande Anjo Negro
+http://pdsrv.io:25461/movie/jacare/jacare/19647.mkv
+#EXTINF:-1,O Colecionador De Ossos
+http://pdsrv.io:25461/movie/jacare/jacare/19648.mkv
+#EXTINF:-1,Matador De Aluguel
+http://pdsrv.io:25461/movie/jacare/jacare/19649.mkv
+#EXTINF:-1,Karate Kid 3 - O Desafio Final
+http://pdsrv.io:25461/movie/jacare/jacare/19650.mkv
+#EXTINF:-1,Honra E Coragem - As Quatro Plumas
+http://pdsrv.io:25461/movie/jacare/jacare/19651.mkv
+#EXTINF:-1,Cacada Sem Treguas
+http://pdsrv.io:25461/movie/jacare/jacare/19652.mkv
+#EXTINF:-1,Godzilla
+http://pdsrv.io:25461/movie/jacare/jacare/19653.mkv
+#EXTINF:-1,Divisao De Homicidios
+http://pdsrv.io:25461/movie/jacare/jacare/19654.mkv
+#EXTINF:-1,Desafio Radical
+http://pdsrv.io:25461/movie/jacare/jacare/19655.mkv
+#EXTINF:-1,Conquista Sangrenta
+http://pdsrv.io:25461/movie/jacare/jacare/19656.mkv
+#EXTINF:-1,Caes De Guerra
+http://pdsrv.io:25461/movie/jacare/jacare/19657.mkv
+#EXTINF:-1,A Era Da Escuridao - Mutant Chronicles
+http://pdsrv.io:25461/movie/jacare/jacare/19658.mkv
+#EXTINF:-1,Hooligans: Furia Nos Campos
+http://pdsrv.io:25461/movie/jacare/jacare/19659.mkv
+#EXTINF:-1,Mergulho Radical 2: Os Recifes
+http://pdsrv.io:25461/movie/jacare/jacare/19660.mkv
+#EXTINF:-1,Crash: No Limite
+http://pdsrv.io:25461/movie/jacare/jacare/19661.mkv
+#EXTINF:-1,S W A T  - Comando Especial
+http://pdsrv.io:25461/movie/jacare/jacare/19662.mkv
+#EXTINF:-1,Agente Indomavel
+http://pdsrv.io:25461/movie/jacare/jacare/19663.mkv
+#EXTINF:-1,Haven
+http://pdsrv.io:25461/movie/jacare/jacare/19664.mkv
+#EXTINF:-1,Horas De Desespero
+http://pdsrv.io:25461/movie/jacare/jacare/19665.mkv
+#EXTINF:-1,Excesso De Bagagem
+http://pdsrv.io:25461/movie/jacare/jacare/19666.mkv
+#EXTINF:-1,Assalto Sobre Trilhos
+http://pdsrv.io:25461/movie/jacare/jacare/19667.mkv
+#EXTINF:-1,Sou Espiao
+http://pdsrv.io:25461/movie/jacare/jacare/19668.mkv
+#EXTINF:-1,Anjos Da Noite 3 - A Rebeliao
+http://pdsrv.io:25461/movie/jacare/jacare/19669.mkv
+#EXTINF:-1,O Forasteiro 2
+http://pdsrv.io:25461/movie/jacare/jacare/19670.mkv
+#EXTINF:-1,JCVD
+http://pdsrv.io:25461/movie/jacare/jacare/19671.mkv
+#EXTINF:-1,Replicante
+http://pdsrv.io:25461/movie/jacare/jacare/19672.mkv
+#EXTINF:-1,XXX2 - Estado De Emergencia
+http://pdsrv.io:25461/movie/jacare/jacare/19673.mkv
+#EXTINF:-1,O Homen Sombra
+http://pdsrv.io:25461/movie/jacare/jacare/19674.mkv
+#EXTINF:-1,Espiao Por Acidente
+http://pdsrv.io:25461/movie/jacare/jacare/19675.mkv
+#EXTINF:-1,Vamos Nessa
+http://pdsrv.io:25461/movie/jacare/jacare/19676.mkv
+#EXTINF:-1,Uma Noiva E Tanto
+http://pdsrv.io:25461/movie/jacare/jacare/19677.mkv
+#EXTINF:-1,Tres Amigos!
+http://pdsrv.io:25461/movie/jacare/jacare/19678.mkv
+#EXTINF:-1,Swingers - Curtindo A Noite
+http://pdsrv.io:25461/movie/jacare/jacare/19679.mkv
+#EXTINF:-1,Sob Suspeita
+http://pdsrv.io:25461/movie/jacare/jacare/19680.mkv
+#EXTINF:-1,Secretaria
+http://pdsrv.io:25461/movie/jacare/jacare/19681.mkv
+#EXTINF:-1,Quase Ilegal
+http://pdsrv.io:25461/movie/jacare/jacare/19682.mkv
+#EXTINF:-1,Provas E Trapacas
+http://pdsrv.io:25461/movie/jacare/jacare/19683.mkv
+#EXTINF:-1,Procurando Encrenca
+http://pdsrv.io:25461/movie/jacare/jacare/19684.mkv
+#EXTINF:-1,Os Safados
+http://pdsrv.io:25461/movie/jacare/jacare/19685.mkv
+#EXTINF:-1,O Paizao
+http://pdsrv.io:25461/movie/jacare/jacare/19686.mkv
+#EXTINF:-1,O Julgamento De Paris
+http://pdsrv.io:25461/movie/jacare/jacare/19687.mkv
+#EXTINF:-1,O Balconista
+http://pdsrv.io:25461/movie/jacare/jacare/19688.mkv
+#EXTINF:-1,Nao E Mais Um Besteirol Americano
+http://pdsrv.io:25461/movie/jacare/jacare/19689.mkv
+#EXTINF:-1,Jogos Trapacas E Dois Canos Fumegantes
+http://pdsrv.io:25461/movie/jacare/jacare/19690.mkv
+#EXTINF:-1,Jogando Com Prazer
+http://pdsrv.io:25461/movie/jacare/jacare/19691.mkv
+#EXTINF:-1,Grande Hotel
+http://pdsrv.io:25461/movie/jacare/jacare/19692.mkv
+#EXTINF:-1,Funcionario Do Mes
+http://pdsrv.io:25461/movie/jacare/jacare/19693.mkv
+#EXTINF:-1,Fido - O Mascote
+http://pdsrv.io:25461/movie/jacare/jacare/19694.mkv
+#EXTINF:-1,Como Conquistar Uma Mulher
+http://pdsrv.io:25461/movie/jacare/jacare/19695.mkv
+#EXTINF:-1,Bolas Em Panico
+http://pdsrv.io:25461/movie/jacare/jacare/19696.mkv
+#EXTINF:-1,Meatballs 4
+http://pdsrv.io:25461/movie/jacare/jacare/19697.mp4
+#EXTINF:-1,A Volta Dos Mortos Vivos
+http://pdsrv.io:25461/movie/jacare/jacare/19698.mkv
+#EXTINF:-1,A Ultima Missao
+http://pdsrv.io:25461/movie/jacare/jacare/19699.mkv
+#EXTINF:-1,A Heranca De Mr  Deeds
+http://pdsrv.io:25461/movie/jacare/jacare/19700.mkv
+#EXTINF:-1,Kung-Fu Futebol Clube
+http://pdsrv.io:25461/movie/jacare/jacare/19701.mkv
+#EXTINF:-1,Segurando As Pontas
+http://pdsrv.io:25461/movie/jacare/jacare/19702.mkv
+#EXTINF:-1,Meu Primeiro Amor - Parte 2
+http://pdsrv.io:25461/movie/jacare/jacare/19703.mkv
+#EXTINF:-1,Três Mulheres, Três Amores
+http://pdsrv.io:25461/movie/jacare/jacare/19704.mp4
+#EXTINF:-1,Um Amor De Verao
+http://pdsrv.io:25461/movie/jacare/jacare/19706.mkv
+#EXTINF:-1,Adeus Amor
+http://pdsrv.io:25461/movie/jacare/jacare/19707.mkv
+#EXTINF:-1,Nem Por Cima Do Meu Cadaver
+http://pdsrv.io:25461/movie/jacare/jacare/19708.mkv
+#EXTINF:-1,O Paraíso é Logo Aqui
+http://pdsrv.io:25461/movie/jacare/jacare/19709.mp4
+#EXTINF:-1,Bastidores De Um Casamento
+http://pdsrv.io:25461/movie/jacare/jacare/19710.mkv
+#EXTINF:-1,Um Peixe Chamado Wanda
+http://pdsrv.io:25461/movie/jacare/jacare/19711.mkv
+#EXTINF:-1,Ironias Do Amor
+http://pdsrv.io:25461/movie/jacare/jacare/19712.mkv
+#EXTINF:-1,O Oposto Do Sexo
+http://pdsrv.io:25461/movie/jacare/jacare/19713.mkv
+#EXTINF:-1,Kung-Fusao
+http://pdsrv.io:25461/movie/jacare/jacare/19714.mkv
+#EXTINF:-1,Uma Turma Do Barulho
+http://pdsrv.io:25461/movie/jacare/jacare/19715.mkv
+#EXTINF:-1,Uma Festa No Ar
+http://pdsrv.io:25461/movie/jacare/jacare/19716.mkv
+#EXTINF:-1,Superbad - E Hoje
+http://pdsrv.io:25461/movie/jacare/jacare/19717.mkv
+#EXTINF:-1,Ricky Bobby - A Toda Velocidade
+http://pdsrv.io:25461/movie/jacare/jacare/19718.mkv
+#EXTINF:-1,Mixed Nuts
+http://pdsrv.io:25461/movie/jacare/jacare/19719.mkv
+#EXTINF:-1,A Pantera Cor De Rosa
+http://pdsrv.io:25461/movie/jacare/jacare/19720.mkv
+#EXTINF:-1,Annie
+http://pdsrv.io:25461/movie/jacare/jacare/19721.mkv
+#EXTINF:-1,Eu Minha Mulher E Minhas Copias
+http://pdsrv.io:25461/movie/jacare/jacare/19722.mkv
+#EXTINF:-1,Feitico Da Lua
+http://pdsrv.io:25461/movie/jacare/jacare/19723.mkv
+#EXTINF:-1,Jogue A Mamae Do Trem
+http://pdsrv.io:25461/movie/jacare/jacare/19724.mkv
+#EXTINF:-1,Lua De Mel Em Las Vegas
+http://pdsrv.io:25461/movie/jacare/jacare/19725.mkv
+#EXTINF:-1,O Clube De Leitura De Jane Austen
+http://pdsrv.io:25461/movie/jacare/jacare/19726.mkv
+#EXTINF:-1,Os Produtores
+http://pdsrv.io:25461/movie/jacare/jacare/19727.mkv
+#EXTINF:-1,Os Seus Os Meus E Os Nossos
+http://pdsrv.io:25461/movie/jacare/jacare/19728.mkv
+#EXTINF:-1,Um Criminoso Decente
+http://pdsrv.io:25461/movie/jacare/jacare/19729.mkv
+#EXTINF:-1,Mal Posso Esperar
+http://pdsrv.io:25461/movie/jacare/jacare/19730.mkv
+#EXTINF:-1,All That Jazz - O Show Deve Continuar
+http://pdsrv.io:25461/movie/jacare/jacare/19731.mkv
+#EXTINF:-1,Lembrancas De Hollywood
+http://pdsrv.io:25461/movie/jacare/jacare/19732.mkv
+#EXTINF:-1,Uma Beleza De Salao
+http://pdsrv.io:25461/movie/jacare/jacare/19733.mkv
+#EXTINF:-1,Adoraveis Mulheres
+http://pdsrv.io:25461/movie/jacare/jacare/19734.mp4
+#EXTINF:-1,Meus 15 Anos: O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/19735.mp4
+#EXTINF:-1,De Repente 30
+http://pdsrv.io:25461/movie/jacare/jacare/19736.mkv
+#EXTINF:-1,Julie & Julia
+http://pdsrv.io:25461/movie/jacare/jacare/19737.mkv
+#EXTINF:-1,Bons Costumes
+http://pdsrv.io:25461/movie/jacare/jacare/19738.mkv
+#EXTINF:-1,As Branquelas
+http://pdsrv.io:25461/movie/jacare/jacare/19739.mkv
+#EXTINF:-1,Juno
+http://pdsrv.io:25461/movie/jacare/jacare/19740.mkv
+#EXTINF:-1,O ABC Do Amor
+http://pdsrv.io:25461/movie/jacare/jacare/19741.mkv
+#EXTINF:-1,Casamento As Avessas
+http://pdsrv.io:25461/movie/jacare/jacare/19742.mkv
+#EXTINF:-1,Bruno
+http://pdsrv.io:25461/movie/jacare/jacare/19743.mkv
+#EXTINF:-1,Paraiso
+http://pdsrv.io:25461/movie/jacare/jacare/19744.mkv
+#EXTINF:-1,Ouro Branco
+http://pdsrv.io:25461/movie/jacare/jacare/19745.mkv
+#EXTINF:-1,O Tango E O Assassino
+http://pdsrv.io:25461/movie/jacare/jacare/19746.mkv
+#EXTINF:-1,Eu Sei Quem Me Matou
+http://pdsrv.io:25461/movie/jacare/jacare/19748.mkv
+#EXTINF:-1,Caminhos Opostos
+http://pdsrv.io:25461/movie/jacare/jacare/19749.mkv
+#EXTINF:-1,Aprendendo A Viver
+http://pdsrv.io:25461/movie/jacare/jacare/19750.mkv
+#EXTINF:-1,Amigo De Caca
+http://pdsrv.io:25461/movie/jacare/jacare/19751.mkv
+#EXTINF:-1,Poder E Corrupcao (Dirty)
+http://pdsrv.io:25461/movie/jacare/jacare/19752.mkv
+#EXTINF:-1,Solteira Procura 2
+http://pdsrv.io:25461/movie/jacare/jacare/19753.mkv
+#EXTINF:-1,O Inquilino
+http://pdsrv.io:25461/movie/jacare/jacare/19754.mkv
+#EXTINF:-1,O Sangue de Romeo
+http://pdsrv.io:25461/movie/jacare/jacare/19755.mp4
+#EXTINF:-1,A Informante
+http://pdsrv.io:25461/movie/jacare/jacare/19756.mkv
+#EXTINF:-1,The Sacrifice
+http://pdsrv.io:25461/movie/jacare/jacare/19757.mkv
+#EXTINF:-1,Um Homem Bom
+http://pdsrv.io:25461/movie/jacare/jacare/19760.mkv
+#EXTINF:-1,Studio 54
+http://pdsrv.io:25461/movie/jacare/jacare/19761.mkv
+#EXTINF:-1,Sem Saida
+http://pdsrv.io:25461/movie/jacare/jacare/19762.mkv
+#EXTINF:-1,Seis Graus De Separacao
+http://pdsrv.io:25461/movie/jacare/jacare/19763.mkv
+#EXTINF:-1,Seducao Fatal
+http://pdsrv.io:25461/movie/jacare/jacare/19764.mkv
+#EXTINF:-1,Rede De Intrigas
+http://pdsrv.io:25461/movie/jacare/jacare/19765.mkv
+#EXTINF:-1,O Vigarista Do Ano
+http://pdsrv.io:25461/movie/jacare/jacare/19766.mkv
+#EXTINF:-1,O Resgate de Um Campeão
+http://pdsrv.io:25461/movie/jacare/jacare/19767.mp4
+#EXTINF:-1,O Ilusionista
+http://pdsrv.io:25461/movie/jacare/jacare/19768.mkv
+#EXTINF:-1,O Cantor
+http://pdsrv.io:25461/movie/jacare/jacare/19769.mkv
+#EXTINF:-1,Luta Pela Liberdade
+http://pdsrv.io:25461/movie/jacare/jacare/19771.mkv
+#EXTINF:-1,Femme Fatale
+http://pdsrv.io:25461/movie/jacare/jacare/19772.mkv
+#EXTINF:-1,Coisas Belas E Sujas
+http://pdsrv.io:25461/movie/jacare/jacare/19773.mkv
+#EXTINF:-1,As Duas Faces Da Lei
+http://pdsrv.io:25461/movie/jacare/jacare/19774.mkv
+#EXTINF:-1,A Festa Nunca Termina
+http://pdsrv.io:25461/movie/jacare/jacare/19775.mkv
+#EXTINF:-1,Caminho Sem Volta
+http://pdsrv.io:25461/movie/jacare/jacare/19776.mkv
+#EXTINF:-1,8 Milímetros
+http://pdsrv.io:25461/movie/jacare/jacare/19777.mp4
+#EXTINF:-1,8mm - Oito Milimetros
+http://pdsrv.io:25461/movie/jacare/jacare/19778.mkv
+#EXTINF:-1,12 Horas
+http://pdsrv.io:25461/movie/jacare/jacare/19779.mkv
+#EXTINF:-1,Hackers - Piratas De Computador
+http://pdsrv.io:25461/movie/jacare/jacare/19780.mkv
+#EXTINF:-1,Sete Vidas
+http://pdsrv.io:25461/movie/jacare/jacare/19781.mkv
+#EXTINF:-1,Erin Brockovich - Uma Mulher De Talento
+http://pdsrv.io:25461/movie/jacare/jacare/19782.mkv
+#EXTINF:-1,Um Segredo Entre Nos
+http://pdsrv.io:25461/movie/jacare/jacare/19783.mkv
+#EXTINF:-1,O Rancho Do Amor
+http://pdsrv.io:25461/movie/jacare/jacare/19784.mkv
+#EXTINF:-1,Laurel Canyon - A Rua Das Tentacoes
+http://pdsrv.io:25461/movie/jacare/jacare/19785.mkv
+#EXTINF:-1,Oliver!
+http://pdsrv.io:25461/movie/jacare/jacare/19786.mkv
+#EXTINF:-1,Por Amor
+http://pdsrv.io:25461/movie/jacare/jacare/19787.mkv
+#EXTINF:-1,O Despertar De Uma Paixao
+http://pdsrv.io:25461/movie/jacare/jacare/19788.mkv
+#EXTINF:-1,Vidas Que Se Cruzam
+http://pdsrv.io:25461/movie/jacare/jacare/19789.mkv
+#EXTINF:-1,As Coisas Impossiveis Do Amor
+http://pdsrv.io:25461/movie/jacare/jacare/19790.mkv
+#EXTINF:-1,Cada Um Vive Como Quer
+http://pdsrv.io:25461/movie/jacare/jacare/19791.mkv
+#EXTINF:-1,Sedutora E Diabolica
+http://pdsrv.io:25461/movie/jacare/jacare/19792.mkv
+#EXTINF:-1,O Povo Contra Larry Flynt
+http://pdsrv.io:25461/movie/jacare/jacare/19793.mkv
+#EXTINF:-1,Garotas Selvagens 4
+http://pdsrv.io:25461/movie/jacare/jacare/19794.mkv
+#EXTINF:-1,Um Homem Fora-de-serie
+http://pdsrv.io:25461/movie/jacare/jacare/19795.mkv
+#EXTINF:-1,Amigas Com Dinheiro
+http://pdsrv.io:25461/movie/jacare/jacare/19796.mkv
+#EXTINF:-1,A Outra
+http://pdsrv.io:25461/movie/jacare/jacare/19797.mkv
+#EXTINF:-1,Nunca Sem Minha Filha
+http://pdsrv.io:25461/movie/jacare/jacare/19798.mp4
+#EXTINF:-1,Lawrence Da Arabia
+http://pdsrv.io:25461/movie/jacare/jacare/19799.mkv
+#EXTINF:-1,Nas Profundezas Do Mar Sem Fim
+http://pdsrv.io:25461/movie/jacare/jacare/19800.mkv
+#EXTINF:-1,O Aprendiz
+http://pdsrv.io:25461/movie/jacare/jacare/19801.mkv
+#EXTINF:-1,Os Miseraveis
+http://pdsrv.io:25461/movie/jacare/jacare/19802.mkv
+#EXTINF:-1,Sem Vestigios
+http://pdsrv.io:25461/movie/jacare/jacare/19803.mkv
+#EXTINF:-1,Desaparecidas
+http://pdsrv.io:25461/movie/jacare/jacare/19804.mkv
+#EXTINF:-1,Rain Man
+http://pdsrv.io:25461/movie/jacare/jacare/19805.mkv
+#EXTINF:-1,Lendas Da Paixao
+http://pdsrv.io:25461/movie/jacare/jacare/19806.mkv
+#EXTINF:-1,Vestigios Do Dia
+http://pdsrv.io:25461/movie/jacare/jacare/19807.mkv
+#EXTINF:-1,Sexo Mentiras E Videotape
+http://pdsrv.io:25461/movie/jacare/jacare/19808.mkv
+#EXTINF:-1,As Faces De Helen
+http://pdsrv.io:25461/movie/jacare/jacare/19809.mkv
+#EXTINF:-1,Resident Evil 3: A Extincao
+http://pdsrv.io:25461/movie/jacare/jacare/19810.mkv
+#EXTINF:-1,Violacao De Privacidade
+http://pdsrv.io:25461/movie/jacare/jacare/19811.mkv
+#EXTINF:-1,Skyline - A Invasao
+http://pdsrv.io:25461/movie/jacare/jacare/19812.mkv
+#EXTINF:-1,EXistenZ
+http://pdsrv.io:25461/movie/jacare/jacare/19813.mkv
+#EXTINF:-1,Equilibrio
+http://pdsrv.io:25461/movie/jacare/jacare/19814.mkv
+#EXTINF:-1,Contatos Imediatos De Terceiro Grau
+http://pdsrv.io:25461/movie/jacare/jacare/19815.mkv
+#EXTINF:-1,0
+http://pdsrv.io:25461/movie/jacare/jacare/19816.mkv
+#EXTINF:-1,Resident Evil - O Hospede Maldito
+http://pdsrv.io:25461/movie/jacare/jacare/19817.mkv
+#EXTINF:-1,Herois
+http://pdsrv.io:25461/movie/jacare/jacare/19818.mkv
+#EXTINF:-1,Starman - O Homem Das Estrelas
+http://pdsrv.io:25461/movie/jacare/jacare/19819.mkv
+#EXTINF:-1,Supernova
+http://pdsrv.io:25461/movie/jacare/jacare/19820.mkv
+#EXTINF:-1,Dr  Fantastico
+http://pdsrv.io:25461/movie/jacare/jacare/19821.mkv
+#EXTINF:-1,Fuga De Absolom
+http://pdsrv.io:25461/movie/jacare/jacare/19822.mkv
+#EXTINF:-1,Hancock
+http://pdsrv.io:25461/movie/jacare/jacare/19823.mkv
+#EXTINF:-1,Anjos Da Noite: A Evolucao
+http://pdsrv.io:25461/movie/jacare/jacare/19824.mkv
+#EXTINF:-1,Feitico Do Tempo
+http://pdsrv.io:25461/movie/jacare/jacare/19825.mkv
+#EXTINF:-1,A Jovem Rainha Victoria
+http://pdsrv.io:25461/movie/jacare/jacare/19826.mkv
+#EXTINF:-1,Apenas Uma Vez
+http://pdsrv.io:25461/movie/jacare/jacare/19827.mkv
+#EXTINF:-1,O Casamento De Rachel
+http://pdsrv.io:25461/movie/jacare/jacare/19828.mkv
+#EXTINF:-1,Funny Lady
+http://pdsrv.io:25461/movie/jacare/jacare/19829.mkv
+#EXTINF:-1,Pegar E Largar
+http://pdsrv.io:25461/movie/jacare/jacare/19830.mkv
+#EXTINF:-1,O Segredo De Brokeback Mountain
+http://pdsrv.io:25461/movie/jacare/jacare/19831.mkv
+#EXTINF:-1,Africa Dos Meus Sonhos
+http://pdsrv.io:25461/movie/jacare/jacare/19832.mkv
+#EXTINF:-1,Nicholas Nickleby
+http://pdsrv.io:25461/movie/jacare/jacare/19833.mkv
+#EXTINF:-1,O Melhor Amigo Da Noiva
+http://pdsrv.io:25461/movie/jacare/jacare/19834.mkv
+#EXTINF:-1,Persuasao
+http://pdsrv.io:25461/movie/jacare/jacare/19835.mkv
+#EXTINF:-1,Atraidos Pelo Destino
+http://pdsrv.io:25461/movie/jacare/jacare/19836.mkv
+#EXTINF:-1,Greta
+http://pdsrv.io:25461/movie/jacare/jacare/19837.mkv
+#EXTINF:-1,Sociedade Feroz
+http://pdsrv.io:25461/movie/jacare/jacare/19838.mkv
+#EXTINF:-1,Malicia
+http://pdsrv.io:25461/movie/jacare/jacare/19839.mkv
+#EXTINF:-1,Hotel Ruanda
+http://pdsrv.io:25461/movie/jacare/jacare/19840.mkv
+#EXTINF:-1,Estranha Obsessao
+http://pdsrv.io:25461/movie/jacare/jacare/19841.mkv
+#EXTINF:-1,Enquanto Ela Estiver Fora
+http://pdsrv.io:25461/movie/jacare/jacare/19842.mkv
+#EXTINF:-1,Corpo Em Evidencia
+http://pdsrv.io:25461/movie/jacare/jacare/19843.mkv
+#EXTINF:-1,Cativeiro
+http://pdsrv.io:25461/movie/jacare/jacare/19844.mkv
+#EXTINF:-1,A Beira Do Abismo
+http://pdsrv.io:25461/movie/jacare/jacare/19845.mkv
+#EXTINF:-1,Identidade
+http://pdsrv.io:25461/movie/jacare/jacare/19846.mkv
+#EXTINF:-1,Quarentena
+http://pdsrv.io:25461/movie/jacare/jacare/19847.mkv
+#EXTINF:-1,Lenda Urbana 3 - A Vinganca De Mary
+http://pdsrv.io:25461/movie/jacare/jacare/19848.mkv
+#EXTINF:-1,Quando Um Estranho Chama
+http://pdsrv.io:25461/movie/jacare/jacare/19850.mkv
+#EXTINF:-1,Mulher Solteira Procura
+http://pdsrv.io:25461/movie/jacare/jacare/19851.mkv
+#EXTINF:-1,Comportamento Suspeito
+http://pdsrv.io:25461/movie/jacare/jacare/19852.mkv
+#EXTINF:-1,Red Corner
+http://pdsrv.io:25461/movie/jacare/jacare/19853.mkv
+#EXTINF:-1,Desejo A Tres
+http://pdsrv.io:25461/movie/jacare/jacare/19854.mkv
+#EXTINF:-1,Rios Vermelhos
+http://pdsrv.io:25461/movie/jacare/jacare/19855.mkv
+#EXTINF:-1,O Codigo Da Vinci
+http://pdsrv.io:25461/movie/jacare/jacare/19856.mkv
+#EXTINF:-1,Na Companhia Do Medo
+http://pdsrv.io:25461/movie/jacare/jacare/19857.mkv
+#EXTINF:-1,Vestida Para Matar
+http://pdsrv.io:25461/movie/jacare/jacare/19858.mkv
+#EXTINF:-1,Torturado
+http://pdsrv.io:25461/movie/jacare/jacare/19859.mkv
+#EXTINF:-1,Tentaculos
+http://pdsrv.io:25461/movie/jacare/jacare/19860.mkv
+#EXTINF:-1,O Principal Suspeito
+http://pdsrv.io:25461/movie/jacare/jacare/19861.mkv
+#EXTINF:-1,Brinquedo Assassino
+http://pdsrv.io:25461/movie/jacare/jacare/19863.mkv
+#EXTINF:-1,Christine - O Carro Assassino
+http://pdsrv.io:25461/movie/jacare/jacare/19864.mkv
+#EXTINF:-1,O Grito 2
+http://pdsrv.io:25461/movie/jacare/jacare/19865.mkv
+#EXTINF:-1,Silent Hill: Revelacao
+http://pdsrv.io:25461/movie/jacare/jacare/19866.mkv
+#EXTINF:-1,Lenda Urbana 2
+http://pdsrv.io:25461/movie/jacare/jacare/19867.mkv
+#EXTINF:-1,O Albergue
+http://pdsrv.io:25461/movie/jacare/jacare/19868.mkv
+#EXTINF:-1,Evil Dead - A Morte Do Demonio
+http://pdsrv.io:25461/movie/jacare/jacare/19869.mkv
+#EXTINF:-1,O Albergue 2
+http://pdsrv.io:25461/movie/jacare/jacare/19870.mkv
+#EXTINF:-1,Resident Evil - Apocalipse
+http://pdsrv.io:25461/movie/jacare/jacare/19871.mkv
+#EXTINF:-1,Capitão América: O Soldado do Inverno
+http://pdsrv.io:25461/movie/jacare/jacare/19875.mp4
+#EXTINF:-1,Demolidor O Homem Sem Medo
+http://pdsrv.io:25461/movie/jacare/jacare/19877.mp4
+#EXTINF:-1,Guardiões Da Galáxia Vol 2
+http://pdsrv.io:25461/movie/jacare/jacare/19878.mp4
+#EXTINF:-1,Homem Aranha 2
+http://pdsrv.io:25461/movie/jacare/jacare/19880.mp4
+#EXTINF:-1,Homem Aranha 3
+http://pdsrv.io:25461/movie/jacare/jacare/19881.mp4
+#EXTINF:-1,Homem Aranha De Volta Ao Lar
+http://pdsrv.io:25461/movie/jacare/jacare/19882.mp4
+#EXTINF:-1,Mulher Maravilha
+http://pdsrv.io:25461/movie/jacare/jacare/19885.mp4
+#EXTINF:-1,HOMEM ARANHA 2 A AMEÇA DE ELECTRO
+http://pdsrv.io:25461/movie/jacare/jacare/19886.mp4
+#EXTINF:-1,Pantera Negra
+http://pdsrv.io:25461/movie/jacare/jacare/19888.mp4
+#EXTINF:-1,The Flash O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/19889.mp4
+#EXTINF:-1,X-M A
+http://pdsrv.io:25461/movie/jacare/jacare/19892.mp4
+#EXTINF:-1,X-Men: Dias de um Futuro Esquecido
+http://pdsrv.io:25461/movie/jacare/jacare/19893.mp4
+#EXTINF:-1,X-Men O Confronto Final
+http://pdsrv.io:25461/movie/jacare/jacare/19894.mp4
+#EXTINF:-1,A Acompanhante
+http://pdsrv.io:25461/movie/jacare/jacare/19895.mkv
+#EXTINF:-1,A Ressaca 2
+http://pdsrv.io:25461/movie/jacare/jacare/19896.mkv
+#EXTINF:-1,Action Poi
+http://pdsrv.io:25461/movie/jacare/jacare/19897.mkv
+#EXTINF:-1,Little Bitches
+http://pdsrv.io:25461/movie/jacare/jacare/19898.mp4
+#EXTINF:-1,Causando No Brasil
+http://pdsrv.io:25461/movie/jacare/jacare/19899.mkv
+#EXTINF:-1,Gring0
+http://pdsrv.io:25461/movie/jacare/jacare/19900.mkv
+#EXTINF:-1,One Crazy Cruise
+http://pdsrv.io:25461/movie/jacare/jacare/19901.mkv
+#EXTINF:-1,Super-Heroi O Filme 
+http://pdsrv.io:25461/movie/jacare/jacare/19902.mkv
+#EXTINF:-1,T P N S
+http://pdsrv.io:25461/movie/jacare/jacare/19903.mkv
+#EXTINF:-1,Te Pegu
+http://pdsrv.io:25461/movie/jacare/jacare/19904.mkv
+#EXTINF:-1,Um Maluco No Golfe
+http://pdsrv.io:25461/movie/jacare/jacare/19905.mkv
+#EXTINF:-1,Um Ninja Da Pesada
+http://pdsrv.io:25461/movie/jacare/jacare/19906.mkv
+#EXTINF:-1,Zumbilandia
+http://pdsrv.io:25461/movie/jacare/jacare/19907.mkv
+#EXTINF:-1, Loucademia De Polícia 2 - A Primeira Missão
+http://pdsrv.io:25461/movie/jacare/jacare/19918.mkv
+#EXTINF:-1,Loucademia De Polícia 3 - De Volta Ao Treinamento
+http://pdsrv.io:25461/movie/jacare/jacare/19919.mkv
+#EXTINF:-1,A Maldição De Chucky
+http://pdsrv.io:25461/movie/jacare/jacare/19920.mkv
+#EXTINF:-1,A Noiva De Chucky
+http://pdsrv.io:25461/movie/jacare/jacare/19923.mkv
+#EXTINF:-1,Child's Play
+http://pdsrv.io:25461/movie/jacare/jacare/19925.mkv
+#EXTINF:-1,Jornada Nas Estrelas 10: Nêmesis
+http://pdsrv.io:25461/movie/jacare/jacare/19926.mkv
+#EXTINF:-1,Jornada Nas Estrelas 1: O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/19927.mkv
+#EXTINF:-1,Jornada Nas Estrelas 2: A Íra De Khan
+http://pdsrv.io:25461/movie/jacare/jacare/19928.mkv
+#EXTINF:-1,Jornada Nas Estrelas 3: À Procura De Spock
+http://pdsrv.io:25461/movie/jacare/jacare/19929.mkv
+#EXTINF:-1,Jornada Nas Estrelas 4 :  A Volta Para Casa
+http://pdsrv.io:25461/movie/jacare/jacare/19930.mkv
+#EXTINF:-1,Jornada Nas Estrelas 5: A Última Fronteira
+http://pdsrv.io:25461/movie/jacare/jacare/19931.mkv
+#EXTINF:-1,Jornada Nas Estrelas 6: A Terra Desconhecida
+http://pdsrv.io:25461/movie/jacare/jacare/19932.mkv
+#EXTINF:-1,Jornada Nas Estrelas 7: Gerações
+http://pdsrv.io:25461/movie/jacare/jacare/19933.mkv
+#EXTINF:-1,Jornada Nas Estrelas 8: Primeiro Contato
+http://pdsrv.io:25461/movie/jacare/jacare/19934.mkv
+#EXTINF:-1,Jornada Nas Estrelas 9 : Insurreição
+http://pdsrv.io:25461/movie/jacare/jacare/19935.mkv
+#EXTINF:-1,Star Trek 11 -  O Futuro Comeca
+http://pdsrv.io:25461/movie/jacare/jacare/19936.mkv
+#EXTINF:-1,Star Trek 12 - Alem Da Escuridao
+http://pdsrv.io:25461/movie/jacare/jacare/19937.mkv
+#EXTINF:-1,Premonicao 1
+http://pdsrv.io:25461/movie/jacare/jacare/19938.mkv
+#EXTINF:-1,Premonicao 2
+http://pdsrv.io:25461/movie/jacare/jacare/19939.mkv
+#EXTINF:-1,Panico 2
+http://pdsrv.io:25461/movie/jacare/jacare/19940.mkv
+#EXTINF:-1,Panico 3
+http://pdsrv.io:25461/movie/jacare/jacare/19941.mkv
+#EXTINF:-1,Panico 4
+http://pdsrv.io:25461/movie/jacare/jacare/19942.mkv
+#EXTINF:-1,Panico 1
+http://pdsrv.io:25461/movie/jacare/jacare/19943.mkv
+#EXTINF:-1,A INFANCIA DE UM LÍDER
+http://pdsrv.io:25461/movie/jacare/jacare/19951.mp4
+#EXTINF:-1,A PRINCESA E A PLEBEIA
+http://pdsrv.io:25461/movie/jacare/jacare/19953.mkv
+#EXTINF:-1,A Primeira Noite De Crime
+http://pdsrv.io:25461/movie/jacare/jacare/19954.mkv
+#EXTINF:-1,A Casa Do Medo
+http://pdsrv.io:25461/movie/jacare/jacare/19955.mkv
+#EXTINF:-1,ALPHA
+http://pdsrv.io:25461/movie/jacare/jacare/19956.mkv
+#EXTINF:-1,AMIGOS ALIENÍGENAS
+http://pdsrv.io:25461/movie/jacare/jacare/19957.mkv
+#EXTINF:-1,APARTAMENTO 212 (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/19958.mp4
+#EXTINF:-1,ARCADE! VOCÊ VAI ENTRAR NESSE JOGO
+http://pdsrv.io:25461/movie/jacare/jacare/19960.mkv
+#EXTINF:-1,AXL
+http://pdsrv.io:25461/movie/jacare/jacare/19961.mkv
+#EXTINF:-1,Arranha-Céu Coragem Sem Limite
+http://pdsrv.io:25461/movie/jacare/jacare/19962.mkv
+#EXTINF:-1,BLACKWATER
+http://pdsrv.io:25461/movie/jacare/jacare/19964.mkv
+#EXTINF:-1,Boone - O Caçador De Recompensas
+http://pdsrv.io:25461/movie/jacare/jacare/19965.mkv
+#EXTINF:-1,BRAVESTORM
+http://pdsrv.io:25461/movie/jacare/jacare/19966.mkv
+#EXTINF:-1,BUSCANDO
+http://pdsrv.io:25461/movie/jacare/jacare/19967.mkv
+#EXTINF:-1,Bird Box
+http://pdsrv.io:25461/movie/jacare/jacare/19968.mkv
+#EXTINF:-1,CASTIGADOS
+http://pdsrv.io:25461/movie/jacare/jacare/19971.mkv
+#EXTINF:-1,CRONICAS DE NATAL
+http://pdsrv.io:25461/movie/jacare/jacare/19973.mkv
+#EXTINF:-1,DELÍRIOS DO PASSADO
+http://pdsrv.io:25461/movie/jacare/jacare/19976.mkv
+#EXTINF:-1,Deadpool 2 (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/19977.mp4
+#EXTINF:-1,Doces Ou Travessuras
+http://pdsrv.io:25461/movie/jacare/jacare/19978.mkv
+#EXTINF:-1,ERA UMA VEZ UM CASAMENTO
+http://pdsrv.io:25461/movie/jacare/jacare/19979.mkv
+#EXTINF:-1,Ferrugem
+http://pdsrv.io:25461/movie/jacare/jacare/19981.mkv
+#EXTINF:-1,GOOSEBUMPS 2 
+http://pdsrv.io:25461/movie/jacare/jacare/19982.mkv
+#EXTINF:-1,Guerreiros Do Futuro
+http://pdsrv.io:25461/movie/jacare/jacare/19983.mkv
+#EXTINF:-1,HALLOWEEN - A LENDA DE JACK
+http://pdsrv.io:25461/movie/jacare/jacare/19984.mkv
+#EXTINF:-1,HALLOWEEN
+http://pdsrv.io:25461/movie/jacare/jacare/19985.mkv
+#EXTINF:-1,HISTÓRIAS DE ALÉM TUMULO
+http://pdsrv.io:25461/movie/jacare/jacare/19986.mkv
+#EXTINF:-1,HOTEL ARTEMIS
+http://pdsrv.io:25461/movie/jacare/jacare/19987.mkv
+#EXTINF:-1,Hotel Transilvania 3 Ferias Monstruosas
+http://pdsrv.io:25461/movie/jacare/jacare/19988.mkv
+#EXTINF:-1,JUNTO COM OS DEUSES - OS DOIS MUNDOS
+http://pdsrv.io:25461/movie/jacare/jacare/19989.mkv
+#EXTINF:-1,Jurassic World Reino Ameacado
+http://pdsrv.io:25461/movie/jacare/jacare/19991.mkv
+#EXTINF:-1,Leo Da Vinci: Missão Mona Lisa
+http://pdsrv.io:25461/movie/jacare/jacare/19992.mp4
+#EXTINF:-1,MAMMA MIA! LÁ VAMOS NOIS DE NOVO
+http://pdsrv.io:25461/movie/jacare/jacare/19994.mkv
+#EXTINF:-1,MEGATUBARÃO
+http://pdsrv.io:25461/movie/jacare/jacare/19995.mkv
+#EXTINF:-1,MEU JANTAR COM HERVÉ
+http://pdsrv.io:25461/movie/jacare/jacare/19996.mkv
+#EXTINF:-1,MISSÃO IMPOSSIVEL - EFEITO FALLOUT
+http://pdsrv.io:25461/movie/jacare/jacare/19997.mkv
+#EXTINF:-1,MOGLI ENTRE DOIS MUNDOS
+http://pdsrv.io:25461/movie/jacare/jacare/19998.mkv
+#EXTINF:-1,Meu Professor Minha Obsessão
+http://pdsrv.io:25461/movie/jacare/jacare/19999.mkv
+#EXTINF:-1,NA CORDA BAMBA
+http://pdsrv.io:25461/movie/jacare/jacare/20000.mkv
+#EXTINF:-1,NADA A ESCONDER
+http://pdsrv.io:25461/movie/jacare/jacare/20001.mkv
+#EXTINF:-1,No Ritmo Indiano (2017)
+http://pdsrv.io:25461/movie/jacare/jacare/20002.mp4
+#EXTINF:-1,No Ritmo Da Seducao
+http://pdsrv.io:25461/movie/jacare/jacare/20003.mkv
+#EXTINF:-1,O ANEL DO REI A ULTIMA BATALHA
+http://pdsrv.io:25461/movie/jacare/jacare/20004.mkv
+#EXTINF:-1,O CHAMADO Vs O GRITO
+http://pdsrv.io:25461/movie/jacare/jacare/20005.mp4
+#EXTINF:-1,O MISTÉRIO DO RELÓGIO NA PAREDE 
+http://pdsrv.io:25461/movie/jacare/jacare/20007.mkv
+#EXTINF:-1,Predador  A Caçada Evoluiu
+http://pdsrv.io:25461/movie/jacare/jacare/20009.mp4
+#EXTINF:-1,O PROTETOR 2
+http://pdsrv.io:25461/movie/jacare/jacare/20010.mp4
+#EXTINF:-1,O SEGREDO DE MARROWBONE
+http://pdsrv.io:25461/movie/jacare/jacare/20011.mp4
+#EXTINF:-1,O ULTIMO SUSPIRO
+http://pdsrv.io:25461/movie/jacare/jacare/20013.mp4
+#EXTINF:-1,ONDA DE CHOQUE
+http://pdsrv.io:25461/movie/jacare/jacare/20014.mp4
+#EXTINF:-1,OS 33
+http://pdsrv.io:25461/movie/jacare/jacare/20015.mkv
+#EXTINF:-1,OS DOMÉSTICO
+http://pdsrv.io:25461/movie/jacare/jacare/20016.mkv
+#EXTINF:-1,OURO E COBIÇA
+http://pdsrv.io:25461/movie/jacare/jacare/20018.mkv
+#EXTINF:-1,PEDIDO DE CASAMENTO
+http://pdsrv.io:25461/movie/jacare/jacare/20020.mkv
+#EXTINF:-1,PONTO CEGO
+http://pdsrv.io:25461/movie/jacare/jacare/20021.mkv
+#EXTINF:-1,PREDADOR CAÇADA EVOLUIDA
+http://pdsrv.io:25461/movie/jacare/jacare/20022.mkv
+#EXTINF:-1,PRESO NO TEMPO
+http://pdsrv.io:25461/movie/jacare/jacare/20023.mkv
+#EXTINF:-1,Paulo Apóstolo De Cristo
+http://pdsrv.io:25461/movie/jacare/jacare/20024.mkv
+#EXTINF:-1,PÉ PEQUENO
+http://pdsrv.io:25461/movie/jacare/jacare/20025.mkv
+#EXTINF:-1,REI ARTHUR - A VOLTA DA ESCALIBUR
+http://pdsrv.io:25461/movie/jacare/jacare/20026.mkv
+#EXTINF:-1,Rota Selvagem
+http://pdsrv.io:25461/movie/jacare/jacare/20027.mkv
+#EXTINF:-1,Rota De Fuga 2
+http://pdsrv.io:25461/movie/jacare/jacare/20028.mkv
+#EXTINF:-1,SE BEBER NÃO CASE
+http://pdsrv.io:25461/movie/jacare/jacare/20029.mkv
+#EXTINF:-1,SOBREVIVENDO AO MEU PAI
+http://pdsrv.io:25461/movie/jacare/jacare/20030.mkv
+#EXTINF:-1,STEPHANIE
+http://pdsrv.io:25461/movie/jacare/jacare/20031.mkv
+#EXTINF:-1,SUPERFLY
+http://pdsrv.io:25461/movie/jacare/jacare/20032.mkv
+#EXTINF:-1,Slender Man Pesadelo Sem Rosto
+http://pdsrv.io:25461/movie/jacare/jacare/20033.mkv
+#EXTINF:-1,TOKIO GHOUL
+http://pdsrv.io:25461/movie/jacare/jacare/20034.mkv
+#EXTINF:-1,TRAFFIK LIBERDADE ROUBADA
+http://pdsrv.io:25461/movie/jacare/jacare/20035.mkv
+#EXTINF:-1,UFO! ESTAMOS SOZINHOS
+http://pdsrv.io:25461/movie/jacare/jacare/20036.mkv
+#EXTINF:-1,UMA RESSACA DE 9 MESES
+http://pdsrv.io:25461/movie/jacare/jacare/20037.mkv
+#EXTINF:-1,UPA! MEU MONSTRO FAVORITO
+http://pdsrv.io:25461/movie/jacare/jacare/20038.mkv
+#EXTINF:-1,VENOM
+http://pdsrv.io:25461/movie/jacare/jacare/20039.mkv
+#EXTINF:-1,VIDAS A DERIVA
+http://pdsrv.io:25461/movie/jacare/jacare/20040.mkv
+#EXTINF:-1,FÚRIA EM ALTO MAR
+http://pdsrv.io:25461/movie/jacare/jacare/20045.mkv
+#EXTINF:-1,NASCE UMA ESTRELA
+http://pdsrv.io:25461/movie/jacare/jacare/20046.mkv
+#EXTINF:-1,O QUEBRA NOZES E OS QUATRO REINOS
+http://pdsrv.io:25461/movie/jacare/jacare/20047.mkv
+#EXTINF:-1,A Arte Da Conquista
+http://pdsrv.io:25461/movie/jacare/jacare/20050.mkv
+#EXTINF:-1,All I Wish
+http://pdsrv.io:25461/movie/jacare/jacare/20052.mkv
+#EXTINF:-1,Amor Sem Fim
+http://pdsrv.io:25461/movie/jacare/jacare/20053.mkv
+#EXTINF:-1,Amor Sem Querer
+http://pdsrv.io:25461/movie/jacare/jacare/20054.mkv
+#EXTINF:-1,Antes Do Amanhecer
+http://pdsrv.io:25461/movie/jacare/jacare/20055.mkv
+#EXTINF:-1,Com Amor Simon
+http://pdsrv.io:25461/movie/jacare/jacare/20056.mkv
+#EXTINF:-1,Corredor De Coração
+http://pdsrv.io:25461/movie/jacare/jacare/20057.mkv
+#EXTINF:-1,Ibiza Tudo Pelo DJ
+http://pdsrv.io:25461/movie/jacare/jacare/20058.mkv
+#EXTINF:-1,Nappily Ever After
+http://pdsrv.io:25461/movie/jacare/jacare/20059.mkv
+#EXTINF:-1,Permission
+http://pdsrv.io:25461/movie/jacare/jacare/20060.mkv
+#EXTINF:-1,Sierra Burgess Is A Loser
+http://pdsrv.io:25461/movie/jacare/jacare/20061.mkv
+#EXTINF:-1,Simplesmente Acontece
+http://pdsrv.io:25461/movie/jacare/jacare/20062.mkv
+#EXTINF:-1,Ulj
+http://pdsrv.io:25461/movie/jacare/jacare/20063.mkv
+#EXTINF:-1,Íntimo E Pessoal
+http://pdsrv.io:25461/movie/jacare/jacare/20064.mkv
+#EXTINF:-1,O Trapalhão Na Arca De Noé
+http://pdsrv.io:25461/movie/jacare/jacare/20099.mkv
+#EXTINF:-1,O Reino De Superman
+http://pdsrv.io:25461/movie/jacare/jacare/23270.mp4
+#EXTINF:-1,Os Exterminadores Do Além Contra A Loira Do Banheiro
+http://pdsrv.io:25461/movie/jacare/jacare/23271.mp4
+#EXTINF:-1,As Viuvas
+http://pdsrv.io:25461/movie/jacare/jacare/23272.mkv
+#EXTINF:-1,Kronos: O Fim Da Humanidade?
+http://pdsrv.io:25461/movie/jacare/jacare/23273.mp4
+#EXTINF:-1,Fuga Do Hospicio – A Historia De Nellie Blyi
+http://pdsrv.io:25461/movie/jacare/jacare/23284.mp4
+#EXTINF:-1,O Ataque Do Tubarao De 6 Cabecas
+http://pdsrv.io:25461/movie/jacare/jacare/23520.mkv
+#EXTINF:-1,IO: O Último Na Terra
+http://pdsrv.io:25461/movie/jacare/jacare/23546.mp4
+#EXTINF:-1,Adoráveis Mulheres
+http://pdsrv.io:25461/movie/jacare/jacare/23547.mp4
+#EXTINF:-1,Um Elefante Sentado Quieto
+http://pdsrv.io:25461/movie/jacare/jacare/23548.mp4
+#EXTINF:-1,Soni
+http://pdsrv.io:25461/movie/jacare/jacare/23550.mp4
+#EXTINF:-1,Querido Menino
+http://pdsrv.io:25461/movie/jacare/jacare/23551.mp4
+#EXTINF:-1,Era Uma Vez Um Deadpool
+http://pdsrv.io:25461/movie/jacare/jacare/23552.mp4
+#EXTINF:-1,Prenda-me Se For Capaz
+http://pdsrv.io:25461/movie/jacare/jacare/23601.mp4
+#EXTINF:-1,Papa Francisco: Um Homem De Palavra
+http://pdsrv.io:25461/movie/jacare/jacare/23631.mp4
+#EXTINF:-1,Shirkers: O Filme Roubado
+http://pdsrv.io:25461/movie/jacare/jacare/23650.mp4
+#EXTINF:-1,Matilda
+http://pdsrv.io:25461/movie/jacare/jacare/23651.mp4
+#EXTINF:-1,Forrest Gump: O Contador De Histórias
+http://pdsrv.io:25461/movie/jacare/jacare/23901.mp4
+#EXTINF:-1,Capitao Fantastico
+http://pdsrv.io:25461/movie/jacare/jacare/23902.mp4
+#EXTINF:-1,Tres Anuncios Para Um Crime
+http://pdsrv.io:25461/movie/jacare/jacare/23903.mp4
+#EXTINF:-1,Batman E Mr  Freeze – Abaixo De Zero
+http://pdsrv.io:25461/movie/jacare/jacare/23904.mp4
+#EXTINF:-1,A Freira
+http://pdsrv.io:25461/movie/jacare/jacare/24136.mp4
+#EXTINF:-1,Millennium: A Garota Na Teia De Aranha
+http://pdsrv.io:25461/movie/jacare/jacare/24267.mp4
+#EXTINF:-1,Encolhi A Professora
+http://pdsrv.io:25461/movie/jacare/jacare/24268.mp4
+#EXTINF:-1,Corredor Assombrado
+http://pdsrv.io:25461/movie/jacare/jacare/24270.mp4
+#EXTINF:-1,O Quebra-Nozes E Os Quatro Reinos
+http://pdsrv.io:25461/movie/jacare/jacare/24271.mp4
+#EXTINF:-1,O Velho E A Arma
+http://pdsrv.io:25461/movie/jacare/jacare/24272.mp4
+#EXTINF:-1,Onde Mãos Se Tocam
+http://pdsrv.io:25461/movie/jacare/jacare/24273.mp4
+#EXTINF:-1,Nasce Uma Estrela
+http://pdsrv.io:25461/movie/jacare/jacare/24274.mp4
+#EXTINF:-1,El Aviso
+http://pdsrv.io:25461/movie/jacare/jacare/24275.mp4
+#EXTINF:-1,Lua De Júpiter
+http://pdsrv.io:25461/movie/jacare/jacare/24276.mp4
+#EXTINF:-1,Polar (DUL)
+http://pdsrv.io:25461/movie/jacare/jacare/24278.mp4
+#EXTINF:-1,O Defensor
+http://pdsrv.io:25461/movie/jacare/jacare/24280.mp4
+#EXTINF:-1,Quem Somos Agora
+http://pdsrv.io:25461/movie/jacare/jacare/24281.mp4
+#EXTINF:-1,O Primeiro Homem
+http://pdsrv.io:25461/movie/jacare/jacare/24283.mp4
+#EXTINF:-1,Legalize Ja: Amizade Nunca Morre
+http://pdsrv.io:25461/movie/jacare/jacare/24285.mp4
+#EXTINF:-1,Unicornio
+http://pdsrv.io:25461/movie/jacare/jacare/24286.mp4
+#EXTINF:-1,Um Pequeno Favor
+http://pdsrv.io:25461/movie/jacare/jacare/24287.mp4
+#EXTINF:-1,Uma Razão Para Vencer
+http://pdsrv.io:25461/movie/jacare/jacare/24288.mp4
+#EXTINF:-1,Todo Clichê Do Amor
+http://pdsrv.io:25461/movie/jacare/jacare/24289.mp4
+#EXTINF:-1,Solo
+http://pdsrv.io:25461/movie/jacare/jacare/24290.mp4
+#EXTINF:-1,Creed II
+http://pdsrv.io:25461/movie/jacare/jacare/24310.mp4
+#EXTINF:-1,The Lion King
+http://pdsrv.io:25461/movie/jacare/jacare/24312.mp4
+#EXTINF:-1,How To Train Your Dragon: The Hidden World
+http://pdsrv.io:25461/movie/jacare/jacare/24313.mp4
+#EXTINF:-1,Como Eu Era Antes De Você
+http://pdsrv.io:25461/movie/jacare/jacare/24314.mp4
+#EXTINF:-1,O Transtorno De Clara
+http://pdsrv.io:25461/movie/jacare/jacare/24315.mp4
+#EXTINF:-1,A Lenda Da Passagem Secreta
+http://pdsrv.io:25461/movie/jacare/jacare/24345.mp4
+#EXTINF:-1,Wildling: Criaturas Noturnas / Selvagem
+http://pdsrv.io:25461/movie/jacare/jacare/24349.mp4
+#EXTINF:-1,Velvet Buzzsaw
+http://pdsrv.io:25461/movie/jacare/jacare/24350.mp4
+#EXTINF:-1,Canastra Suja
+http://pdsrv.io:25461/movie/jacare/jacare/24351.mp4
+#EXTINF:-1,O Banquete
+http://pdsrv.io:25461/movie/jacare/jacare/24352.mp4
+#EXTINF:-1,Os Domésticos
+http://pdsrv.io:25461/movie/jacare/jacare/24353.mp4
+#EXTINF:-1,O Lagosta
+http://pdsrv.io:25461/movie/jacare/jacare/24354.mp4
+#EXTINF:-1,Premonicao 3
+http://pdsrv.io:25461/movie/jacare/jacare/24379.mp4
+#EXTINF:-1,Premonicao 4
+http://pdsrv.io:25461/movie/jacare/jacare/24380.mp4
+#EXTINF:-1,Premonicao 5
+http://pdsrv.io:25461/movie/jacare/jacare/24381.mp4
+#EXTINF:-1,Trovao Tropical
+http://pdsrv.io:25461/movie/jacare/jacare/24384.mp4
+#EXTINF:-1,13 Dias Que Abalaram O Mundo
+http://pdsrv.io:25461/movie/jacare/jacare/24385.mp4
+#EXTINF:-1,Vigilantes Da Guerra
+http://pdsrv.io:25461/movie/jacare/jacare/24386.mp4
+#EXTINF:-1,War Pigs
+http://pdsrv.io:25461/movie/jacare/jacare/24387.mp4
+#EXTINF:-1,The Hateful Eight
+http://pdsrv.io:25461/movie/jacare/jacare/24389.mp4
+#EXTINF:-1,A Balada De Buster Scruggs
+http://pdsrv.io:25461/movie/jacare/jacare/24391.mp4
+#EXTINF:-1,A Vingança De Lefty Brown
+http://pdsrv.io:25461/movie/jacare/jacare/24393.mp4
+#EXTINF:-1,O Matador
+http://pdsrv.io:25461/movie/jacare/jacare/24394.mp4
+#EXTINF:-1,Deus Não Está Morto 2
+http://pdsrv.io:25461/movie/jacare/jacare/24396.mp4
+#EXTINF:-1,Deus Nao Esta Morto
+http://pdsrv.io:25461/movie/jacare/jacare/24397.mp4
+#EXTINF:-1,A Paixao De Cristo
+http://pdsrv.io:25461/movie/jacare/jacare/24398.mp4
+#EXTINF:-1,Eu So Posso Imaginar
+http://pdsrv.io:25461/movie/jacare/jacare/24399.mp4
+#EXTINF:-1,O Ceu é De Verdade
+http://pdsrv.io:25461/movie/jacare/jacare/24400.mp4
+#EXTINF:-1,Solteiros Com Filhos
+http://pdsrv.io:25461/movie/jacare/jacare/24465.mp4
+#EXTINF:-1,Patch Adams: O Amor é Contagioso
+http://pdsrv.io:25461/movie/jacare/jacare/24627.mp4
+#EXTINF:-1,Scooby-Doo E A Maldição Do 13° Fantasma
+http://pdsrv.io:25461/movie/jacare/jacare/24632.mp4
+#EXTINF:-1,Intimidade Entre Estranhos
+http://pdsrv.io:25461/movie/jacare/jacare/24749.mp4
+#EXTINF:-1,Maverick
+http://pdsrv.io:25461/movie/jacare/jacare/24766.mp4
+#EXTINF:-1,As Loucas Aventuras De James West
+http://pdsrv.io:25461/movie/jacare/jacare/24767.mp4
+#EXTINF:-1,Carga Explosiva
+http://pdsrv.io:25461/movie/jacare/jacare/24768.mp4
+#EXTINF:-1,Nosso Ex-Marido
+http://pdsrv.io:25461/movie/jacare/jacare/24798.mp4
+#EXTINF:-1,Melhores Amigos 2
+http://pdsrv.io:25461/movie/jacare/jacare/24799.mp4
+#EXTINF:-1,Melhores Amigos 1
+http://pdsrv.io:25461/movie/jacare/jacare/24800.mp4
+#EXTINF:-1,Iceman 2: O Viajante Do Tempo
+http://pdsrv.io:25461/movie/jacare/jacare/24801.mp4
+#EXTINF:-1,Podres De Ricos
+http://pdsrv.io:25461/movie/jacare/jacare/24803.mp4
+#EXTINF:-1,À Procura Da Felicidade
+http://pdsrv.io:25461/movie/jacare/jacare/24833.mp4
+#EXTINF:-1,Hector E A Procura Da Felicidade
+http://pdsrv.io:25461/movie/jacare/jacare/24834.mp4
+#EXTINF:-1,Blood Of The Flamboyant Tree
+http://pdsrv.io:25461/movie/jacare/jacare/24838.mkv
+#EXTINF:-1,Born Racer
+http://pdsrv.io:25461/movie/jacare/jacare/24839.mkv
+#EXTINF:-1,Close
+http://pdsrv.io:25461/movie/jacare/jacare/24840.mkv
+#EXTINF:-1,Escape Room
+http://pdsrv.io:25461/movie/jacare/jacare/24841.mkv
+#EXTINF:-1,The Grinch
+http://pdsrv.io:25461/movie/jacare/jacare/24847.mkv
+#EXTINF:-1,O ódio Que Você Semeia
+http://pdsrv.io:25461/movie/jacare/jacare/24853.mkv
+#EXTINF:-1,Sequestro Relâmpago
+http://pdsrv.io:25461/movie/jacare/jacare/24854.mkv
+#EXTINF:-1,Super Troopers 2
+http://pdsrv.io:25461/movie/jacare/jacare/24855.mp4
+#EXTINF:-1,Verdade Oculta
+http://pdsrv.io:25461/movie/jacare/jacare/24856.mkv
+#EXTINF:-1,Vida Na Natureza
+http://pdsrv.io:25461/movie/jacare/jacare/24857.mkv
+#EXTINF:-1,No Portal Da Eternidade
+http://pdsrv.io:25461/movie/jacare/jacare/24888.mp4
+#EXTINF:-1,À Espera De Um Milagre
+http://pdsrv.io:25461/movie/jacare/jacare/24889.mp4
+#EXTINF:-1,A Cabana
+http://pdsrv.io:25461/movie/jacare/jacare/24890.mp4
+#EXTINF:-1,Um Olhar De Esperança
+http://pdsrv.io:25461/movie/jacare/jacare/24891.mp4
+#EXTINF:-1,Dumplin'
+http://pdsrv.io:25461/movie/jacare/jacare/24892.mp4
+#EXTINF:-1,Dragon Ball Z: Broly – The Legendary Super Saiyan
+http://pdsrv.io:25461/movie/jacare/jacare/24893.mp4
+#EXTINF:-1,Mandy: Sede De Vingança
+http://pdsrv.io:25461/movie/jacare/jacare/24894.mp4
+#EXTINF:-1,Sequestro Relâmpago
+http://pdsrv.io:25461/movie/jacare/jacare/24895.mp4
+#EXTINF:-1,Tudo Por Um Pop Star
+http://pdsrv.io:25461/movie/jacare/jacare/24896.mp4
+#EXTINF:-1,O Grande Circo Místico
+http://pdsrv.io:25461/movie/jacare/jacare/24897.mp4
+#EXTINF:-1,A Paixão De Jacobina
+http://pdsrv.io:25461/movie/jacare/jacare/24898.mp4
+#EXTINF:-1,Alguém Como Eu
+http://pdsrv.io:25461/movie/jacare/jacare/24899.mp4
+#EXTINF:-1,10 Segundos Para Vencer
+http://pdsrv.io:25461/movie/jacare/jacare/24900.mp4
+#EXTINF:-1,Talvez Uma História De Amor
+http://pdsrv.io:25461/movie/jacare/jacare/24901.mp4
+#EXTINF:-1,Se Deus Vier Que Venha Armado
+http://pdsrv.io:25461/movie/jacare/jacare/24902.mp4
+#EXTINF:-1,Não Se Preocupe Nada Vai Dar Certo
+http://pdsrv.io:25461/movie/jacare/jacare/24903.mp4
+#EXTINF:-1,Coração De Cowboy
+http://pdsrv.io:25461/movie/jacare/jacare/24904.mp4
+#EXTINF:-1,Pistoleiros: Vingança Sem Perdão
+http://pdsrv.io:25461/movie/jacare/jacare/24906.mp4
+#EXTINF:-1,Quatro Mulheres E Um Destino
+http://pdsrv.io:25461/movie/jacare/jacare/24907.mp4
+#EXTINF:-1,Que Fim Levou Papai Noel?
+http://pdsrv.io:25461/movie/jacare/jacare/24908.mp4
+#EXTINF:-1,Esqueceram De Mim 4
+http://pdsrv.io:25461/movie/jacare/jacare/24910.mp4
+#EXTINF:-1,Em Busca Da Terra Do Nunca
+http://pdsrv.io:25461/movie/jacare/jacare/24911.mp4
+#EXTINF:-1,Christopher Robin: Um Reencontro Inesquecível
+http://pdsrv.io:25461/movie/jacare/jacare/24912.mp4
+#EXTINF:-1,Uma Paixão Em Nova York
+http://pdsrv.io:25461/movie/jacare/jacare/24913.mp4
+#EXTINF:-1,Flicka 2
+http://pdsrv.io:25461/movie/jacare/jacare/24914.mp4
+#EXTINF:-1,Flicka 3: Melhores Amigos
+http://pdsrv.io:25461/movie/jacare/jacare/24915.mp4
+#EXTINF:-1,Caninos Brancos 2: A Lenda Do Lobo Branco
+http://pdsrv.io:25461/movie/jacare/jacare/24918.mp4
+#EXTINF:-1,O Fantasma Do Megaplex
+http://pdsrv.io:25461/movie/jacare/jacare/24961.mp4
+#EXTINF:-1,Jump In!
+http://pdsrv.io:25461/movie/jacare/jacare/24962.mp4
+#EXTINF:-1,Um Cruzeiro Muito Louco
+http://pdsrv.io:25461/movie/jacare/jacare/24963.mp4
+#EXTINF:-1,Piratas Modernos
+http://pdsrv.io:25461/movie/jacare/jacare/24964.mp4
+#EXTINF:-1,Teen Beach
+http://pdsrv.io:25461/movie/jacare/jacare/24965.mp4
+#EXTINF:-1,Teen Beach 2
+http://pdsrv.io:25461/movie/jacare/jacare/24966.mp4
+#EXTINF:-1,Eram Os Deuses Astronautas?
+http://pdsrv.io:25461/movie/jacare/jacare/24969.mp4
+#EXTINF:-1,Ursos Polares
+http://pdsrv.io:25461/movie/jacare/jacare/24970.mp4
+#EXTINF:-1,Operação Enganosa
+http://pdsrv.io:25461/movie/jacare/jacare/24973.mp4
+#EXTINF:-1,City Of Joy: Onde Vive A Esperança
+http://pdsrv.io:25461/movie/jacare/jacare/24974.mp4
+#EXTINF:-1,O Fotógrafo De Mauthausen
+http://pdsrv.io:25461/movie/jacare/jacare/24977.mp4
+#EXTINF:-1,Paddleton
+http://pdsrv.io:25461/movie/jacare/jacare/24978.mp4
+#EXTINF:-1,Pelas Ruas De Paris
+http://pdsrv.io:25461/movie/jacare/jacare/24979.mp4
+#EXTINF:-1,Anavitória: Araguaína - Las Vegas
+http://pdsrv.io:25461/movie/jacare/jacare/24981.mp4
+#EXTINF:-1,Jogos Vorazes
+http://pdsrv.io:25461/movie/jacare/jacare/25020.mp4
+#EXTINF:-1,Jogos Vorazes: Em Chamas
+http://pdsrv.io:25461/movie/jacare/jacare/25021.mp4
+#EXTINF:-1,Jogos Vorazes: A Esperança Parte 1
+http://pdsrv.io:25461/movie/jacare/jacare/25022.mp4
+#EXTINF:-1,Jogos Vorazes: A Esperança Parte 2
+http://pdsrv.io:25461/movie/jacare/jacare/25023.mp4
+#EXTINF:-1,Como Treinar O Seu Dragão 2
+http://pdsrv.io:25461/movie/jacare/jacare/25024.mp4
+#EXTINF:-1,Rota Mortal
+http://pdsrv.io:25461/movie/jacare/jacare/25071.mp4
+#EXTINF:-1,Kamp Holland
+http://pdsrv.io:25461/movie/jacare/jacare/25072.mp4
+#EXTINF:-1,Irmão De Espião
+http://pdsrv.io:25461/movie/jacare/jacare/25073.mp4
+#EXTINF:-1,De Amor E Trevas
+http://pdsrv.io:25461/movie/jacare/jacare/25096.mp4
+#EXTINF:-1,Entrevista Com Deus
+http://pdsrv.io:25461/movie/jacare/jacare/25097.mp4
+#EXTINF:-1,O Favorito
+http://pdsrv.io:25461/movie/jacare/jacare/25098.mp4
+#EXTINF:-1,Loucura Do Tempo
+http://pdsrv.io:25461/movie/jacare/jacare/25099.mp4
+#EXTINF:-1,Fúria Em Alto Mar
+http://pdsrv.io:25461/movie/jacare/jacare/25100.mp4
+#EXTINF:-1,O Mestre Das Armas
+http://pdsrv.io:25461/movie/jacare/jacare/25101.mp4
+#EXTINF:-1,Leão Branco: O Lutador Sem Lei
+http://pdsrv.io:25461/movie/jacare/jacare/25102.mp4
+#EXTINF:-1,Psicose
+http://pdsrv.io:25461/movie/jacare/jacare/25103.mp4
+#EXTINF:-1,Psicose 2
+http://pdsrv.io:25461/movie/jacare/jacare/25104.mp4
+#EXTINF:-1,Psicose 3
+http://pdsrv.io:25461/movie/jacare/jacare/25105.mp4
+#EXTINF:-1,Psicose 4: A Revelação
+http://pdsrv.io:25461/movie/jacare/jacare/25106.mp4
+#EXTINF:-1,Excelentissimos
+http://pdsrv.io:25461/movie/jacare/jacare/25107.mp4
+#EXTINF:-1,Megarrromântico
+http://pdsrv.io:25461/movie/jacare/jacare/25110.mp4
+#EXTINF:-1,Quem Cantará As Suas Canções?
+http://pdsrv.io:25461/movie/jacare/jacare/25111.mp4
+#EXTINF:-1,Os Instrumentos Mortais: Cidade Dos Ossos
+http://pdsrv.io:25461/movie/jacare/jacare/25113.mp4
+#EXTINF:-1,Podres De Ricos
+http://pdsrv.io:25461/movie/jacare/jacare/25114.mp4
+#EXTINF:-1,Dragon Ball 1 - A Lenda De Shenlong
+http://pdsrv.io:25461/movie/jacare/jacare/25115.mp4
+#EXTINF:-1,Dragon Ball 2 - A Bela Adormecida Do Castelo Amaldiçoado
+http://pdsrv.io:25461/movie/jacare/jacare/25116.mp4
+#EXTINF:-1,Dragon Ball 3 - A Aventura Mística
+http://pdsrv.io:25461/movie/jacare/jacare/25117.mp4
+#EXTINF:-1,Dragon Ball 3 - Em Busca Do Poder
+http://pdsrv.io:25461/movie/jacare/jacare/25118.mp4
+#EXTINF:-1,Dragon Ball Z 1 - Devolva-me Gohan
+http://pdsrv.io:25461/movie/jacare/jacare/25119.mp4
+#EXTINF:-1,Dragon Ball Z 2 - O Homem Mais Forte Do Mundo
+http://pdsrv.io:25461/movie/jacare/jacare/25120.mp4
+#EXTINF:-1,Dragon Ball Z 3 - A Árvore Do Poder
+http://pdsrv.io:25461/movie/jacare/jacare/25121.mp4
+#EXTINF:-1,Dragon Ball Z 4 - Goku, O Super Sayajin
+http://pdsrv.io:25461/movie/jacare/jacare/25122.mp4
+#EXTINF:-1,Dragon Ball Z 5 - Uma Vingança Para Freeza
+http://pdsrv.io:25461/movie/jacare/jacare/25123.mp4
+#EXTINF:-1,Dragon Ball Z 6 - O Retorno De Coola
+http://pdsrv.io:25461/movie/jacare/jacare/25124.mp4
+#EXTINF:-1,Dragon Ball Z 7 - O Retorno Dos Andróides
+http://pdsrv.io:25461/movie/jacare/jacare/25125.mp4
+#EXTINF:-1,Dragon Ball Z 8 - O Poder Invencível
+http://pdsrv.io:25461/movie/jacare/jacare/25126.mp4
+#EXTINF:-1,Dragon Ball Z 9 - A Batalha Nos Dois Mundos
+http://pdsrv.io:25461/movie/jacare/jacare/25127.mp4
+#EXTINF:-1,Dragon Ball Z 10 - O Retorno Do Guerreiro Lendário
+http://pdsrv.io:25461/movie/jacare/jacare/25128.mp4
+#EXTINF:-1,Dragon Ball Z 11 - O Combate Final: Bio-Broly
+http://pdsrv.io:25461/movie/jacare/jacare/25129.mp4
+#EXTINF:-1,Dragon Ball Z 12 - Uma Nova Fusão! Goku E Vegeta
+http://pdsrv.io:25461/movie/jacare/jacare/25130.mp4
+#EXTINF:-1,Dragon Ball Z 13 - O Ataque Do Dragão
+http://pdsrv.io:25461/movie/jacare/jacare/25131.mp4
+#EXTINF:-1,O Rei Leão 2: O Reino De Simba
+http://pdsrv.io:25461/movie/jacare/jacare/25133.mp4
+#EXTINF:-1,O Rei Leão 3: Hakuna Matata
+http://pdsrv.io:25461/movie/jacare/jacare/25134.mp4
+#EXTINF:-1,Uma Aventura Lego 2
+http://pdsrv.io:25461/movie/jacare/jacare/25140.mp4
+#EXTINF:-1,Operação Overlord
+http://pdsrv.io:25461/movie/jacare/jacare/25141.mp4
+#EXTINF:-1,Milagres Do Paraíso
+http://pdsrv.io:25461/movie/jacare/jacare/25142.mp4
+#EXTINF:-1,A Colheita Da Fé
+http://pdsrv.io:25461/movie/jacare/jacare/25143.mp4
+#EXTINF:-1,Em Defesa De Cristo
+http://pdsrv.io:25461/movie/jacare/jacare/25144.mp4
+#EXTINF:-1,Entre A Vingança E O Perdão
+http://pdsrv.io:25461/movie/jacare/jacare/25145.mp4
+#EXTINF:-1,Exodo Deuses E Reis
+http://pdsrv.io:25461/movie/jacare/jacare/25146.mp4
+#EXTINF:-1,José Do Egito - O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/25147.mp4
+#EXTINF:-1,O Evangelho Segundo João
+http://pdsrv.io:25461/movie/jacare/jacare/25148.mp4
+#EXTINF:-1,Onde Está Deus
+http://pdsrv.io:25461/movie/jacare/jacare/25149.mp4
+#EXTINF:-1,Pedro: A Redenção
+http://pdsrv.io:25461/movie/jacare/jacare/25150.mp4
+#EXTINF:-1,Uma Vida Com Propósito
+http://pdsrv.io:25461/movie/jacare/jacare/25151.mp4
+#EXTINF:-1,À Prova De Fogo
+http://pdsrv.io:25461/movie/jacare/jacare/25152.mp4
+#EXTINF:-1,Brigada 49
+http://pdsrv.io:25461/movie/jacare/jacare/25153.mp4
+#EXTINF:-1,Call To Duty Fora De Alcance
+http://pdsrv.io:25461/movie/jacare/jacare/25154.mp4
+#EXTINF:-1,Coração Valente
+http://pdsrv.io:25461/movie/jacare/jacare/25156.mp4
+#EXTINF:-1,Cães De Guerra
+http://pdsrv.io:25461/movie/jacare/jacare/25157.mp4
+#EXTINF:-1,Meu Ódio Será Sua Herança
+http://pdsrv.io:25461/movie/jacare/jacare/25159.mp4
+#EXTINF:-1,Os Imperdoáveis
+http://pdsrv.io:25461/movie/jacare/jacare/25160.mp4
+#EXTINF:-1,Os Violentos Vão Para O Inferno
+http://pdsrv.io:25461/movie/jacare/jacare/25161.mp4
+#EXTINF:-1,O Ataque Dos Vermes Malditos 4: O Começo Da Lenda
+http://pdsrv.io:25461/movie/jacare/jacare/25162.mp4
+#EXTINF:-1,Bandidas
+http://pdsrv.io:25461/movie/jacare/jacare/25163.mp4
+#EXTINF:-1,Oeste Sem Lei
+http://pdsrv.io:25461/movie/jacare/jacare/25164.mp4
+#EXTINF:-1,Vingança Mesmo Que Tardia
+http://pdsrv.io:25461/movie/jacare/jacare/25165.mp4
+#EXTINF:-1,O Duelo
+http://pdsrv.io:25461/movie/jacare/jacare/25166.mp4
+#EXTINF:-1,Dead In Tombstone
+http://pdsrv.io:25461/movie/jacare/jacare/25167.mp4
+#EXTINF:-1,Até Que A Gente Te Separe
+http://pdsrv.io:25461/movie/jacare/jacare/25238.mp4
+#EXTINF:-1,O Despertar De Um Assassino
+http://pdsrv.io:25461/movie/jacare/jacare/25239.mp4
+#EXTINF:-1,Relações De Família
+http://pdsrv.io:25461/movie/jacare/jacare/25240.mp4
+#EXTINF:-1,A Caminho De Casa
+http://pdsrv.io:25461/movie/jacare/jacare/25241.mp4
+#EXTINF:-1,A Maldição Da Freira
+http://pdsrv.io:25461/movie/jacare/jacare/25242.mp4
+#EXTINF:-1,A Sereia - Lago Dos Mortos
+http://pdsrv.io:25461/movie/jacare/jacare/25243.mp4
+#EXTINF:-1,Assunto De Família
+http://pdsrv.io:25461/movie/jacare/jacare/25244.mp4
+#EXTINF:-1,O Quarto De Jack
+http://pdsrv.io:25461/movie/jacare/jacare/25246.mp4
+#EXTINF:-1,T-34
+http://pdsrv.io:25461/movie/jacare/jacare/25247.mp4
+#EXTINF:-1,Jogos Mortais: Jigsaw
+http://pdsrv.io:25461/movie/jacare/jacare/25259.mp4
+#EXTINF:-1,A Morte Te Dá Parabéns 2
+http://pdsrv.io:25461/movie/jacare/jacare/25260.mp4
+#EXTINF:-1,Green Book: O Guia
+http://pdsrv.io:25461/movie/jacare/jacare/25261.mp4
+#EXTINF:-1,A Era Do Gelo A Grande Caçada Aos Ovos De Páscoa
+http://pdsrv.io:25461/movie/jacare/jacare/25262.mp4
+#EXTINF:-1,Um Olhar No Paraiso
+http://pdsrv.io:25461/movie/jacare/jacare/25263.mp4
+#EXTINF:-1,Andar Montar Rodeio - A Virada De Amberley
+http://pdsrv.io:25461/movie/jacare/jacare/25267.mp4
+#EXTINF:-1,Crimes Na Escola
+http://pdsrv.io:25461/movie/jacare/jacare/25272.mp4
+#EXTINF:-1,Meu Professor, Minha Obsessão
+http://pdsrv.io:25461/movie/jacare/jacare/25273.mp4
+#EXTINF:-1,Amores Urbanos
+http://pdsrv.io:25461/movie/jacare/jacare/25274.mp4
+#EXTINF:-1,O Caminho Difícil
+http://pdsrv.io:25461/movie/jacare/jacare/25275.mp4
+#EXTINF:-1,O Retorno De Mary Poppins
+http://pdsrv.io:25461/movie/jacare/jacare/25279.mp4
+#EXTINF:-1,Wildling – Criaturas Noturnas
+http://pdsrv.io:25461/movie/jacare/jacare/25280.mp4
+#EXTINF:-1,A Filha Do Presidente
+http://pdsrv.io:25461/movie/jacare/jacare/25290.mp4
+#EXTINF:-1,Kung Fu Jungle
+http://pdsrv.io:25461/movie/jacare/jacare/25291.mp4
+#EXTINF:-1,Crossover, Túnel Do Tempo
+http://pdsrv.io:25461/movie/jacare/jacare/25292.mp4
+#EXTINF:-1,Máquinas Mortais
+http://pdsrv.io:25461/movie/jacare/jacare/25293.mp4
+#EXTINF:-1,Ninguem Segura Essa Garota
+http://pdsrv.io:25461/movie/jacare/jacare/25294.mp4
+#EXTINF:-1,O Grande Mestre
+http://pdsrv.io:25461/movie/jacare/jacare/25295.mp4
+#EXTINF:-1,O Melhor De Mim
+http://pdsrv.io:25461/movie/jacare/jacare/25296.mp4
+#EXTINF:-1,Vidro
+http://pdsrv.io:25461/movie/jacare/jacare/25297.mp4
+#EXTINF:-1,Te Peguei
+http://pdsrv.io:25461/movie/jacare/jacare/25373.mp4
+#EXTINF:-1,Os Três Patetas
+http://pdsrv.io:25461/movie/jacare/jacare/25374.mp4
+#EXTINF:-1,Histórias Que Nosso Cinema (Não) Contava
+http://pdsrv.io:25461/movie/jacare/jacare/25375.mp4
+#EXTINF:-1,Minha Vida Em Marte
+http://pdsrv.io:25461/movie/jacare/jacare/25376.mp4
+#EXTINF:-1,LEGO Jurassic World A Exposição Secreta
+http://pdsrv.io:25461/movie/jacare/jacare/25377.mp4
+#EXTINF:-1,Nanatsu No Taizai Movie Tenkuu No Torawarebito
+http://pdsrv.io:25461/movie/jacare/jacare/25378.mp4
+#EXTINF:-1,Operação Fronteira
+http://pdsrv.io:25461/movie/jacare/jacare/25380.mp4
+#EXTINF:-1,Sem Prada Nem Nada
+http://pdsrv.io:25461/movie/jacare/jacare/25381.mp4
+#EXTINF:-1,Tully
+http://pdsrv.io:25461/movie/jacare/jacare/25382.mp4
+#EXTINF:-1,Confissões De Adolescente
+http://pdsrv.io:25461/movie/jacare/jacare/25383.mp4
+#EXTINF:-1,Minha Casa Rosa
+http://pdsrv.io:25461/movie/jacare/jacare/25389.mp4
+#EXTINF:-1,Pérola No Paraíso
+http://pdsrv.io:25461/movie/jacare/jacare/25390.mp4
+#EXTINF:-1,Um Novo Mundo
+http://pdsrv.io:25461/movie/jacare/jacare/25392.mp4
+#EXTINF:-1,Juanita
+http://pdsrv.io:25461/movie/jacare/jacare/25395.mp4
+#EXTINF:-1,Dia De Casamento 4
+http://pdsrv.io:25461/movie/jacare/jacare/25396.mp4
+#EXTINF:-1,Crazy Trips - Budapeste
+http://pdsrv.io:25461/movie/jacare/jacare/25397.mp4
+#EXTINF:-1,Harry Potter E A Pedra Filosofal
+http://pdsrv.io:25461/movie/jacare/jacare/25406.mp4
+#EXTINF:-1,Harry Potter E A Câmara Secreta
+http://pdsrv.io:25461/movie/jacare/jacare/25407.mp4
+#EXTINF:-1,Harry Potter E O Prisioneiro De Azkaban
+http://pdsrv.io:25461/movie/jacare/jacare/25408.mp4
+#EXTINF:-1,Harry Potter E O Cálice De Fogo
+http://pdsrv.io:25461/movie/jacare/jacare/25409.mp4
+#EXTINF:-1,Harry Potter E A Ordem Da Fênix
+http://pdsrv.io:25461/movie/jacare/jacare/25410.mp4
+#EXTINF:-1,Harry Potter E As Relíquias Da Morte - Parte 1
+http://pdsrv.io:25461/movie/jacare/jacare/25411.mp4
+#EXTINF:-1,Harry Potter E As Relíquias Da Morte - Parte 2
+http://pdsrv.io:25461/movie/jacare/jacare/25412.mp4
+#EXTINF:-1,Velozes E Furiosos 1
+http://pdsrv.io:25461/movie/jacare/jacare/25414.mkv
+#EXTINF:-1,Velozes E Furiosos 2
+http://pdsrv.io:25461/movie/jacare/jacare/25415.mkv
+#EXTINF:-1,Velozes E Furiosos 3
+http://pdsrv.io:25461/movie/jacare/jacare/25416.mkv
+#EXTINF:-1,Velozes E Furiosos 4
+http://pdsrv.io:25461/movie/jacare/jacare/25417.mkv
+#EXTINF:-1,Velozes E Furiosos 5
+http://pdsrv.io:25461/movie/jacare/jacare/25418.mkv
+#EXTINF:-1,Velozes E Furiosos 6
+http://pdsrv.io:25461/movie/jacare/jacare/25419.mkv
+#EXTINF:-1,Corrida Mortal
+http://pdsrv.io:25461/movie/jacare/jacare/25421.mp4
+#EXTINF:-1,Corrida Mortal 2
+http://pdsrv.io:25461/movie/jacare/jacare/25422.mp4
+#EXTINF:-1,Corrida Mortal 3
+http://pdsrv.io:25461/movie/jacare/jacare/25423.mp4
+#EXTINF:-1,Jogos Mortais
+http://pdsrv.io:25461/movie/jacare/jacare/25424.mp4
+#EXTINF:-1,Jogos Mortais 2
+http://pdsrv.io:25461/movie/jacare/jacare/25425.mp4
+#EXTINF:-1,Jogos Mortais 3
+http://pdsrv.io:25461/movie/jacare/jacare/25426.mp4
+#EXTINF:-1,Jogos Mortais 4
+http://pdsrv.io:25461/movie/jacare/jacare/25427.mp4
+#EXTINF:-1,Jogos Mortais 5
+http://pdsrv.io:25461/movie/jacare/jacare/25428.mp4
+#EXTINF:-1,Jogos Mortais 6
+http://pdsrv.io:25461/movie/jacare/jacare/25429.mp4
+#EXTINF:-1,Jogos Mortais O Final
+http://pdsrv.io:25461/movie/jacare/jacare/25430.mp4
+#EXTINF:-1,O Planeta Dos Macacos
+http://pdsrv.io:25461/movie/jacare/jacare/25431.mp4
+#EXTINF:-1,O Planeta Dos Macacos 2
+http://pdsrv.io:25461/movie/jacare/jacare/25432.mp4
+#EXTINF:-1,O Planeta Dos Macacos 3
+http://pdsrv.io:25461/movie/jacare/jacare/25433.mp4
+#EXTINF:-1,O Planeta Dos Macacos 4
+http://pdsrv.io:25461/movie/jacare/jacare/25434.mp4
+#EXTINF:-1,O Planeta Dos Macacos 5
+http://pdsrv.io:25461/movie/jacare/jacare/25435.mp4
+#EXTINF:-1,Crepusculo
+http://pdsrv.io:25461/movie/jacare/jacare/25436.mp4
+#EXTINF:-1,Crepusculo Eclipse
+http://pdsrv.io:25461/movie/jacare/jacare/25438.mp4
+#EXTINF:-1,Crepusculo Amanhecer PT 1
+http://pdsrv.io:25461/movie/jacare/jacare/25439.mp4
+#EXTINF:-1,Crepusculo Amanhecer PT 2
+http://pdsrv.io:25461/movie/jacare/jacare/25440.mp4
+#EXTINF:-1,American Pie 2 - A Segunda Vez é Ainda Melhor
+http://pdsrv.io:25461/movie/jacare/jacare/25442.avi
+#EXTINF:-1,Asfalto De Sangue
+http://pdsrv.io:25461/movie/jacare/jacare/25453.mp4
+#EXTINF:-1,Coragem Para Vencer
+http://pdsrv.io:25461/movie/jacare/jacare/25454.mp4
+#EXTINF:-1,Carga Mortal
+http://pdsrv.io:25461/movie/jacare/jacare/25455.mp4
+#EXTINF:-1,Lizzie
+http://pdsrv.io:25461/movie/jacare/jacare/25457.mp4
+#EXTINF:-1,Carandiru
+http://pdsrv.io:25461/movie/jacare/jacare/25493.mp4
+#EXTINF:-1,A Favorita
+http://pdsrv.io:25461/movie/jacare/jacare/25494.mp4
+#EXTINF:-1,O Outro Lado Do Lago
+http://pdsrv.io:25461/movie/jacare/jacare/25495.mp4
+#EXTINF:-1,Sobre Pais E Filhos
+http://pdsrv.io:25461/movie/jacare/jacare/25496.mp4
+#EXTINF:-1,Obsessão Perigosa
+http://pdsrv.io:25461/movie/jacare/jacare/25534.mp4
+#EXTINF:-1,A Mula
+http://pdsrv.io:25461/movie/jacare/jacare/25537.mp4
+#EXTINF:-1,Swiped Arrasando Corações
+http://pdsrv.io:25461/movie/jacare/jacare/25539.mp4
+#EXTINF:-1,O Cerco De Mumbai: 4 Dias De Terror
+http://pdsrv.io:25461/movie/jacare/jacare/25540.mp4
+#EXTINF:-1,Apenas Amigos
+http://pdsrv.io:25461/movie/jacare/jacare/25551.mp4
+#EXTINF:-1,Aprovados
+http://pdsrv.io:25461/movie/jacare/jacare/25552.mp4
+#EXTINF:-1,As Bem-Armadas
+http://pdsrv.io:25461/movie/jacare/jacare/25553.mp4
+#EXTINF:-1,As Mil Palavras
+http://pdsrv.io:25461/movie/jacare/jacare/25555.mp4
+#EXTINF:-1,A Verdade Nua E Crua
+http://pdsrv.io:25461/movie/jacare/jacare/25556.mp4
+#EXTINF:-1,Caindo Na Estrada
+http://pdsrv.io:25461/movie/jacare/jacare/25557.mp4
+#EXTINF:-1,Caindo Na Estrada 2 - O Jogo Da Cerveja
+http://pdsrv.io:25461/movie/jacare/jacare/25558.mp4
+#EXTINF:-1,Ela Dança Eu Danço
+http://pdsrv.io:25461/movie/jacare/jacare/25672.mp4
+#EXTINF:-1,Ela Dança, Eu Danço 2
+http://pdsrv.io:25461/movie/jacare/jacare/25673.mp4
+#EXTINF:-1,Ela Dança, Eu Danço 3
+http://pdsrv.io:25461/movie/jacare/jacare/25674.mp4
+#EXTINF:-1,Ela Dança, Eu Danço 4
+http://pdsrv.io:25461/movie/jacare/jacare/25675.mp4
+#EXTINF:-1,Ela Dança, Eu Danço 5
+http://pdsrv.io:25461/movie/jacare/jacare/25676.mp4
+#EXTINF:-1,Não Se Aceitam Devoluções
+http://pdsrv.io:25461/movie/jacare/jacare/25677.mp4
+#EXTINF:-1,Os Caubóis Do Apocalipse
+http://pdsrv.io:25461/movie/jacare/jacare/25678.mp4
+#EXTINF:-1,O Clube Dos Canibais
+http://pdsrv.io:25461/movie/jacare/jacare/25679.mp4
+#EXTINF:-1,Detetives Do Prédio Azul 2 - O Mistério Italiano
+http://pdsrv.io:25461/movie/jacare/jacare/25681.mp4
+#EXTINF:-1,Rasga Coração
+http://pdsrv.io:25461/movie/jacare/jacare/25682.mp4
+#EXTINF:-1,The Drug King
+http://pdsrv.io:25461/movie/jacare/jacare/25685.mkv
+#EXTINF:-1,Maquinas Mortais
+http://pdsrv.io:25461/movie/jacare/jacare/25686.mp4
+#EXTINF:-1,A LENDA DE WILD BILL
+http://pdsrv.io:25461/movie/jacare/jacare/25687.mp4
+#EXTINF:-1,RESGATE NO OESTE
+http://pdsrv.io:25461/movie/jacare/jacare/25688.mp4
+#EXTINF:-1,JUSTIÇA ENTRE A LEI E A VINGANÇA
+http://pdsrv.io:25461/movie/jacare/jacare/25689.mp4
+#EXTINF:-1,Kevin Hart's Guide To Black History
+http://pdsrv.io:25461/movie/jacare/jacare/25690.mp4
+#EXTINF:-1,O Menino que Descobriu o Vento (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/25691.mp4
+#EXTINF:-1,Parque do Inferno (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/25693.mp4
+#EXTINF:-1,Pokémon - O Filme: O Poder de Todos (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/25694.mp4
+#EXTINF:-1,Look Away
+http://pdsrv.io:25461/movie/jacare/jacare/25698.mp4
+#EXTINF:-1,Durante A Tormenta
+http://pdsrv.io:25461/movie/jacare/jacare/25703.mp4
+#EXTINF:-1,The Dirt: Confissões Do Mötley Crüe
+http://pdsrv.io:25461/movie/jacare/jacare/25706.mp4
+#EXTINF:-1,Programa De Proteção Para Princesas
+http://pdsrv.io:25461/movie/jacare/jacare/25707.mp4
+#EXTINF:-1,Lascados
+http://pdsrv.io:25461/movie/jacare/jacare/25709.mp4
+#EXTINF:-1,Bayoneta
+http://pdsrv.io:25461/movie/jacare/jacare/25783.mp4
+#EXTINF:-1,Saving Leningrad
+http://pdsrv.io:25461/movie/jacare/jacare/25784.mp4
+#EXTINF:-1,A Lenda Da Ilha Do Pó
+http://pdsrv.io:25461/movie/jacare/jacare/25785.mp4
+#EXTINF:-1,Kim Possible
+http://pdsrv.io:25461/movie/jacare/jacare/25786.mp4
+#EXTINF:-1,Casa Das Trevas 2
+http://pdsrv.io:25461/movie/jacare/jacare/25818.mp4
+#EXTINF:-1,Missão - Amsterdam
+http://pdsrv.io:25461/movie/jacare/jacare/25823.mp4
+#EXTINF:-1,Terapia De Casais Para Amantes
+http://pdsrv.io:25461/movie/jacare/jacare/25864.mp4
+#EXTINF:-1,Visitas Noturnas
+http://pdsrv.io:25461/movie/jacare/jacare/25865.mp4
+#EXTINF:-1,O Homem Nas Trevas
+http://pdsrv.io:25461/movie/jacare/jacare/25866.mp4
+#EXTINF:-1,À Procura Da Vingança
+http://pdsrv.io:25461/movie/jacare/jacare/25867.mp4
+#EXTINF:-1,Terra Fria
+http://pdsrv.io:25461/movie/jacare/jacare/25868.mp4
+#EXTINF:-1,Cara, Cadê O Dragão?
+http://pdsrv.io:25461/movie/jacare/jacare/25869.mp4
+#EXTINF:-1,As Férias Do Pequeno Nicolau
+http://pdsrv.io:25461/movie/jacare/jacare/25871.mp4
+#EXTINF:-1,A Patrulha Das Almas
+http://pdsrv.io:25461/movie/jacare/jacare/25872.mp4
+#EXTINF:-1,Em Busca Da Terra Do Nunca
+http://pdsrv.io:25461/movie/jacare/jacare/25873.mp4
+#EXTINF:-1,Um Cruzeiro Muito Louco
+http://pdsrv.io:25461/movie/jacare/jacare/25875.mp4
+#EXTINF:-1,Fuga Da Biblioteca Do Sr  Lemoncello
+http://pdsrv.io:25461/movie/jacare/jacare/25898.mp4
+#EXTINF:-1,Como Criar O Garoto Perfeito
+http://pdsrv.io:25461/movie/jacare/jacare/25899.mp4
+#EXTINF:-1,O Anel Da Luz Eterna
+http://pdsrv.io:25461/movie/jacare/jacare/25901.mp4
+#EXTINF:-1,Na Batida Do Coração
+http://pdsrv.io:25461/movie/jacare/jacare/25902.mp4
+#EXTINF:-1,Arcade: Você Vai Entrar Nesse Jogo
+http://pdsrv.io:25461/movie/jacare/jacare/25903.mp4
+#EXTINF:-1,A Primeira Chegada
+http://pdsrv.io:25461/movie/jacare/jacare/25904.mp4
+#EXTINF:-1,Celular
+http://pdsrv.io:25461/movie/jacare/jacare/25905.mp4
+#EXTINF:-1,Sincronizados
+http://pdsrv.io:25461/movie/jacare/jacare/25906.mp4
+#EXTINF:-1,Eu, Robô
+http://pdsrv.io:25461/movie/jacare/jacare/25907.mp4
+#EXTINF:-1,Kin
+http://pdsrv.io:25461/movie/jacare/jacare/25908.mp4
+#EXTINF:-1,O Homem Sem Sombra 2
+http://pdsrv.io:25461/movie/jacare/jacare/25909.mp4
+#EXTINF:-1,Garotos De Lugar Nenhum: O Livro Das Sombras
+http://pdsrv.io:25461/movie/jacare/jacare/25911.mp4
+#EXTINF:-1,Mentes Sombrias
+http://pdsrv.io:25461/movie/jacare/jacare/25912.mp4
+#EXTINF:-1,Bumblebee
+http://pdsrv.io:25461/movie/jacare/jacare/25913.mp4
+#EXTINF:-1,Dragon Ball Z 14 - A Batalha Dos Deuses
+http://pdsrv.io:25461/movie/jacare/jacare/25917.mp4
+#EXTINF:-1,Yu-Gi-OH!: Duel Monsters - Piramide Da Luz
+http://pdsrv.io:25461/movie/jacare/jacare/25918.mp4
+#EXTINF:-1,Pokémon 1 - Mewtwo Contra-Ataca
+http://pdsrv.io:25461/movie/jacare/jacare/25919.mp4
+#EXTINF:-1,Pokémon 2 - Pokémon O Poder De Um
+http://pdsrv.io:25461/movie/jacare/jacare/25920.mp4
+#EXTINF:-1,Pokémon 3 - O Feitiço Dos Unown
+http://pdsrv.io:25461/movie/jacare/jacare/25921.mp4
+#EXTINF:-1,Pokémon 4 - Viajantes Do Tempo
+http://pdsrv.io:25461/movie/jacare/jacare/25922.mp4
+#EXTINF:-1,Pokémon 5 - Heróis Pokémon
+http://pdsrv.io:25461/movie/jacare/jacare/25923.mp4
+#EXTINF:-1,Pokémon 6 - Jirachi Realizador De Desejos
+http://pdsrv.io:25461/movie/jacare/jacare/25924.mp4
+#EXTINF:-1,Pokémon 7 - Alma Gêmea
+http://pdsrv.io:25461/movie/jacare/jacare/25925.mp4
+#EXTINF:-1,Pokémon 8 - Lucario E O Mistério De Mew
+http://pdsrv.io:25461/movie/jacare/jacare/25926.mp4
+#EXTINF:-1,Pokémon 9 - Pokémon Ranger E O Lendário Templo Do Mar
+http://pdsrv.io:25461/movie/jacare/jacare/25927.mp4
+#EXTINF:-1,Pokémon 10 - Pokémon O Pesadelo De Darkrai
+http://pdsrv.io:25461/movie/jacare/jacare/25928.mp4
+#EXTINF:-1,Pokémon 11 - Giratina E O Cavaleiro Do Céu
+http://pdsrv.io:25461/movie/jacare/jacare/25929.mp4
+#EXTINF:-1,Pokémon 12 - Pokémon Arceus E A Jóia Da Vida
+http://pdsrv.io:25461/movie/jacare/jacare/25930.mp4
+#EXTINF:-1,Pokémon 13 - Zoroark O Mestre Das Ilusões
+http://pdsrv.io:25461/movie/jacare/jacare/25931.mp4
+#EXTINF:-1,Pokémon 14 - Branco: Victini E Zekrom
+http://pdsrv.io:25461/movie/jacare/jacare/25932.mp4
+#EXTINF:-1,Pokémon 14 - Preto: Victini E Reshiram
+http://pdsrv.io:25461/movie/jacare/jacare/25933.mp4
+#EXTINF:-1,Pokémon 15 - Kyurem Contra A Espada Da Justiça
+http://pdsrv.io:25461/movie/jacare/jacare/25934.mp4
+#EXTINF:-1,Pokémon 16 - Genesect E A Lenda Revelada
+http://pdsrv.io:25461/movie/jacare/jacare/25935.mp4
+#EXTINF:-1,Pokémon 17 - Diancie E O Casulo Da Destruição
+http://pdsrv.io:25461/movie/jacare/jacare/25936.mp4
+#EXTINF:-1,Pokémon 18 - Hoopa E O Duelo Lendário
+http://pdsrv.io:25461/movie/jacare/jacare/25937.mp4
+#EXTINF:-1,Pokémon 19 - Volcanion E A Maravilha Mecânica
+http://pdsrv.io:25461/movie/jacare/jacare/25938.mp4
+#EXTINF:-1,Pokémon 21: O Poder De Todos
+http://pdsrv.io:25461/movie/jacare/jacare/25939.mp4
+#EXTINF:-1,A Lenda Dos Guardiões
+http://pdsrv.io:25461/movie/jacare/jacare/25940.mp4
+#EXTINF:-1,Looney Tunes: De Volta à Ação
+http://pdsrv.io:25461/movie/jacare/jacare/25941.mp4
+#EXTINF:-1,Uma Fazenda Maluca 2: Queijo De Cabra
+http://pdsrv.io:25461/movie/jacare/jacare/25942.mp4
+#EXTINF:-1,Uma Fazenda Maluca
+http://pdsrv.io:25461/movie/jacare/jacare/25943.mp4
+#EXTINF:-1,Lilo & Stitch
+http://pdsrv.io:25461/movie/jacare/jacare/25944.mp4
+#EXTINF:-1,Stitch!: O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/25945.mp4
+#EXTINF:-1,Lilo & Stitch 2: Stitch Deu Defeito
+http://pdsrv.io:25461/movie/jacare/jacare/25946.mp4
+#EXTINF:-1,Leroy & Stitch
+http://pdsrv.io:25461/movie/jacare/jacare/25947.mp4
+#EXTINF:-1,O Pequeno Stuart Little
+http://pdsrv.io:25461/movie/jacare/jacare/25948.mp4
+#EXTINF:-1,O Natal De Angela
+http://pdsrv.io:25461/movie/jacare/jacare/25949.mp4
+#EXTINF:-1,Caçadores De Dragões
+http://pdsrv.io:25461/movie/jacare/jacare/25950.mp4
+#EXTINF:-1,A Fuga Do Planeta Terra
+http://pdsrv.io:25461/movie/jacare/jacare/25951.mp4
+#EXTINF:-1,Submundo Das Lutas
+http://pdsrv.io:25461/movie/jacare/jacare/25952.mp4
+#EXTINF:-1,Monte Carlo
+http://pdsrv.io:25461/movie/jacare/jacare/25953.mp4
+#EXTINF:-1,Caçadora De Gigantes
+http://pdsrv.io:25461/movie/jacare/jacare/25954.mp4
+#EXTINF:-1,Destruição: Los Angeles
+http://pdsrv.io:25461/movie/jacare/jacare/25955.mp4
+#EXTINF:-1,Uma Viagem Extraordinária
+http://pdsrv.io:25461/movie/jacare/jacare/25956.mp4
+#EXTINF:-1,Esqueceram De Mim
+http://pdsrv.io:25461/movie/jacare/jacare/25957.mp4
+#EXTINF:-1,Esqueceram De Mim 2: Perdido Em Nova York
+http://pdsrv.io:25461/movie/jacare/jacare/25958.mp4
+#EXTINF:-1,Um Lugar Solitário Para Morrer
+http://pdsrv.io:25461/movie/jacare/jacare/25959.mp4
+#EXTINF:-1,O Príncipe De Peoria E O Milagre De Natal
+http://pdsrv.io:25461/movie/jacare/jacare/25960.mp4
+#EXTINF:-1,No Coração Do Mar
+http://pdsrv.io:25461/movie/jacare/jacare/25961.mp4
+#EXTINF:-1,Kickboxer: O Desafio Do Dragão
+http://pdsrv.io:25461/movie/jacare/jacare/25962.mp4
+#EXTINF:-1,Kickboxer 2: A Vingança Do Dragão
+http://pdsrv.io:25461/movie/jacare/jacare/25963.mp4
+#EXTINF:-1,Kickboxer 3: A Arte Da Guerra
+http://pdsrv.io:25461/movie/jacare/jacare/25964.mp4
+#EXTINF:-1,Kickboxer 4: O Agressor
+http://pdsrv.io:25461/movie/jacare/jacare/25965.mp4
+#EXTINF:-1,Kickboxer 5: O Desafio Final
+http://pdsrv.io:25461/movie/jacare/jacare/25966.mp4
+#EXTINF:-1,Kickboxer: A Retaliação
+http://pdsrv.io:25461/movie/jacare/jacare/25967.mp4
+#EXTINF:-1,Karatê Kid: A Hora Da Verdade
+http://pdsrv.io:25461/movie/jacare/jacare/25969.mp4
+#EXTINF:-1,Karatê Kid 2: A Hora Da Verdade Continua
+http://pdsrv.io:25461/movie/jacare/jacare/25970.mp4
+#EXTINF:-1,Karatê Kid 4: A Nova Aventura
+http://pdsrv.io:25461/movie/jacare/jacare/25971.mp4
+#EXTINF:-1,K-9: Um Policial Bom Pra Cachorro
+http://pdsrv.io:25461/movie/jacare/jacare/25972.mp4
+#EXTINF:-1,K-9: Um Policial Bom Pra Cachorro 2
+http://pdsrv.io:25461/movie/jacare/jacare/25973.mp4
+#EXTINF:-1,K-9: D P  - Um Policial Bom Pra Cachorro
+http://pdsrv.io:25461/movie/jacare/jacare/25974.mp4
+#EXTINF:-1,Marcas Da Guerra
+http://pdsrv.io:25461/movie/jacare/jacare/25977.mp4
+#EXTINF:-1,Arn: O Cavaleiro Templário
+http://pdsrv.io:25461/movie/jacare/jacare/25978.mp4
+#EXTINF:-1,Bia (2 0)
+http://pdsrv.io:25461/movie/jacare/jacare/25979.mp4
+#EXTINF:-1,Direção Explosiva
+http://pdsrv.io:25461/movie/jacare/jacare/25980.mp4
+#EXTINF:-1,Estrada Sem Lei
+http://pdsrv.io:25461/movie/jacare/jacare/25981.mp4
+#EXTINF:-1,Ser Tão Velho Cerrado
+http://pdsrv.io:25461/movie/jacare/jacare/25984.mp4
+#EXTINF:-1,Liga Da Justiça Vs  Os Cinco Fatais
+http://pdsrv.io:25461/movie/jacare/jacare/25987.mp4
+#EXTINF:-1,O Manicômio
+http://pdsrv.io:25461/movie/jacare/jacare/25990.mp4
+#EXTINF:-1,Jinxed
+http://pdsrv.io:25461/movie/jacare/jacare/26001.mp4
+#EXTINF:-1,Adam E Seus Clones
+http://pdsrv.io:25461/movie/jacare/jacare/26002.mp4
+#EXTINF:-1,Caçadores De Papai Noel
+http://pdsrv.io:25461/movie/jacare/jacare/26003.mp4
+#EXTINF:-1,A Bruxa Do Bem
+http://pdsrv.io:25461/movie/jacare/jacare/26004.mp4
+#EXTINF:-1,A Bruxa Do Bem, A Magia Do Natal
+http://pdsrv.io:25461/movie/jacare/jacare/26005.mp4
+#EXTINF:-1,Timber E Mickey: Amigos Especiais
+http://pdsrv.io:25461/movie/jacare/jacare/26006.mp4
+#EXTINF:-1,Meu Cachorro E Um Robô
+http://pdsrv.io:25461/movie/jacare/jacare/26007.mp4
+#EXTINF:-1,A Invenção De Hugo Cabret
+http://pdsrv.io:25461/movie/jacare/jacare/26008.mp4
+#EXTINF:-1,Operação Cupido
+http://pdsrv.io:25461/movie/jacare/jacare/26009.mp4
+#EXTINF:-1,Um Amor De Múmia
+http://pdsrv.io:25461/movie/jacare/jacare/26010.mp4
+#EXTINF:-1,Gênio: Desafiando A Gravidade E O Amor
+http://pdsrv.io:25461/movie/jacare/jacare/26011.mp4
+#EXTINF:-1,A Caixa De Pandora
+http://pdsrv.io:25461/movie/jacare/jacare/26012.mp4
+#EXTINF:-1,Sexta-Feira 13 Parte 9 Jason Vai Para O Infern
+http://pdsrv.io:25461/movie/jacare/jacare/26014.mkv
+#EXTINF:-1,Sexta-Feira 13
+http://pdsrv.io:25461/movie/jacare/jacare/26015.mkv
+#EXTINF:-1,Um Drink No Inferno
+http://pdsrv.io:25461/movie/jacare/jacare/26016.mkv
+#EXTINF:-1,Sexta-Feira 13 - Bem Vindos à Crystal Lake
+http://pdsrv.io:25461/movie/jacare/jacare/26017.mp4
+#EXTINF:-1,A Dama Do Espelho - O Ritual Das Trevas
+http://pdsrv.io:25461/movie/jacare/jacare/26018.mkv
+#EXTINF:-1,A Hora Do Espanto 2
+http://pdsrv.io:25461/movie/jacare/jacare/26019.mkv
+#EXTINF:-1,A Mansao
+http://pdsrv.io:25461/movie/jacare/jacare/26020.mkv
+#EXTINF:-1,Freddy Vs  Jason
+http://pdsrv.io:25461/movie/jacare/jacare/26021.mkv
+#EXTINF:-1,Hannibal A Origem Do Mal
+http://pdsrv.io:25461/movie/jacare/jacare/26022.mkv
+#EXTINF:-1,Hannibal Dragao Vermelho
+http://pdsrv.io:25461/movie/jacare/jacare/26023.mkv
+#EXTINF:-1,Hannibal O Silencio Dos Inocentes
+http://pdsrv.io:25461/movie/jacare/jacare/26024.mkv
+#EXTINF:-1,Hannibal
+http://pdsrv.io:25461/movie/jacare/jacare/26025.mkv
+#EXTINF:-1,Hellraiser 01 Renascido Do Inferno
+http://pdsrv.io:25461/movie/jacare/jacare/26026.mkv
+#EXTINF:-1,Hellraiser 02 Renascido Das Trevas
+http://pdsrv.io:25461/movie/jacare/jacare/26027.mkv
+#EXTINF:-1,Hellraiser 03 Inferno Na Terra
+http://pdsrv.io:25461/movie/jacare/jacare/26028.mkv
+#EXTINF:-1,Hellraiser 04 Herança Maldita
+http://pdsrv.io:25461/movie/jacare/jacare/26029.mkv
+#EXTINF:-1,Hellraiser 05 Inferno
+http://pdsrv.io:25461/movie/jacare/jacare/26030.mkv
+#EXTINF:-1,Hellraiser 06 Caçador Do Inferno
+http://pdsrv.io:25461/movie/jacare/jacare/26031.mkv
+#EXTINF:-1,Hellraiser 07 O Retorno Dos Mortos
+http://pdsrv.io:25461/movie/jacare/jacare/26032.mp4
+#EXTINF:-1,Hellraiser 08 O Mundo Do Inferno
+http://pdsrv.io:25461/movie/jacare/jacare/26033.mp4
+#EXTINF:-1,Hellraiser 09 Revelações
+http://pdsrv.io:25461/movie/jacare/jacare/26034.mp4
+#EXTINF:-1,It - A Coisa
+http://pdsrv.io:25461/movie/jacare/jacare/26035.mp4
+#EXTINF:-1,Jason X
+http://pdsrv.io:25461/movie/jacare/jacare/26036.mp4
+#EXTINF:-1,Jogos Mortais - O Final
+http://pdsrv.io:25461/movie/jacare/jacare/26037.mp4
+#EXTINF:-1,Panico Na Floresta 6
+http://pdsrv.io:25461/movie/jacare/jacare/26043.mp4
+#EXTINF:-1,Panico No Lago 4
+http://pdsrv.io:25461/movie/jacare/jacare/26049.mkv
+#EXTINF:-1,Panico No Lago
+http://pdsrv.io:25461/movie/jacare/jacare/26050.mkv
+#EXTINF:-1,Sexta-Feira 13 Parte 2
+http://pdsrv.io:25461/movie/jacare/jacare/26051.mp4
+#EXTINF:-1,Sexta-Feira 13 Parte 3
+http://pdsrv.io:25461/movie/jacare/jacare/26052.mp4
+#EXTINF:-1,Sexta-Feira 13 Parte 4
+http://pdsrv.io:25461/movie/jacare/jacare/26053.mp4
+#EXTINF:-1,Sexta-Feira 13 Parte 5 Um Novo Recomeço
+http://pdsrv.io:25461/movie/jacare/jacare/26054.mp4
+#EXTINF:-1,Sexta-Feira 13 Parte 6 - Jason Vive
+http://pdsrv.io:25461/movie/jacare/jacare/26055.mp4
+#EXTINF:-1,Sexta-Feira 13 Parte 7 - A Matança Continua
+http://pdsrv.io:25461/movie/jacare/jacare/26056.mp4
+#EXTINF:-1,Sexta-Feira 13 Parte 8 Jason Ataca Nova Iorque
+http://pdsrv.io:25461/movie/jacare/jacare/26057.mp4
+#EXTINF:-1,12 Strong
+http://pdsrv.io:25461/movie/jacare/jacare/26058.mkv
+#EXTINF:-1,211 O Grande Assalto
+http://pdsrv.io:25461/movie/jacare/jacare/26059.mkv
+#EXTINF:-1,7 Dias Em Entebbe
+http://pdsrv.io:25461/movie/jacare/jacare/26060.mkv
+#EXTINF:-1,A Caminho Da Fé
+http://pdsrv.io:25461/movie/jacare/jacare/26061.mkv
+#EXTINF:-1,A Estrela De Belém
+http://pdsrv.io:25461/movie/jacare/jacare/26062.mkv
+#EXTINF:-1,A Exceção
+http://pdsrv.io:25461/movie/jacare/jacare/26063.mkv
+#EXTINF:-1,A Forma Da Agua
+http://pdsrv.io:25461/movie/jacare/jacare/26064.mkv
+#EXTINF:-1,A Garota Perfeita
+http://pdsrv.io:25461/movie/jacare/jacare/26065.mkv
+#EXTINF:-1,A Guerra Dos Sexos
+http://pdsrv.io:25461/movie/jacare/jacare/26066.mkv
+#EXTINF:-1,A Guerra
+http://pdsrv.io:25461/movie/jacare/jacare/26067.mkv
+#EXTINF:-1,A Incrivel Aventura De Rick Baker
+http://pdsrv.io:25461/movie/jacare/jacare/26068.mkv
+#EXTINF:-1,A Luz Divina
+http://pdsrv.io:25461/movie/jacare/jacare/26069.mkv
+#EXTINF:-1,A Maldição Da Casa Do Lago
+http://pdsrv.io:25461/movie/jacare/jacare/26070.mkv
+#EXTINF:-1,A Noite Do Jogo
+http://pdsrv.io:25461/movie/jacare/jacare/26072.mkv
+#EXTINF:-1,A Ressurreicao De Gavin Stone
+http://pdsrv.io:25461/movie/jacare/jacare/26073.mkv
+#EXTINF:-1,A Ultima Palavra
+http://pdsrv.io:25461/movie/jacare/jacare/26074.mkv
+#EXTINF:-1,A Última Testemunha
+http://pdsrv.io:25461/movie/jacare/jacare/26076.mkv
+#EXTINF:-1,Aniquilação
+http://pdsrv.io:25461/movie/jacare/jacare/26081.mkv
+#EXTINF:-1,Antes Que Eu Me Esqueça
+http://pdsrv.io:25461/movie/jacare/jacare/26082.mkv
+#EXTINF:-1,Aposentadoria Voluntária
+http://pdsrv.io:25461/movie/jacare/jacare/26083.mkv
+#EXTINF:-1,Arranha-Céu - Coragem Sem Limite
+http://pdsrv.io:25461/movie/jacare/jacare/26084.mkv
+#EXTINF:-1,As Calouras
+http://pdsrv.io:25461/movie/jacare/jacare/26085.mkv
+#EXTINF:-1,As Delicias Da Tarde
+http://pdsrv.io:25461/movie/jacare/jacare/26086.mkv
+#EXTINF:-1,As Incríveis Histórias De Max E Leon
+http://pdsrv.io:25461/movie/jacare/jacare/26087.mkv
+#EXTINF:-1,Assassinato No Expresso Do Oriente
+http://pdsrv.io:25461/movie/jacare/jacare/26088.mkv
+#EXTINF:-1,Assassino Em Série
+http://pdsrv.io:25461/movie/jacare/jacare/26089.mkv
+#EXTINF:-1,Atos De Violência
+http://pdsrv.io:25461/movie/jacare/jacare/26091.mkv
+#EXTINF:-1,Autodestruicao
+http://pdsrv.io:25461/movie/jacare/jacare/26092.mkv
+#EXTINF:-1,Batman: Gotham By Gaslight
+http://pdsrv.io:25461/movie/jacare/jacare/26093.mkv
+#EXTINF:-1,Bem Vindo A Meia Idade
+http://pdsrv.io:25461/movie/jacare/jacare/26094.mkv
+#EXTINF:-1,Não Adianta Rezar
+http://pdsrv.io:25461/movie/jacare/jacare/26095.mkv
+#EXTINF:-1,Bleach
+http://pdsrv.io:25461/movie/jacare/jacare/26096.mkv
+#EXTINF:-1,Cinquenta Tons De Liberdade
+http://pdsrv.io:25461/movie/jacare/jacare/26097.mp4
+#EXTINF:-1,Conor Mcgregor Notorious
+http://pdsrv.io:25461/movie/jacare/jacare/26098.mkv
+#EXTINF:-1,Corrida Mortal 4 Além Da Anarquia
+http://pdsrv.io:25461/movie/jacare/jacare/26099.mkv
+#EXTINF:-1,Cyborg X
+http://pdsrv.io:25461/movie/jacare/jacare/26100.mkv
+#EXTINF:-1,Daddy Cool - Ex Em Domicílio
+http://pdsrv.io:25461/movie/jacare/jacare/26101.mkv
+#EXTINF:-1,Deu A Louca No Aladin
+http://pdsrv.io:25461/movie/jacare/jacare/26103.mkv
+#EXTINF:-1,Do Jeito Que Elas Querem
+http://pdsrv.io:25461/movie/jacare/jacare/26105.mkv
+#EXTINF:-1,Doce Vinganca 3 A Vinganca E Minha
+http://pdsrv.io:25461/movie/jacare/jacare/26106.mkv
+#EXTINF:-1,Duda E Os Gnomos
+http://pdsrv.io:25461/movie/jacare/jacare/26108.mkv
+#EXTINF:-1,Eu Não Sou Um Homem Fácil
+http://pdsrv.io:25461/movie/jacare/jacare/26109.mkv
+#EXTINF:-1,Extinction
+http://pdsrv.io:25461/movie/jacare/jacare/26110.mkv
+#EXTINF:-1,Faca O Que Eu Digo Nao Faca O Que Eu Faco
+http://pdsrv.io:25461/movie/jacare/jacare/26111.mkv
+#EXTINF:-1,Fantasmas Do Passado
+http://pdsrv.io:25461/movie/jacare/jacare/26113.mkv
+#EXTINF:-1,Feliz Aniversário De Casamento
+http://pdsrv.io:25461/movie/jacare/jacare/26114.mkv
+#EXTINF:-1,Fronteiras Virtual
+http://pdsrv.io:25461/movie/jacare/jacare/26115.mkv
+#EXTINF:-1,Gente De Bem
+http://pdsrv.io:25461/movie/jacare/jacare/26116.mkv
+#EXTINF:-1,Deus Não Está Morto - Uma Luz Na Escuridão
+http://pdsrv.io:25461/movie/jacare/jacare/26117.mkv
+#EXTINF:-1,Guerreiro Da Escuridao
+http://pdsrv.io:25461/movie/jacare/jacare/26118.mkv
+#EXTINF:-1,Historietas Assombradas: O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/26119.mkv
+#EXTINF:-1,Homem Ao Mar
+http://pdsrv.io:25461/movie/jacare/jacare/26120.mkv
+#EXTINF:-1,Homem-Formiga E A Vespa
+http://pdsrv.io:25461/movie/jacare/jacare/26121.mkv
+#EXTINF:-1,Holmes & Watson
+http://pdsrv.io:25461/movie/jacare/jacare/26128.mp4
+#EXTINF:-1,O Brasil Entre Armas E Livros
+http://pdsrv.io:25461/movie/jacare/jacare/26129.mp4
+#EXTINF:-1,A Química Do Amor
+http://pdsrv.io:25461/movie/jacare/jacare/26130.mp4
+#EXTINF:-1,Nosso Último Verão
+http://pdsrv.io:25461/movie/jacare/jacare/30250.mp4
+#EXTINF:-1,13º DISTRITO
+http://pdsrv.io:25461/movie/jacare/jacare/31250.mkv
+#EXTINF:-1,A Arma Perfeita
+http://pdsrv.io:25461/movie/jacare/jacare/31251.mkv
+#EXTINF:-1,A Batalha de Riddick
+http://pdsrv.io:25461/movie/jacare/jacare/31252.mkv
+#EXTINF:-1,A Caça
+http://pdsrv.io:25461/movie/jacare/jacare/31253.mkv
+#EXTINF:-1,A Grande Muralha
+http://pdsrv.io:25461/movie/jacare/jacare/31254.mkv
+#EXTINF:-1,A Hora do Rush 2
+http://pdsrv.io:25461/movie/jacare/jacare/31255.mkv
+#EXTINF:-1,A Hora do Rush 3
+http://pdsrv.io:25461/movie/jacare/jacare/31256.mkv
+#EXTINF:-1,A Hora do Rush
+http://pdsrv.io:25461/movie/jacare/jacare/31257.mkv
+#EXTINF:-1,A Identidade Bourne
+http://pdsrv.io:25461/movie/jacare/jacare/31258.mkv
+#EXTINF:-1,A Lenda de Beowulf
+http://pdsrv.io:25461/movie/jacare/jacare/31259.mkv
+#EXTINF:-1,A Lenda do Tarzan
+http://pdsrv.io:25461/movie/jacare/jacare/31260.mkv
+#EXTINF:-1,A Mumia
+http://pdsrv.io:25461/movie/jacare/jacare/31261.mkv
+#EXTINF:-1,A Outra História Americana
+http://pdsrv.io:25461/movie/jacare/jacare/31262.mkv
+#EXTINF:-1,A Supremacia Bourne
+http://pdsrv.io:25461/movie/jacare/jacare/31263.mkv
+#EXTINF:-1,A Torre Negra
+http://pdsrv.io:25461/movie/jacare/jacare/31264.mkv
+#EXTINF:-1,A Vigilante do Amanha
+http://pdsrv.io:25461/movie/jacare/jacare/31265.mkv
+#EXTINF:-1,A Volta do Juízo Final
+http://pdsrv.io:25461/movie/jacare/jacare/31266.mkv
+#EXTINF:-1,Adrenalina 2
+http://pdsrv.io:25461/movie/jacare/jacare/31267.mkv
+#EXTINF:-1,Adrenalina
+http://pdsrv.io:25461/movie/jacare/jacare/31268.mkv
+#EXTINF:-1,Adrift
+http://pdsrv.io:25461/movie/jacare/jacare/31269.mkv
+#EXTINF:-1,Alem da Realidade
+http://pdsrv.io:25461/movie/jacare/jacare/31270.mkv
+#EXTINF:-1,Alvo Duplo
+http://pdsrv.io:25461/movie/jacare/jacare/31271.mkv
+#EXTINF:-1,American Made
+http://pdsrv.io:25461/movie/jacare/jacare/31272.mkv
+#EXTINF:-1,Anjos da Lei
+http://pdsrv.io:25461/movie/jacare/jacare/31273.mkv
+#EXTINF:-1,As Tartarugas Ninja II - O Segredo do Ooze
+http://pdsrv.io:25461/movie/jacare/jacare/31274.mkv
+#EXTINF:-1,As Tartarugas Ninja III
+http://pdsrv.io:25461/movie/jacare/jacare/31275.mkv
+#EXTINF:-1,As Tartarugas Ninjas
+http://pdsrv.io:25461/movie/jacare/jacare/31276.mkv
+#EXTINF:-1,B13, Decimo Terceiro Distrito
+http://pdsrv.io:25461/movie/jacare/jacare/31277.mkv
+#EXTINF:-1,B13-U 13º Distrito, Ultimato
+http://pdsrv.io:25461/movie/jacare/jacare/31278.mkv
+#EXTINF:-1,Battleship - A Batalha dos Mares
+http://pdsrv.io:25461/movie/jacare/jacare/31279.mkv
+#EXTINF:-1,Bright
+http://pdsrv.io:25461/movie/jacare/jacare/31280.mkv
+#EXTINF:-1,Cacador de Demonios
+http://pdsrv.io:25461/movie/jacare/jacare/31281.mkv
+#EXTINF:-1,Carga Explosiva 2
+http://pdsrv.io:25461/movie/jacare/jacare/31282.mkv
+#EXTINF:-1,Carga Explosiva 3
+http://pdsrv.io:25461/movie/jacare/jacare/31283.mkv
+#EXTINF:-1,Contagem Regressiva
+http://pdsrv.io:25461/movie/jacare/jacare/31285.mp4
+#EXTINF:-1,Contra o Tempo
+http://pdsrv.io:25461/movie/jacare/jacare/31286.mp4
+#EXTINF:-1,Creed - Nascido Para Lutar
+http://pdsrv.io:25461/movie/jacare/jacare/31287.mp4
+#EXTINF:-1,Cão de Briga
+http://pdsrv.io:25461/movie/jacare/jacare/31288.mkv
+#EXTINF:-1,Duro de Matar 2
+http://pdsrv.io:25461/movie/jacare/jacare/31289.mkv
+#EXTINF:-1,Duro de Matar 3  A Vingança
+http://pdsrv.io:25461/movie/jacare/jacare/31290.mkv
+#EXTINF:-1,Duro de Matar 4.0
+http://pdsrv.io:25461/movie/jacare/jacare/31291.mkv
+#EXTINF:-1,Duro de Matar 5 - Um Bom Dia Para Morrer
+http://pdsrv.io:25461/movie/jacare/jacare/31292.mp4
+#EXTINF:-1,Duro de Matar
+http://pdsrv.io:25461/movie/jacare/jacare/31293.mp4
+#EXTINF:-1,Enfurecidos
+http://pdsrv.io:25461/movie/jacare/jacare/31294.mp4
+#EXTINF:-1,Fim da Linha
+http://pdsrv.io:25461/movie/jacare/jacare/31295.mp4
+#EXTINF:-1,Gamer
+http://pdsrv.io:25461/movie/jacare/jacare/31296.mp4
+#EXTINF:-1,Guerreira de Sangue
+http://pdsrv.io:25461/movie/jacare/jacare/31297.mp4
+#EXTINF:-1,Homens de Preto 2
+http://pdsrv.io:25461/movie/jacare/jacare/31298.mp4
+#EXTINF:-1,Homens de Preto 3
+http://pdsrv.io:25461/movie/jacare/jacare/31299.mp4
+#EXTINF:-1,Homens de Preto
+http://pdsrv.io:25461/movie/jacare/jacare/31300.mp4
+#EXTINF:-1,Invasores
+http://pdsrv.io:25461/movie/jacare/jacare/31301.mkv
+#EXTINF:-1,Kingsman - Serviço Secreto
+http://pdsrv.io:25461/movie/jacare/jacare/31302.mkv
+#EXTINF:-1,Lara Croft - Tomb Raider
+http://pdsrv.io:25461/movie/jacare/jacare/31303.mkv
+#EXTINF:-1,Lara Croft Tomb Raider - A Origem da Vida
+http://pdsrv.io:25461/movie/jacare/jacare/31304.mp4
+#EXTINF:-1,Lobos
+http://pdsrv.io:25461/movie/jacare/jacare/31305.mp4
+#EXTINF:-1,Lucy
+http://pdsrv.io:25461/movie/jacare/jacare/31306.mp4
+#EXTINF:-1,Hard TimesLutador de Rua
+http://pdsrv.io:25461/movie/jacare/jacare/31307.mp4
+#EXTINF:-1,Mad Max - Estrada da Fúria
+http://pdsrv.io:25461/movie/jacare/jacare/31308.mp4
+#EXTINF:-1,Mar Em Fúria
+http://pdsrv.io:25461/movie/jacare/jacare/31309.mp4
+#EXTINF:-1,Max Steel
+http://pdsrv.io:25461/movie/jacare/jacare/31310.mp4
+#EXTINF:-1,Maze Runner - Correr ou Morrer
+http://pdsrv.io:25461/movie/jacare/jacare/31311.mp4
+#EXTINF:-1,Maze Runner: The Scorch Trials
+http://pdsrv.io:25461/movie/jacare/jacare/31312.mp4
+#EXTINF:-1,Missão Impossivel 1
+http://pdsrv.io:25461/movie/jacare/jacare/31313.mp4
+#EXTINF:-1,Missão Impossivel 2
+http://pdsrv.io:25461/movie/jacare/jacare/31314.mp4
+#EXTINF:-1,Missão Impossivel 3
+http://pdsrv.io:25461/movie/jacare/jacare/31315.mp4
+#EXTINF:-1,Mission: Impossible - Ghost Protocol
+http://pdsrv.io:25461/movie/jacare/jacare/31316.mp4
+#EXTINF:-1,O Acordo
+http://pdsrv.io:25461/movie/jacare/jacare/31317.mp4
+#EXTINF:-1,O Atirador
+http://pdsrv.io:25461/movie/jacare/jacare/31318.mp4
+#EXTINF:-1,O Beijo do Dragão
+http://pdsrv.io:25461/movie/jacare/jacare/31319.mp4
+#EXTINF:-1,O Confronto
+http://pdsrv.io:25461/movie/jacare/jacare/31320.mp4
+#EXTINF:-1,O Implacável
+http://pdsrv.io:25461/movie/jacare/jacare/31321.mp4
+#EXTINF:-1,O Policial do Futuro
+http://pdsrv.io:25461/movie/jacare/jacare/31323.mp4
+#EXTINF:-1,Os Mercenários 2
+http://pdsrv.io:25461/movie/jacare/jacare/31325.mp4
+#EXTINF:-1,Parker
+http://pdsrv.io:25461/movie/jacare/jacare/31326.mp4
+#EXTINF:-1,Pearl Harbor
+http://pdsrv.io:25461/movie/jacare/jacare/31327.mp4
+#EXTINF:-1,Rambo I Programado Para Matar
+http://pdsrv.io:25461/movie/jacare/jacare/31328.mkv
+#EXTINF:-1,Rambo II A Missao
+http://pdsrv.io:25461/movie/jacare/jacare/31329.mkv
+#EXTINF:-1,Rambo III
+http://pdsrv.io:25461/movie/jacare/jacare/31330.mkv
+#EXTINF:-1,Rambo IV
+http://pdsrv.io:25461/movie/jacare/jacare/31331.mkv
+#EXTINF:-1,Rota de Fuga
+http://pdsrv.io:25461/movie/jacare/jacare/31332.mkv
+#EXTINF:-1,Cavalos Selvagens
+http://pdsrv.io:25461/movie/jacare/jacare/31333.mp4
+#EXTINF:-1,Sentença de Morte
+http://pdsrv.io:25461/movie/jacare/jacare/31334.mp4
+#EXTINF:-1,Tempo Contado
+http://pdsrv.io:25461/movie/jacare/jacare/31335.mkv
+#EXTINF:-1,Terremoto - A Falha de San Andreas
+http://pdsrv.io:25461/movie/jacare/jacare/31336.mkv
+#EXTINF:-1,Tracers nos Limites
+http://pdsrv.io:25461/movie/jacare/jacare/31338.mp4
+#EXTINF:-1,Truque de Mestre 
+http://pdsrv.io:25461/movie/jacare/jacare/31339.mkv
+#EXTINF:-1,Um Espião e Meio
+http://pdsrv.io:25461/movie/jacare/jacare/31340.mp4
+#EXTINF:-1,A Bailarina
+http://pdsrv.io:25461/movie/jacare/jacare/31341.mkv
+#EXTINF:-1,A Era do Gelo 2
+http://pdsrv.io:25461/movie/jacare/jacare/31342.mkv
+#EXTINF:-1,A Era do Gelo 3
+http://pdsrv.io:25461/movie/jacare/jacare/31343.mkv
+#EXTINF:-1,A Era do Gelo 4
+http://pdsrv.io:25461/movie/jacare/jacare/31344.mkv
+#EXTINF:-1,A Era do Gelo 5 - O Big Bang
+http://pdsrv.io:25461/movie/jacare/jacare/31345.mkv
+#EXTINF:-1,A Fantástica Fábrica De Chocolate
+http://pdsrv.io:25461/movie/jacare/jacare/31346.mkv
+#EXTINF:-1,A Noiva Cadaver
+http://pdsrv.io:25461/movie/jacare/jacare/31347.mkv
+#EXTINF:-1,A Origem dos Guardiões
+http://pdsrv.io:25461/movie/jacare/jacare/31348.mkv
+#EXTINF:-1,A Princesa Encantada - Um Misterio Real
+http://pdsrv.io:25461/movie/jacare/jacare/31349.mkv
+#EXTINF:-1,Alice no País das Maravílhas
+http://pdsrv.io:25461/movie/jacare/jacare/31350.mkv
+#EXTINF:-1,Batman Vs Dracula
+http://pdsrv.io:25461/movie/jacare/jacare/31352.mkv
+#EXTINF:-1,Batman vs Superman - A Origem da Justica
+http://pdsrv.io:25461/movie/jacare/jacare/31353.mkv
+#EXTINF:-1,CJ7 - O Brinquedo Mágico
+http://pdsrv.io:25461/movie/jacare/jacare/31354.mkv
+#EXTINF:-1,Carrosel - O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/31355.mkv
+#EXTINF:-1,Cegonhas - A História que Não te Contaram
+http://pdsrv.io:25461/movie/jacare/jacare/31356.mkv
+#EXTINF:-1,Elfy, O Duende Que Caiu do Céu
+http://pdsrv.io:25461/movie/jacare/jacare/31357.mkv
+#EXTINF:-1,Galinha Pintadinha 1
+http://pdsrv.io:25461/movie/jacare/jacare/31358.mp4
+#EXTINF:-1,Galinha Pintadinha 2
+http://pdsrv.io:25461/movie/jacare/jacare/31359.mkv
+#EXTINF:-1,Galinha Pintadinha 3
+http://pdsrv.io:25461/movie/jacare/jacare/31360.mkv
+#EXTINF:-1,Galinha Pintadinha 4
+http://pdsrv.io:25461/movie/jacare/jacare/31361.mkv
+#EXTINF:-1,Inferno de Dante Uma Animação Épica
+http://pdsrv.io:25461/movie/jacare/jacare/31362.mkv
+#EXTINF:-1,Monster High Bem Vindo A Monster High
+http://pdsrv.io:25461/movie/jacare/jacare/31363.mkv
+#EXTINF:-1,My Little Pony - O Filme
+http://pdsrv.io:25461/movie/jacare/jacare/31364.mkv
+#EXTINF:-1,O Galinho Chicken Little
+http://pdsrv.io:25461/movie/jacare/jacare/31365.mkv
+#EXTINF:-1,Os Incriveis
+http://pdsrv.io:25461/movie/jacare/jacare/31366.mkv
+#EXTINF:-1,Os Pinguins de Madagascar
+http://pdsrv.io:25461/movie/jacare/jacare/31367.mkv
+#EXTINF:-1,Peppa Pig Segunda Temporada Completa
+http://pdsrv.io:25461/movie/jacare/jacare/31368.mkv
+#EXTINF:-1,Peppa Pig Terceira Temporada Completa
+http://pdsrv.io:25461/movie/jacare/jacare/31369.mkv
+#EXTINF:-1,Pets - A Vida Secreta dos Bichos
+http://pdsrv.io:25461/movie/jacare/jacare/31370.mkv
+#EXTINF:-1,Pixels
+http://pdsrv.io:25461/movie/jacare/jacare/31371.mp4
+#EXTINF:-1,Procurando Dory
+http://pdsrv.io:25461/movie/jacare/jacare/31372.mp4
+#EXTINF:-1,Procurando Nemo
+http://pdsrv.io:25461/movie/jacare/jacare/31373.mp4
+#EXTINF:-1,Rango
+http://pdsrv.io:25461/movie/jacare/jacare/31374.mp4
+#EXTINF:-1,Ratatouille
+http://pdsrv.io:25461/movie/jacare/jacare/31375.mp4
+#EXTINF:-1,Shrek 2
+http://pdsrv.io:25461/movie/jacare/jacare/31376.mp4
+#EXTINF:-1,Shrek Para Sempre
+http://pdsrv.io:25461/movie/jacare/jacare/31377.mp4
+#EXTINF:-1,Spirit O Corcel Indomável
+http://pdsrv.io:25461/movie/jacare/jacare/31378.mp4
+#EXTINF:-1,Superman e Batman Inimigos Paublicos
+http://pdsrv.io:25461/movie/jacare/jacare/31379.mp4
+#EXTINF:-1,Ta Chovendo Hamburguer 1
+http://pdsrv.io:25461/movie/jacare/jacare/31380.mp4
+#EXTINF:-1,Ta Chovendo Hamburguer 2
+http://pdsrv.io:25461/movie/jacare/jacare/31381.mp4
+#EXTINF:-1,Trolls Vamos Festejar
+http://pdsrv.io:25461/movie/jacare/jacare/31382.mp4
+#EXTINF:-1,Up - Altas Aventuras
+http://pdsrv.io:25461/movie/jacare/jacare/31383.mp4
+#EXTINF:-1,Valente
+http://pdsrv.io:25461/movie/jacare/jacare/31384.mp4
+#EXTINF:-1,Wallace e Gromit A Batalha dos Vegetais
+http://pdsrv.io:25461/movie/jacare/jacare/31385.mp4
+#EXTINF:-1,toy story 1
+http://pdsrv.io:25461/movie/jacare/jacare/31386.mp4
+#EXTINF:-1,Sequestrando Stella
+http://pdsrv.io:25461/movie/jacare/jacare/32012.mp4
+#EXTINF:-1,Whindersson Nunes: Adult
+http://pdsrv.io:25461/movie/jacare/jacare/32644.mp4
+#EXTINF:-1,Inferno no Faroeste (2013)
+http://pdsrv.io:25461/movie/jacare/jacare/33621.mp4
+#EXTINF:-1,A Forca 2 - Segundo Ato (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33622.mp4
+#EXTINF:-1,A Lavanderia (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33623.mp4
+#EXTINF:-1,Angel of Mine (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33624.mp4
+#EXTINF:-1,As Trapaceiras (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33625.mp4
+#EXTINF:-1,Comando Justiceiro (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33626.mp4
+#EXTINF:-1,Como Treinar o Seu Dragão 3 (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33627.mp4
+#EXTINF:-1,Contato Visceral (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33628.mp4
+#EXTINF:-1,Desafiando Gigantes (2006)
+http://pdsrv.io:25461/movie/jacare/jacare/33629.mp4
+#EXTINF:-1,El Camino: A Breaking Bad Film (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33631.mp4
+#EXTINF:-1,Jurassic World: O Mundo dos Dinossauros (2015)
+http://pdsrv.io:25461/movie/jacare/jacare/33634.mp4
+#EXTINF:-1,Kingsman: O Círculo Dourado (2017)
+http://pdsrv.io:25461/movie/jacare/jacare/33635.mp4
+#EXTINF:-1,Lucky Day (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33636.mp4
+#EXTINF:-1,Little Monsters (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33637.mp4
+#EXTINF:-1,Yesterday (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33668.mp4
+#EXTINF:-1,Midsommar: O Mal Não Espera a Noite (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33667.mp4
+#EXTINF:-1,Bliss (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33666.mp4
+#EXTINF:-1,Influência (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33664.mp4
+#EXTINF:-1,Lembranças Perdidas (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33663.mp4
+#EXTINF:-1,Campo do Medo (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33662.mp4
+#EXTINF:-1,Bloodline (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33661.mp4
+#EXTINF:-1,Na Teia da Conspiração (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33659.mp4
+#EXTINF:-1,Eli 2019
+http://pdsrv.io:25461/movie/jacare/jacare/33643.mp4
+#EXTINF:-1,Dois Doidões em Havard (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33695.mp4
+#EXTINF:-1,Los Bando (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/33694.mp4
+#EXTINF:-1,Pokemon: Detetive Pikachu (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33693.mp4
+#EXTINF:-1,Ambition (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33691.mp4
+#EXTINF:-1,Leste Oeste (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33690.mp4
+#EXTINF:-1,Assimilate (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33689.mp4
+#EXTINF:-1,Diga Quem Sou (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33687.mp4
+#EXTINF:-1,Prey: Caçados (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33686.mp4
+#EXTINF:-1,Skin (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/33685.mp4
+#EXTINF:-1,Dança dos Passaros (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33684.mp4
+#EXTINF:-1,The Art of Self-Defense (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33671.mp4
+#EXTINF:-1,Arpão (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33670.mp4
+#EXTINF:-1,A Vida em Mim (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33669.mp4
+#EXTINF:-1,IT: TV8
+http://pdsrv.io:25461/live/jacare/jacare/33770.m3u8
+#EXTINF:-1,IT: RSI LA 2 HD
+http://pdsrv.io:25461/live/jacare/jacare/33771.m3u8
+#EXTINF:-1,IT: RSI LA 1 HD
+http://pdsrv.io:25461/live/jacare/jacare/33772.m3u8
+#EXTINF:-1,IT: Rete 4 HD
+http://pdsrv.io:25461/live/jacare/jacare/33773.m3u8
+#EXTINF:-1,IT: RAI Premium
+http://pdsrv.io:25461/live/jacare/jacare/33774.m3u8
+#EXTINF:-1,IT: RAI Movie
+http://pdsrv.io:25461/live/jacare/jacare/33775.m3u8
+#EXTINF:-1,IT: RAI 5 HD
+http://pdsrv.io:25461/live/jacare/jacare/33776.m3u8
+#EXTINF:-1,IT: RAI 4 HD
+http://pdsrv.io:25461/live/jacare/jacare/33777.m3u8
+#EXTINF:-1,IT: RAI 3 HD
+http://pdsrv.io:25461/live/jacare/jacare/33778.m3u8
+#EXTINF:-1,IT: RAI 2 HD
+http://pdsrv.io:25461/live/jacare/jacare/33779.m3u8
+#EXTINF:-1,IT: RAI 1 HD
+http://pdsrv.io:25461/live/jacare/jacare/33780.m3u8
+#EXTINF:-1,IT: Premium Top Crima
+http://pdsrv.io:25461/live/jacare/jacare/33781.m3u8
+#EXTINF:-1,IT: Premium Stories HD
+http://pdsrv.io:25461/live/jacare/jacare/33782.m3u8
+#EXTINF:-1,IT: Premium Joy HD
+http://pdsrv.io:25461/live/jacare/jacare/33783.m3u8
+#EXTINF:-1,IT: Premium Energy HD
+http://pdsrv.io:25461/live/jacare/jacare/33784.m3u8
+#EXTINF:-1,IT: Premium Emotion HD
+http://pdsrv.io:25461/live/jacare/jacare/33785.m3u8
+#EXTINF:-1,IT: Premium Crime HD
+http://pdsrv.io:25461/live/jacare/jacare/33786.m3u8
+#EXTINF:-1,IT: Premium Comedy HD
+http://pdsrv.io:25461/live/jacare/jacare/33787.m3u8
+#EXTINF:-1,IT: Premium Cinema HD
+http://pdsrv.io:25461/live/jacare/jacare/33788.m3u8
+#EXTINF:-1,IT: Premium Action HD
+http://pdsrv.io:25461/live/jacare/jacare/33789.m3u8
+#EXTINF:-1,IT: Paramount Channel HD
+http://pdsrv.io:25461/live/jacare/jacare/33790.m3u8
+#EXTINF:-1,IT: Mediaset ITALIA DUE HD
+http://pdsrv.io:25461/live/jacare/jacare/33791.m3u8
+#EXTINF:-1,IT: Mediaset EXTRA HD
+http://pdsrv.io:25461/live/jacare/jacare/33792.m3u8
+#EXTINF:-1,IT: La7d HD
+http://pdsrv.io:25461/live/jacare/jacare/33793.m3u8
+#EXTINF:-1,IT: La7 HD
+http://pdsrv.io:25461/live/jacare/jacare/33794.m3u8
+#EXTINF:-1,IT: La5
+http://pdsrv.io:25461/live/jacare/jacare/33795.m3u8
+#EXTINF:-1,IT: Italia 1 HD
+http://pdsrv.io:25461/live/jacare/jacare/33796.m3u8
+#EXTINF:-1,IT: Iris HD
+http://pdsrv.io:25461/live/jacare/jacare/33797.m3u8
+#EXTINF:-1,IT: Giallo
+http://pdsrv.io:25461/live/jacare/jacare/33798.m3u8
+#EXTINF:-1,IT: Canale 5 HD
+http://pdsrv.io:25461/live/jacare/jacare/33799.m3u8
+#EXTINF:-1,IT: 20 Mediaset HD
+http://pdsrv.io:25461/live/jacare/jacare/33800.m3u8
+#EXTINF:-1,ESP: VIAJAR
+http://pdsrv.io:25461/live/jacare/jacare/33801.m3u8
+#EXTINF:-1,ESP: TNT
+http://pdsrv.io:25461/live/jacare/jacare/33802.m3u8
+#EXTINF:-1,ESP: TELEDEPORTE
+http://pdsrv.io:25461/live/jacare/jacare/33803.m3u8
+#EXTINF:-1,ESP: TELECINCO
+http://pdsrv.io:25461/live/jacare/jacare/33804.m3u8
+#EXTINF:-1,ESP: TCM
+http://pdsrv.io:25461/live/jacare/jacare/33805.m3u8
+#EXTINF:-1,ESP: NOVA
+http://pdsrv.io:25461/live/jacare/jacare/33806.m3u8
+#EXTINF:-1,ESP: NICKELODEON
+http://pdsrv.io:25461/live/jacare/jacare/33807.m3u8
+#EXTINF:-1,ESP: NAT GEO WILD
+http://pdsrv.io:25461/live/jacare/jacare/33808.m3u8
+#EXTINF:-1,ESP: MTV ESPANA
+http://pdsrv.io:25461/live/jacare/jacare/33809.m3u8
+#EXTINF:-1,ESP: M FORMULA 1 HD
+http://pdsrv.io:25461/live/jacare/jacare/33810.m3u8
+#EXTINF:-1,ESP: M.CineDoc&Roll
+http://pdsrv.io:25461/live/jacare/jacare/33811.m3u8
+#EXTINF:-1,ESP: M. SERIESMANIA
+http://pdsrv.io:25461/live/jacare/jacare/33812.m3u8
+#EXTINF:-1,ESP: M. LaLiga 1 HD
+http://pdsrv.io:25461/live/jacare/jacare/33813.m3u8
+#EXTINF:-1,ESP: M. ESTRENOS
+http://pdsrv.io:25461/live/jacare/jacare/33814.m3u8
+#EXTINF:-1,ESP: M. DRAMA
+http://pdsrv.io:25461/live/jacare/jacare/33815.m3u8
+#EXTINF:-1,ESP: M. DISNEY
+http://pdsrv.io:25461/live/jacare/jacare/33816.m3u8
+#EXTINF:-1,ESP: M. DEPORTES1
+http://pdsrv.io:25461/live/jacare/jacare/33817.m3u8
+#EXTINF:-1,ESP: M. COMEDIA
+http://pdsrv.io:25461/live/jacare/jacare/33818.m3u8
+#EXTINF:-1,As Rainhas da Torcida (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33848.mp4
+#EXTINF:-1,Bola na Rede (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33849.mp4
+#EXTINF:-1,Brinquedo Assassino (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33850.mp4
+#EXTINF:-1,Cascavel (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33851.mp4
+#EXTINF:-1,Histórias Assustadoras Para Contar no Escuro (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33855.mp4
+#EXTINF:-1,Kill Chain (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33856.mp4
+#EXTINF:-1,Kings: Los Angeles em Chamas (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33857.mp4
+#EXTINF:-1,Limbo: Entre o Céu e o Inferno (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33858.mp4
+#EXTINF:-1,Lutador Misterioso (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33859.mp4
+#EXTINF:-1,Luz (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33860.mp4
+#EXTINF:-1,Meu Nome é Dolemite (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33861.mp4
+#EXTINF:-1,Mistérios Na Rádio (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33862.mp4
+#EXTINF:-1,Nunca Visto (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33863.mp4
+#EXTINF:-1,O Despertar de Motti (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33864.mp4
+#EXTINF:-1,O Primeiro Passo (2016)
+http://pdsrv.io:25461/movie/jacare/jacare/33865.mp4
+#EXTINF:-1,O Rei (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33866.mp4
+#EXTINF:-1,Resgate do Coração (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33867.mp4
+#EXTINF:-1,The Huntress: Rune of the Dead (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33868.mp4
+#EXTINF:-1,The Refuge (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33869.mp4
+#EXTINF:-1,3 Minutos, Um Abraço (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33870.mp4
+#EXTINF:-1,Agente 00-Gato (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33874.mp4
+#EXTINF:-1,A Música da Minha Vida (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33875.mp4
+#EXTINF:-1,Angry Birds 2: O Filme (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33876.mp4
+#EXTINF:-1,Deixe a Neve Cair (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33879.mp4
+#EXTINF:-1,A Possessão de Hanna Grace - 2018
+http://pdsrv.io:25461/movie/jacare/jacare/33880.mp4
+#EXTINF:-1,Klaus (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33881.mp4
+#EXTINF:-1,Máfia Digital (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33882.mp4
+#EXTINF:-1,Missão Final (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/33883.mp4
+#EXTINF:-1,Nada a Perder 2: Não Se Pode Esconder a Verdade (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33884.mp4
+#EXTINF:-1,No Coração do Mundo (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33885.mp4
+#EXTINF:-1,O Amor Dá Trabalho (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33886.mp4
+#EXTINF:-1,Paradise Beach (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33887.mp4
+#EXTINF:-1,Pesadelo (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33888.mp4
+#EXTINF:-1,Socorro! Virei uma Garota (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33889.mp4
+#EXTINF:-1,Sintonizada em Você (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33890.mp4
+#EXTINF:-1,Uma Guerra Pessoal (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/33891.mp4
+#EXTINF:-1,Uma Prova de Fé (2016)
+http://pdsrv.io:25461/movie/jacare/jacare/33893.mp4
+#EXTINF:-1,Chernobyl: Sinta a Radiação (2012)
+http://pdsrv.io:25461/movie/jacare/jacare/33895.mp4
+#EXTINF:-1,Os Embalos de Sábado à Noite (1977)
+http://pdsrv.io:25461/movie/jacare/jacare/33896.mp4
+#EXTINF:-1,Os Dez Mandamentos: O Filme (2016)
+http://pdsrv.io:25461/movie/jacare/jacare/33897.mp4
+#EXTINF:-1,Desejo de Matar (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/33898.mp4
+#EXTINF:-1,Planeta dos Macacos: O Confronto(2014)
+http://pdsrv.io:25461/movie/jacare/jacare/33899.mp4
+#EXTINF:-1,Kong: Ilha da Caveira (2017)
+http://pdsrv.io:25461/movie/jacare/jacare/33900.mp4
+#EXTINF:-1,As Crónicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa
+http://pdsrv.io:25461/movie/jacare/jacare/33901.mp4
+#EXTINF:-1,As Crónicas de Nárnia: O Príncipe Caspian(2008)
+http://pdsrv.io:25461/movie/jacare/jacare/33902.mp4
+#EXTINF:-1,As Crónicas de Nárnia: A Viagem do Caminheiro da Alvorada(2010)
+http://pdsrv.io:25461/movie/jacare/jacare/33903.mp4
+#EXTINF:-1,Velozes & Furiosos: Hobbs & Shaw (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33934.mp4
+#EXTINF:-1,Até o Último Homem (2017)
+http://pdsrv.io:25461/movie/jacare/jacare/33935.mp4
+#EXTINF:-1,Projeto Gemini (LEG 2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33939.mp4
+#EXTINF:-1,Pássaro do Oriente (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33940.mp4
+#EXTINF:-1,O Anjo de Auschwitz (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33944.mp4
+#EXTINF:-1,Se a Rua Beale Falasse (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/33946.mp4
+#EXTINF:-1,Super Monstros Salvam o Natal (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33947.mp4
+#EXTINF:-1,True: Winter Wishes - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/33948.mp4
+#EXTINF:-1,Atlantique (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33950.mp4
+#EXTINF:-1,Bacurau (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/33951.mp4
+#EXTINF:-1,Sedução da Carne - 2018
+https://www.dropbox.com/sh/cyuesd3ve6eidff/AAAyfJj4jPcGlUMQKIyCU817a/33837.mp4?dl=1
+#EXTINF:-1,As Filhas do Sol (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34030.mp4
+#EXTINF:-1,História de um Casamento (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34031.mp4
+#EXTINF:-1,Let's Dance  (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34032.mp4
+#EXTINF:-1,O Príncipe do Natal: O Bebê Real (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34033.mp4
+#EXTINF:-1,Dor e Glória (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34034.mp4
+#EXTINF:-1,Hala (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34035.mp4
+#EXTINF:-1,The Mustang (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34036.mp4
+#EXTINF:-1,Poderia me Perdoar? (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34037.mp4
+#EXTINF:-1,Watchmen: O Filme (2009)
+http://pdsrv.io:25461/movie/jacare/jacare/34061.mp4
+#EXTINF:-1,Pânico No Lago: O Legado - 2018
+http://pdsrv.io:25461/movie/jacare/jacare/19550.mp4
+#EXTINF:-1,Hellraiser: O Julgamento (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/19532.mp4
+#EXTINF:-1,Dora e a Cidade Perdida (DUB 2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34100.mp4
+#EXTINF:-1,Porta dos Fundos: A Primeira Tentação de Cristo (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34101.mp4
+#EXTINF:-1,Os Mortos Não Morrem (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34102.mp4
+#EXTINF:-1,Esquadrão 6 - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34190.mp4
+#EXTINF:-1,Centro de Trauma - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34191.mp4
+#EXTINF:-1,O Rei - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34192.mp4
+#EXTINF:-1,Sobreviva a Noite - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34193.mp4
+#EXTINF:-1,Rambo: Até o Fim - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34194.mp4
+#EXTINF:-1,Code 8: Renegados - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34196.mp4
+#EXTINF:-1,Bacurau - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34197.mp4
+#EXTINF:-1,A Morte e o Retorno do Superman - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34198.mp4
+#EXTINF:-1,Os Mortos Não Morrem - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34199.mp4
+#EXTINF:-1,Meu Nome é Dolemite - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34200.mp4
+#EXTINF:-1,Família do Bagulho - 2013
+http://pdsrv.io:25461/movie/jacare/jacare/34201.mp4
+#EXTINF:-1,Crush à Altura - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34202.mp4
+#EXTINF:-1,Radio Tiba FM
+http://pdsrv.io:25461/live/jacare/jacare/31824.m3u8
+#EXTINF:-1,Rádio Jornal 91.3 FM
+http://pdsrv.io:25461/live/jacare/jacare/31665.m3u8
+#EXTINF:-1,Radio Transamérica Pop 100.1 FM SP
+http://pdsrv.io:25461/live/jacare/jacare/10937.m3u8
+#EXTINF:-1,Radio Energia 97 FM 97.7 SP
+http://pdsrv.io:25461/live/jacare/jacare/10936.m3u8
+#EXTINF:-1,Radio Metropolitana
+http://pdsrv.io:25461/live/jacare/jacare/10933.m3u8
+#EXTINF:-1,Radio Mega Hits
+http://pdsrv.io:25461/live/jacare/jacare/6846.m3u8
+#EXTINF:-1,Band FM
+http://pdsrv.io:25461/live/jacare/jacare/6840.m3u8
+#EXTINF:-1,Radio Disney
+http://pdsrv.io:25461/live/jacare/jacare/6838.m3u8
+#EXTINF:-1,Radio Bahia
+http://pdsrv.io:25461/live/jacare/jacare/6188.m3u8
+#EXTINF:-1,Radio Jovem Pan
+http://pdsrv.io:25461/live/jacare/jacare/6187.m3u8
+#EXTINF:-1,BH FM
+http://pdsrv.io:25461/live/jacare/jacare/5836.m3u8
+#EXTINF:-1,Radio Globo SP
+http://pdsrv.io:25461/live/jacare/jacare/5828.m3u8
+#EXTINF:-1,Radio Mix FM
+http://pdsrv.io:25461/live/jacare/jacare/5826.m3u8
+#EXTINF:-1,HOMEM ARANHA 24HS
+http://pdsrv.io:25461/live/jacare/jacare/34203.m3u8
+#EXTINF:-1,Tom & Jerry 24HS
+http://pdsrv.io:25461/live/jacare/jacare/34204.m3u8
+#EXTINF:-1,3 Palavrinhas 24hs
+http://pdsrv.io:25461/live/jacare/jacare/34205.m3u8
+#EXTINF:-1,A Grande Familia 24hs
+http://pdsrv.io:25461/live/jacare/jacare/34206.m3u8
+#EXTINF:-1,Liga da Justica 24hs
+http://pdsrv.io:25461/live/jacare/jacare/34208.m3u8
+#EXTINF:-1,Vai Que Cola 24hs
+http://pdsrv.io:25461/live/jacare/jacare/34210.m3u8
+#EXTINF:-1,Super Choque 24hs
+http://pdsrv.io:25461/live/jacare/jacare/34211.m3u8
+#EXTINF:-1,A Feiticeira 24hs
+http://pdsrv.io:25461/live/jacare/jacare/34212.m3u8
+#EXTINF:-1,BEN 10 24HS
+http://pdsrv.io:25461/live/jacare/jacare/34213.m3u8
+#EXTINF:-1,CHAVES DESENHO 24HS
+http://pdsrv.io:25461/live/jacare/jacare/34214.m3u8
+#EXTINF:-1,TIMAO E PUMBA 24HS
+http://pdsrv.io:25461/live/jacare/jacare/34215.m3u8
+#EXTINF:-1,X-MAN 24HS
+http://pdsrv.io:25461/live/jacare/jacare/34216.m3u8
+#EXTINF:-1,YU-GI-OH 24hs
+http://pdsrv.io:25461/live/jacare/jacare/34217.m3u8
+#EXTINF:-1,Bita e os Animais 24hrs
+http://pdsrv.io:25461/live/jacare/jacare/34218.m3u8
+#EXTINF:-1,Coringa - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34219.mp4
+#EXTINF:-1,Batman e Arlequina: Pancadas e Risadas - 2017
+http://pdsrv.io:25461/movie/jacare/jacare/34220.mp4
+#EXTINF:-1,O Pequeno Stuart Little 3 - 2005
+http://pdsrv.io:25461/movie/jacare/jacare/34221.mp4
+#EXTINF:-1,Jeremiah T
+http://pdsrv.io:25461/movie/jacare/jacare/34222.mp4
+#EXTINF:-1,Linha Reta - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34223.mp4
+#EXTINF:-1,Mamãe É Uma Espiã - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34224.mp4
+#EXTINF:-1,Paulo de Tarso e A História do Cristianismo Primitivo - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34225.mp4
+#EXTINF:-1,Patrick: Aprendendo a Amar - 2018
+http://pdsrv.io:25461/movie/jacare/jacare/34226.mp4
+#EXTINF:-1,Brexit - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34227.mp4
+#EXTINF:-1,Vai que Cola 2: O Começo - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34228.mp4
+#EXTINF:-1,Sobrevivendo às Festas com os Parentes - 2018
+http://pdsrv.io:25461/movie/jacare/jacare/34229.mp4
+#EXTINF:-1,Os Batutinhas: Uma Nova Aventura - 2014
+http://pdsrv.io:25461/movie/jacare/jacare/34240.mp4
+#EXTINF:-1,O Juramento - Pledge - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34241.mp4
+#EXTINF:-1,Mamãe, Virei Um Peixe! - 2000
+http://pdsrv.io:25461/movie/jacare/jacare/34242.mp4
+#EXTINF:-1,Isolados - 2018
+http://pdsrv.io:25461/movie/jacare/jacare/34243.mp4
+#EXTINF:-1,Ela Disse, Ele Disse - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34244.mp4
+#EXTINF:-1,Kung Fu Panda: Secrets of the Masters - 2011
+http://pdsrv.io:25461/movie/jacare/jacare/34245.mp4
+#EXTINF:-1,O Grande Anjo Negro - 1990
+http://pdsrv.io:25461/movie/jacare/jacare/34246.mp4
+#EXTINF:-1,Wing Chun - Uma Luta Milenar - 1994
+http://pdsrv.io:25461/movie/jacare/jacare/34247.mp4
+#EXTINF:-1,Tekken 2 - A Vingança de Kazuya - 2014
+http://pdsrv.io:25461/movie/jacare/jacare/34248.mp4
+#EXTINF:-1,Malèna - 2000
+http://pdsrv.io:25461/movie/jacare/jacare/19589.mp4
+#EXTINF:-1,Irmão Urso - 2003
+http://pdsrv.io:25461/movie/jacare/jacare/34249.mp4
+#EXTINF:-1,Garotas Procuram... - 2001
+http://pdsrv.io:25461/movie/jacare/jacare/34250.mp4
+#EXTINF:-1,Legalidade - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34251.mp4
+#EXTINF:-1,Depois da Escuridão (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34256.mp4
+#EXTINF:-1,Inferno na Fronteira (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34258.mp4
+#EXTINF:-1,Dois Papas (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34259.mp4
+#EXTINF:-1,Justiça em Chamas (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34261.mp4
+#EXTINF:-1,Os Aeronautas (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34262.mp4
+#EXTINF:-1,Vingança a Sangue Frio (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34263.mp4
+#EXTINF:-1,Hellboy (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34269.mp4
+#EXTINF:-1,Dragon Ball Super: Broly (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34386.mp4
+#EXTINF:-1,Zumbilândia: Atire Duas Vezes (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34388.mp4
+#EXTINF:-1,Godzilla II: Rei dos Monstros (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34393.mp4
+#EXTINF:-1,A Mulher do Meu Marido (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34394.mp4
+#EXTINF:-1,A Maratona de Brittany (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34395.mp4
+#EXTINF:-1,Cinzas de Vingança (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34396.mp4
+#EXTINF:-1,Descobrindo a Vida (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34397.mp4
+#EXTINF:-1,As Loucuras de Rose (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34398.mp4
+#EXTINF:-1,Corações Batendo Alto (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34400.mp4
+#EXTINF:-1,Mamãe saiu de férias (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34402.mp4
+#EXTINF:-1,O Aplicativo (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34403.mp4
+#EXTINF:-1,Os Condenados (2007)
+http://pdsrv.io:25461/movie/jacare/jacare/34422.mp4
+#EXTINF:-1,Dumbo - 2019
+http://pdsrv.io:25461/movie/jacare/jacare/34423.mp4
+#EXTINF:-1,A Família Buscapé (1993)
+http://pdsrv.io:25461/movie/jacare/jacare/34424.mp4
+#EXTINF:-1,Coraline e o Mundo Secreto (2009)
+http://pdsrv.io:25461/movie/jacare/jacare/34425.mp4
+#EXTINF:-1,Atividade Paranormal 4 (2012)
+http://pdsrv.io:25461/movie/jacare/jacare/34426.mp4
+#EXTINF:-1,BBB20 HD
+http://pdsrv.io:25461/live/jacare/jacare/34427.m3u8
+#EXTINF:-1,BBB20 SD
+http://pdsrv.io:25461/live/jacare/jacare/34428.m3u8
+#EXTINF:-1,RECORD MARANHAO HD
+http://pdsrv.io:25461/live/jacare/jacare/34429.m3u8
+#EXTINF:-1,GLOBO TV RIO SUL HD
+http://pdsrv.io:25461/live/jacare/jacare/34430.m3u8
+#EXTINF:-1,GLOBO MANAUS HD
+http://pdsrv.io:25461/live/jacare/jacare/34431.m3u8
+#EXTINF:-1,Minha Fama de Mau (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34432.mp4
+#EXTINF:-1,Anna e o Apocalipse (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34433.mp4
+#EXTINF:-1,Ouro Negro (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34434.mp4
+#EXTINF:-1,Starfish - Vozes e Segredos (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34435.mp4
+#EXTINF:-1,Comemoração Sangrenta (2016)
+http://pdsrv.io:25461/movie/jacare/jacare/34436.mp4
+#EXTINF:-1,Anjo Perdido (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34437.mp4
+#EXTINF:-1,Animais Fantásticos: Os Crimes de Grindelwald (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34444.mp4
+#EXTINF:-1,KIM
+http://pdsrv.io:25461/movie/jacare/jacare/19587.mp4
+#EXTINF:-1,MCQ
+http://pdsrv.io:25461/movie/jacare/jacare/19588.mp4
+#EXTINF:-1,Medidas Extremas
+http://pdsrv.io:25461/movie/jacare/jacare/19591.mp4
+#EXTINF:-1,Motivo Justo
+http://pdsrv.io:25461/movie/jacare/jacare/19592.mp4
+#EXTINF:-1,Maskara
+http://pdsrv.io:25461/movie/jacare/jacare/19590.mp4
+#EXTINF:-1,Na Riqueza E Na Pobreza
+http://pdsrv.io:25461/movie/jacare/jacare/19593.mp4
+#EXTINF:-1,O Calhambeque Mágico
+http://pdsrv.io:25461/movie/jacare/jacare/19594.mp4
+#EXTINF:-1,O Diabo Veste Azul
+http://pdsrv.io:25461/movie/jacare/jacare/19595.mp4
+#EXTINF:-1,O Dono Do Pedaço The Super
+http://pdsrv.io:25461/movie/jacare/jacare/19596.mp4
+#EXTINF:-1,O Hábito Não Faz O Monge
+http://pdsrv.io:25461/movie/jacare/jacare/19597.mp4
+#EXTINF:-1,Possuidos
+http://pdsrv.io:25461/movie/jacare/jacare/19603.mp4
+#EXTINF:-1,Tin Cup O Jogo Da Paixao
+http://pdsrv.io:25461/movie/jacare/jacare/19607.mp4
+#EXTINF:-1,Justica Selvagem
+http://pdsrv.io:25461/movie/jacare/jacare/19586.mp4
+#EXTINF:-1,American Anima
+http://pdsrv.io:25461/movie/jacare/jacare/19609.mp4
+#EXTINF:-1,Arizo
+http://pdsrv.io:25461/movie/jacare/jacare/19610.mp4
+#EXTINF:-1,Blue World Orde
+http://pdsrv.io:25461/movie/jacare/jacare/19612.mp4
+#EXTINF:-1,Bok Clu
+http://pdsrv.io:25461/movie/jacare/jacare/19613.mp4
+#EXTINF:-1,Breing In
+http://pdsrv.io:25461/movie/jacare/jacare/19614.mp4
+#EXTINF:-1,Circs Kan
+http://pdsrv.io:25461/movie/jacare/jacare/19615.mp4
+#EXTINF:-1,Deadpool 2
+http://pdsrv.io:25461/movie/jacare/jacare/19616.mp4
+#EXTINF:-1,Gds Ot Ded A Ligt In Dar
+http://pdsrv.io:25461/movie/jacare/jacare/19617.mp4
+#EXTINF:-1,Legend O
+http://pdsrv.io:25461/movie/jacare/jacare/19618.mp4
+#EXTINF:-1,Midnight Su
+http://pdsrv.io:25461/movie/jacare/jacare/19619.mp4
+#EXTINF:-1,Mison Impossie Fall
+http://pdsrv.io:25461/movie/jacare/jacare/19620.mp4
+#EXTINF:-1,Night
+http://pdsrv.io:25461/movie/jacare/jacare/19621.mp4
+#EXTINF:-1,Occupati
+http://pdsrv.io:25461/movie/jacare/jacare/19622.mp4
+#EXTINF:-1,Over
+http://pdsrv.io:25461/movie/jacare/jacare/19623.mp4
+#EXTINF:-1,SicA Ia O Soldad
+http://pdsrv.io:25461/movie/jacare/jacare/19624.mp4
+#EXTINF:-1,Templ
+http://pdsrv.io:25461/movie/jacare/jacare/19625.mp4
+#EXTINF:-1,The Heal
+http://pdsrv.io:25461/movie/jacare/jacare/19626.mp4
+#EXTINF:-1,The R
+http://pdsrv.io:25461/movie/jacare/jacare/19627.mp4
+#EXTINF:-1,Upgrad
+http://pdsrv.io:25461/movie/jacare/jacare/19628.mp4
+#EXTINF:-1,Ad Match
+http://pdsrv.io:25461/movie/jacare/jacare/19629.mp4
+#EXTINF:-1,Iron Man
+http://pdsrv.io:25461/movie/jacare/jacare/19879.mp4
+#EXTINF:-1,10x10
+http://pdsrv.io:25461/movie/jacare/jacare/19608.mp4
+#EXTINF:-1,Os Vingadores
+http://pdsrv.io:25461/movie/jacare/jacare/19887.mp4
+#EXTINF:-1,Vingadores - Era De Ultron
+http://pdsrv.io:25461/movie/jacare/jacare/19890.mp4
+#EXTINF:-1,Jogada Final
+http://pdsrv.io:25461/movie/jacare/jacare/23274.mp4
+#EXTINF:-1,Polar
+http://pdsrv.io:25461/movie/jacare/jacare/23283.mp4
+#EXTINF:-1,Mazzaropi: A Banda Das Velhas Virgens
+http://pdsrv.io:25461/movie/jacare/jacare/25135.mp4
+#EXTINF:-1,Mazzaropi: As Aventuras De Pedro Malasartes
+http://pdsrv.io:25461/movie/jacare/jacare/25197.mp4
+#EXTINF:-1,Mazzaropi: Betão Ronca Ferro
+http://pdsrv.io:25461/movie/jacare/jacare/25198.mp4
+#EXTINF:-1,Mazzaropi: A Carrocinha
+http://pdsrv.io:25461/movie/jacare/jacare/25199.mp4
+#EXTINF:-1,Mazzaropi: Casinha Pequenina
+http://pdsrv.io:25461/movie/jacare/jacare/25200.mp4
+#EXTINF:-1,Mazzaropi: Chico Fumaça
+http://pdsrv.io:25461/movie/jacare/jacare/25201.mp4
+#EXTINF:-1,Mazzaropi: Chofer De Praça
+http://pdsrv.io:25461/movie/jacare/jacare/25268.mp4
+#EXTINF:-1,Mazzaropi: Fuzileiro Do Amor
+http://pdsrv.io:25461/movie/jacare/jacare/25269.mp4
+#EXTINF:-1,Mazzaropi: Jeca Contra O Capeta
+http://pdsrv.io:25461/movie/jacare/jacare/25270.mp4
+#EXTINF:-1,Mazzaropi: Jeca Tatu
+http://pdsrv.io:25461/movie/jacare/jacare/25271.mp4
+#EXTINF:-1,007- A Serviço Secreto De Sua Majestade
+http://pdsrv.io:25461/movie/jacare/jacare/25384.mp4
+#EXTINF:-1,007 - Casino Royale
+http://pdsrv.io:25461/movie/jacare/jacare/25385.mp4
+#EXTINF:-1,007 - Com 007 Só Se Vive Duas Vezes
+http://pdsrv.io:25461/movie/jacare/jacare/25386.mp4
+#EXTINF:-1,007 - Com 007 Viva E Deixe Morrer
+http://pdsrv.io:25461/movie/jacare/jacare/25387.mp4
+#EXTINF:-1,007 - Contra A Chantagem Atômica
+http://pdsrv.io:25461/movie/jacare/jacare/25388.mp4
+#EXTINF:-1,Mazzaropi: Jecão    Um Fofoqueiro No Céu
+http://pdsrv.io:25461/movie/jacare/jacare/25398.mp4
+#EXTINF:-1,Mazzaropi: Meu Japão Brasileiro
+http://pdsrv.io:25461/movie/jacare/jacare/25399.mp4
+#EXTINF:-1,Mazzaropi: Nadando Em Dinheiro
+http://pdsrv.io:25461/movie/jacare/jacare/25400.mp4
+#EXTINF:-1,Mazzaropi: No Paraíso Das Solteironas
+http://pdsrv.io:25461/movie/jacare/jacare/25401.mp4
+#EXTINF:-1,Mazzaropi: O Cineasta Das Platéias
+http://pdsrv.io:25461/movie/jacare/jacare/25403.mp4
+#EXTINF:-1,Mazzaropi: O Corintiano
+http://pdsrv.io:25461/movie/jacare/jacare/25404.mp4
+#EXTINF:-1,Mazzaropi: O Gato De Madame
+http://pdsrv.io:25461/movie/jacare/jacare/25405.mp4
+#EXTINF:-1,Captain Marvel
+http://pdsrv.io:25461/movie/jacare/jacare/25451.mkv
+#EXTINF:-1,Histórias De Uma Vida
+http://pdsrv.io:25461/movie/jacare/jacare/25538.mp4
+#EXTINF:-1,Iron Man 3
+http://pdsrv.io:25461/movie/jacare/jacare/19313.mkv
+#EXTINF:-1,A Espada Do Imortal
+http://pdsrv.io:25461/movie/jacare/jacare/19512.mp4
+#EXTINF:-1,A Hora Do Espanto
+http://pdsrv.io:25461/movie/jacare/jacare/19513.mp4
+#EXTINF:-1,A Ilha
+http://pdsrv.io:25461/movie/jacare/jacare/19514.mp4
+#EXTINF:-1,A Inundação
+http://pdsrv.io:25461/movie/jacare/jacare/19515.mp4
+#EXTINF:-1,A Origem Do Dragão
+http://pdsrv.io:25461/movie/jacare/jacare/19516.mp4
+#EXTINF:-1,Antes Que Eu Vá
+http://pdsrv.io:25461/movie/jacare/jacare/19518.mp4
+#EXTINF:-1,As Torres Gemeas 
+http://pdsrv.io:25461/movie/jacare/jacare/19519.mp4
+#EXTINF:-1,Aterrorizados
+http://pdsrv.io:25461/movie/jacare/jacare/19520.mp4
+#EXTINF:-1,Atração Obsessiva
+http://pdsrv.io:25461/movie/jacare/jacare/19521.mp4
+#EXTINF:-1,Beijar E Chorar
+http://pdsrv.io:25461/movie/jacare/jacare/19522.mp4
+#EXTINF:-1,Boneco De Neve
+http://pdsrv.io:25461/movie/jacare/jacare/19523.mp4
+#EXTINF:-1,Cabana Macabra
+http://pdsrv.io:25461/movie/jacare/jacare/19524.mp4
+#EXTINF:-1,Cloverfield - A Partícula De Deus
+http://pdsrv.io:25461/movie/jacare/jacare/19525.mp4
+#EXTINF:-1,Cloverfield - Monstro
+http://pdsrv.io:25461/movie/jacare/jacare/19526.mp4
+#EXTINF:-1,Colega De Quarto
+http://pdsrv.io:25461/movie/jacare/jacare/19527.mp4
+#EXTINF:-1,Comboio Furioso
+http://pdsrv.io:25461/movie/jacare/jacare/19528.mp4
+#EXTINF:-1,Crimes Na Madrugada
+http://pdsrv.io:25461/movie/jacare/jacare/19529.mp4
+#EXTINF:-1,Entre Sombras
+http://pdsrv.io:25461/movie/jacare/jacare/19530.mp4
+#EXTINF:-1,Eu Só Posso Imaginar
+http://pdsrv.io:25461/movie/jacare/jacare/19531.mp4
+#EXTINF:-1,Herança De Sangue
+http://pdsrv.io:25461/movie/jacare/jacare/19533.mp4
+#EXTINF:-1,Jogo Duro
+http://pdsrv.io:25461/movie/jacare/jacare/19534.mp4
+#EXTINF:-1,Jovens Bruxas
+http://pdsrv.io:25461/movie/jacare/jacare/19535.mp4
+#EXTINF:-1,Las Leyes De La Termodinamica
+http://pdsrv.io:25461/movie/jacare/jacare/19536.mp4
+#EXTINF:-1,Liga Dos Deuses
+http://pdsrv.io:25461/movie/jacare/jacare/19537.mp4
+#EXTINF:-1,Loucuras Em Familia
+http://pdsrv.io:25461/movie/jacare/jacare/19538.mp4
+#EXTINF:-1,No Rastro Da Bala
+http://pdsrv.io:25461/movie/jacare/jacare/19539.mp4
+#EXTINF:-1,O Afogamento
+http://pdsrv.io:25461/movie/jacare/jacare/19540.mp4
+#EXTINF:-1,O Enigma Dos Diamantes
+http://pdsrv.io:25461/movie/jacare/jacare/19542.mp4
+#EXTINF:-1,O Poder E OImpossivel
+http://pdsrv.io:25461/movie/jacare/jacare/19543.mp4
+#EXTINF:-1,O Som
+http://pdsrv.io:25461/movie/jacare/jacare/19544.mp4
+#EXTINF:-1,Os Crimes De Limehouse
+http://pdsrv.io:25461/movie/jacare/jacare/19545.mp4
+#EXTINF:-1,Pai Em Dose Dupla
+http://pdsrv.io:25461/movie/jacare/jacare/19546.mp4
+#EXTINF:-1,Perfeita é A Mãe 2
+http://pdsrv.io:25461/movie/jacare/jacare/19547.mp4
+#EXTINF:-1,Permissão
+http://pdsrv.io:25461/movie/jacare/jacare/19548.mp4
+#EXTINF:-1,Plano B
+http://pdsrv.io:25461/movie/jacare/jacare/19549.mp4
+#EXTINF:-1,Quando Nos Conhecemos
+http://pdsrv.io:25461/movie/jacare/jacare/19551.mp4
+#EXTINF:-1,Renascida Do Inferno
+http://pdsrv.io:25461/movie/jacare/jacare/19552.mp4
+#EXTINF:-1,Sierra Burgess Is Z Loser
+http://pdsrv.io:25461/movie/jacare/jacare/19553.mp4
+#EXTINF:-1,Skyline Além Do Horizonte
+http://pdsrv.io:25461/movie/jacare/jacare/19554.mp4
+#EXTINF:-1,Trem Da Morte
+http://pdsrv.io:25461/movie/jacare/jacare/19555.mp4
+#EXTINF:-1,Triplo X 2 - Estado De Emergencia
+http://pdsrv.io:25461/movie/jacare/jacare/19556.mp4
+#EXTINF:-1,Triplo X 3 - Reativado
+http://pdsrv.io:25461/movie/jacare/jacare/19557.mp4
+#EXTINF:-1,Um Crime De Mestre
+http://pdsrv.io:25461/movie/jacare/jacare/19558.mp4
+#EXTINF:-1,Verônica
+http://pdsrv.io:25461/movie/jacare/jacare/19559.mp4
+#EXTINF:-1,Um Maluco Perdido No Espaço
+http://pdsrv.io:25461/movie/jacare/jacare/19560.mkv
+#EXTINF:-1,A Era Do Radio
+http://pdsrv.io:25461/movie/jacare/jacare/19561.mkv
+#EXTINF:-1,A Historia De Nos Dois
+http://pdsrv.io:25461/movie/jacare/jacare/19562.mkv
+#EXTINF:-1,A Volta Por Cima
+http://pdsrv.io:25461/movie/jacare/jacare/19563.mkv
+#EXTINF:-1,Alí Babá E Os 40 Ladrões
+http://pdsrv.io:25461/movie/jacare/jacare/19564.mkv
+#EXTINF:-1,Analyze That
+http://pdsrv.io:25461/movie/jacare/jacare/19565.mkv
+#EXTINF:-1,Analyze This
+http://pdsrv.io:25461/movie/jacare/jacare/19566.mkv
+#EXTINF:-1,Atraida Pelo Perigo
+http://pdsrv.io:25461/movie/jacare/jacare/19567.mkv
+#EXTINF:-1,Colcha De Retalhos
+http://pdsrv.io:25461/movie/jacare/jacare/19568.mkv
+#EXTINF:-1,Dennis O Pimentinha SBT
+http://pdsrv.io:25461/movie/jacare/jacare/19569.mkv
+#EXTINF:-1,Dennis O Pimentinha
+http://pdsrv.io:25461/movie/jacare/jacare/19570.mkv
+#EXTINF:-1,Embalos De Sábado Continuam
+http://pdsrv.io:25461/movie/jacare/jacare/19571.mkv
+#EXTINF:-1,Entre A Loura E A Ruiva
+http://pdsrv.io:25461/movie/jacare/jacare/19572.mkv
+#EXTINF:-1,Estrelas Do Kung Fu
+http://pdsrv.io:25461/movie/jacare/jacare/19573.mkv
+#EXTINF:-1,Estrelas Do Kung Fu2
+http://pdsrv.io:25461/movie/jacare/jacare/19574.mkv
+#EXTINF:-1,Evolver 
+http://pdsrv.io:25461/movie/jacare/jacare/19575.mkv
+#EXTINF:-1,Filme 1 - Rocky - O Lutador
+http://pdsrv.io:25461/movie/jacare/jacare/19576.mkv
+#EXTINF:-1,Filme 3 - Rocky 3 - O Desafio Supremo
+http://pdsrv.io:25461/movie/jacare/jacare/19577.mkv
+#EXTINF:-1,G00n13s 
+http://pdsrv.io:25461/movie/jacare/jacare/19578.mkv
+#EXTINF:-1,Garota Interrompida
+http://pdsrv.io:25461/movie/jacare/jacare/19579.mkv
+#EXTINF:-1,Ghost Town - Um Espirito Atras De Mim
+http://pdsrv.io:25461/movie/jacare/jacare/19580.mkv
+#EXTINF:-1,GhostB
+http://pdsrv.io:25461/movie/jacare/jacare/19581.mkv
+#EXTINF:-1,GhostB2
+http://pdsrv.io:25461/movie/jacare/jacare/19582.mkv
+#EXTINF:-1,Heide
+http://pdsrv.io:25461/movie/jacare/jacare/19583.mkv
+#EXTINF:-1,Jasão E O Velo De Ouro
+http://pdsrv.io:25461/movie/jacare/jacare/19584.mkv
+#EXTINF:-1,Jovens Demais Para Morrer
+http://pdsrv.io:25461/movie/jacare/jacare/19585.mkv
+#EXTINF:-1,Mazzaropi: O Candinho
+http://pdsrv.io:25461/movie/jacare/jacare/25402.mp4
+#EXTINF:-1,007 - Contra GoldenEye
+http://pdsrv.io:25461/movie/jacare/jacare/25545.mkv
+#EXTINF:-1,007 - Contra Goldfinger
+http://pdsrv.io:25461/movie/jacare/jacare/25546.mkv
+#EXTINF:-1,007 - Contra Octopussy
+http://pdsrv.io:25461/movie/jacare/jacare/25547.mkv
+#EXTINF:-1,007 - Contra O Foguete Da Morte
+http://pdsrv.io:25461/movie/jacare/jacare/25548.mkv
+#EXTINF:-1,007 - Contra O Homem Com A Pistola De Ouro
+http://pdsrv.io:25461/movie/jacare/jacare/25549.mkv
+#EXTINF:-1,007 - Contra O Satânico Dr  No
+http://pdsrv.io:25461/movie/jacare/jacare/25550.mkv
+#EXTINF:-1,Festeja
+http://pdsrv.io:25461/movie/jacare/jacare/25819.mkv
+#EXTINF:-1,Lucas Lucco O Destino
+http://pdsrv.io:25461/movie/jacare/jacare/25820.mp4
+#EXTINF:-1,Marília Mendonça
+http://pdsrv.io:25461/movie/jacare/jacare/25821.mp4
+#EXTINF:-1,Simone E Simaria - Bar Das Coleguinhas
+http://pdsrv.io:25461/movie/jacare/jacare/25822.mp4
+#EXTINF:-1,Mazzaropi: O Grande Xerife
+http://pdsrv.io:25461/movie/jacare/jacare/25824.mp4
+#EXTINF:-1,Mazzaropi: O Jeca E A Freira
+http://pdsrv.io:25461/movie/jacare/jacare/25825.mp4
+#EXTINF:-1,Mazzaropi: O Jeca E A Égua Milagrosa
+http://pdsrv.io:25461/movie/jacare/jacare/25826.mp4
+#EXTINF:-1,Mazzaropi: Jeca E Seu Filho Preto
+http://pdsrv.io:25461/movie/jacare/jacare/25827.mp4
+#EXTINF:-1,Mazzaropi: O Jeca Macumbeiro
+http://pdsrv.io:25461/movie/jacare/jacare/25828.mp4
+#EXTINF:-1,Mazzaropi: O Lamparina
+http://pdsrv.io:25461/movie/jacare/jacare/25829.mp4
+#EXTINF:-1,Mazzaropi: O Noivo Da Girafa
+http://pdsrv.io:25461/movie/jacare/jacare/25830.mp4
+#EXTINF:-1,Mazzaropi: O Puritano Da Rua Augusta
+http://pdsrv.io:25461/movie/jacare/jacare/25831.mp4
+#EXTINF:-1,Mazzaropi: O Vendedor De Linguiça
+http://pdsrv.io:25461/movie/jacare/jacare/25832.mp4
+#EXTINF:-1,Mazzaropi: Portugal    Minha Saudade
+http://pdsrv.io:25461/movie/jacare/jacare/25833.mp4
+#EXTINF:-1,007 Contra Spectre
+http://pdsrv.io:25461/movie/jacare/jacare/31238.mp4
+#EXTINF:-1,007- Operação Skyfall
+http://pdsrv.io:25461/movie/jacare/jacare/31244.mkv
+#EXTINF:-1,B.O. (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34463.mp4
+#EXTINF:-1,O Lar das Crianças Peculiares (2016)
+http://pdsrv.io:25461/movie/jacare/jacare/34464.mp4
+#EXTINF:-1,Projeto Gemini (2019 DUB)
+http://pdsrv.io:25461/movie/jacare/jacare/34465.mp4
+#EXTINF:-1,Viva - A Vida é uma Festa (2017)
+http://pdsrv.io:25461/movie/jacare/jacare/34466.mp4
+#EXTINF:-1,O Herdeiro das Drogas (2020)
+http://pdsrv.io:25461/movie/jacare/jacare/34469.mp4
+#EXTINF:-1,Uglydolls (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34471.mp4
+#EXTINF:-1,Batman: O Cavaleiro das Trevas (2008)
+http://pdsrv.io:25461/movie/jacare/jacare/34472.mp4
+#EXTINF:-1,Tara Maldita (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34473.mp4
+#EXTINF:-1,Viver Duas Vezes (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34474.mp4
+#EXTINF:-1,Pais Muito Loucos (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34475.mp4
+#EXTINF:-1,Malévola: Dona do Mal (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34476.mp4
+#EXTINF:-1,Táxi 5 (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34477.mp4
+#EXTINF:-1,Abominável (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34478.mp4
+#EXTINF:-1,A Namorada do Meu Irmão (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34491.mp4
+#EXTINF:-1,Poderes Extraordinários (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34492.mp4
+#EXTINF:-1,Frozen 2 (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34493.mp4
+#EXTINF:-1,O Exterminador do Futuro: Destino Sombrio (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34494.mp4
+#EXTINF:-1,Jumanji: Próxima Fase (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34495.mp4
+#EXTINF:-1,TVIDEONESWS
+http://pdsrv.io:25461/live/jacare/jacare/34496.m3u8
+#EXTINF:-1,Brooklyn - Sem Pai Nem Mãe (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34497.mp4
+#EXTINF:-1,Gato Sórdido (2016)
+http://pdsrv.io:25461/movie/jacare/jacare/34498.mp4
+#EXTINF:-1,Mistério na Venda de Garagem: Morte na Praia (2017)
+http://pdsrv.io:25461/movie/jacare/jacare/34499.mp4
+#EXTINF:-1,Depois do Casamento (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34500.mp4
+#EXTINF:-1,Star Wars: Os Últimos Jedi (2017)
+http://pdsrv.io:25461/movie/jacare/jacare/34501.mp4
+#EXTINF:-1,Dia de Trabalho Mortal (2016)
+http://pdsrv.io:25461/movie/jacare/jacare/34502.mp4
+#EXTINF:-1,Jeremiah Terminator LeRoy (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34503.mp4
+#EXTINF:-1,Era Uma Vez em… Hollywood (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34504.mp4
+#EXTINF:-1,Arranha-Céu: Coragem Sem Limite (2018)
+http://pdsrv.io:25461/movie/jacare/jacare/34505.mp4
+#EXTINF:-1,Logan Lucky - Roubo em Família (2017)
+http://pdsrv.io:25461/movie/jacare/jacare/34506.mp4
+#EXTINF:-1,Ad Astra - Rumo às Estrelas (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34507.mp4
+#EXTINF:-1,O Pintassilgo (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34508.mp4
+#EXTINF:-1,Uma Noite de Crime: Anarquia (2014)
+http://pdsrv.io:25461/movie/jacare/jacare/34509.mp4
+#EXTINF:-1,Star Wars: O Despertar da Força (2015)
+http://pdsrv.io:25461/movie/jacare/jacare/34510.mp4
+#EXTINF:-1,Ma (2019)
+http://pdsrv.io:25461/movie/jacare/jacare/34511.mp4
+#EXTINF:-1,Mudbound - Lágrimas Sobre o Mississipi (2017)
+http://pdsrv.io:25461/movie/jacare/jacare/34512.mp4
+#EXTINF:-1,O Legado Bourne (2012)
+http://pdsrv.io:25461/movie/jacare/jacare/34513.mp4
+#EXTINF:-1,Jason Bourne (2016)
+http://pdsrv.io:25461/movie/jacare/jacare/34514.mp4
+#EXTINF:-1,O Ultimato Bourne (2007)
+http://pdsrv.io:25461/movie/jacare/jacare/34515.mp4
